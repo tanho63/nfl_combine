@@ -33,7 +33,7 @@ scrape_combine <- function(season){
 }
 
 x <- tibble::tibble(
-  season = 2014:2022 |> as.character()
+  season = 2008:2022 |> as.character()
 ) |>
   dplyr::mutate(
     data = purrr::map(season,scrape_combine)
@@ -46,7 +46,7 @@ ngs_scores <- x |>
   select(year,
          id,
          player_name = display_name,
-         pos = position_group,
+         pos = position,
          draft_projection,
          athleticism_score,
          size_score,
@@ -59,7 +59,7 @@ scout_grades <- x |>
   select(year,
          id,
          player_name = display_name,
-         pos = position_group,
+         pos = position,
          draft_projection,
          grade,
          profile_author,
