@@ -1,4 +1,9 @@
-library(tidyverse)
+library(dplyr)
+library(tidyr)
+library(purrr)
+library(tibble)
+library(nflreadr)
+library(janitor)
 library(httr)
 library(jsonlite)
 
@@ -33,7 +38,7 @@ scrape_combine <- function(season){
 }
 
 x <- tibble::tibble(
-  season = 2008:2022 |> as.character()
+  season = 2008:2024 |> as.character()
 ) |>
   dplyr::mutate(
     data = purrr::map(season,scrape_combine)
