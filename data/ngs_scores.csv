@@ -7458,8 +7458,8 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2025,3ea425e1-f7de-44e4-aaea-3c643fd2dd2b,Abdul Carter,EDGE,,83.03,,94.86,90.49
 2025,fa2e7b56-fdb6-4e43-bf3b-efea2872df66,Aeneas Peebles,DT,,67.92,,66.38,65.98
 2025,ba052617-d981-4dc0-bcc9-16a7e8989c57,Ahmed Hassanein,EDGE,,72.5,,69.09,66.51
-2025,a20cd563-052a-48a3-a836-5c469f2276c7,Aireontae Ersery,OT,,88.72,,74.96,80.12
-2025,864ef599-e575-46ec-b56d-3e1cfb9b520c,Ajani Cornelius,OT,,,,68.54,73.63
+2025,a20cd563-052a-48a3-a836-5c469f2276c7,Aireontae Ersery,OT,,86.6,,74.96,79.59
+2025,864ef599-e575-46ec-b56d-3e1cfb9b520c,Ajani Cornelius,OT,,77.77,,68.54,73.82
 2025,7e499959-edb0-4e35-a263-92d877beaf54,Alfred Collins,DT,,59.59,,74.36,72.69
 2025,adbd07c1-f987-4f67-828d-e48757506aff,Alijah Clark,SAF,,68.32,,58.88,60.52
 2025,8fd56e1f-999c-4c32-8194-672b36faf2b2,Alijah Huzzie,CB,,62.73,,65.45,64.31
@@ -7470,7 +7470,7 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2025,a9882101-63a3-4ea5-83ee-d99087ddcb9e,Antwane Wells Jr.,WR,,65.17,,66.8,65.73
 2025,77d854ee-5c3d-4a30-b8ce-37629ca58ddb,Antwaun Powell-Ryland,EDGE,,76.51,,80.17,75.68
 2025,da77da98-1784-4457-90b1-cdb9011f4b1a,Arian Smith,WR,,84.11,,61.98,69.76
-2025,23885a41-5a13-45d8-af81-ed889489634d,Armand Membou,OT,,91.06,,83.51,84.33
+2025,23885a41-5a13-45d8-af81-ed889489634d,Armand Membou,OT,,94.47,,83.51,85.18
 2025,9fbff3ef-7777-458b-85ee-3e6a9bb6c8da,Ashton Gillotte,EDGE,,76.4,,71.67,72.18
 2025,1a8bad47-d1b0-4ec3-8bdd-f65063617614,Ashton Jeanty,RB,,83.18,,98.29,94.87
 2025,8e37b503-6b4a-43b6-add7-51c8b211e659,Azareye'h Thomas,CB,,67.37,,73.07,75.32
@@ -7487,7 +7487,7 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2025,1b45e5c7-02b8-4d08-a4aa-e9279966ac20,Brady Cook,QB,,,,65.13,67.9
 2025,90912e76-d795-4d4e-b7b1-145dfd57bce8,Bradyn Swinson,EDGE,,68.82,,72.11,69.37
 2025,927095fa-f627-46fa-bed7-1782d42eceac,Brandon Crenshaw-Dickson,OT,,53.98,,65.95,60.87
-2025,de6ff8c0-c4a3-45e6-bd9d-1262f173ec03,Branson Taylor,OT,,,,61.87,65.2
+2025,de6ff8c0-c4a3-45e6-bd9d-1262f173ec03,Branson Taylor,OT,,68.62,,61.87,66.02
 2025,10d293b7-5e2e-448a-8563-ec6f1ab3cbf4,Brant Kuithe,TE,,71.49,,75.06,72.75
 2025,cbef8ed4-e9ab-4fb5-80a8-f5ca5be2ef2a,Brashard Smith,RB,,74.62,,74.36,73.67
 2025,54036084-773e-4146-8e4a-7d313be56890,Bru McCoy,WR,,70.01,,58.82,64.34
@@ -7500,16 +7500,16 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2025,ce542ddd-366b-4496-b6f2-0a8620a06df7,Cam Jackson,DT,,51,,59.66,58.79
 2025,92c320fc-e7d3-4c47-8e33-d2a3d1cec5a8,Cam Skattebo,RB,,72.52,,93.34,87.72
 2025,1f1333b1-478c-4bba-8dfa-3d8cd9864631,Cam Ward,QB,,,,85.35,81.71
-2025,a5318bc5-1c6a-4c3d-8efd-b382a6b35d7b,Cameron Williams,OT,,,,71.36,73.85
+2025,a5318bc5-1c6a-4c3d-8efd-b382a6b35d7b,Cameron Williams,OT,,67.72,,71.36,73.73
 2025,59f5ca4a-8bb9-4857-8142-0d12e23766e3,Carson Bruener,LB,,71.65,,63.87,68.26
 2025,1853aaac-2e63-483a-8ac9-1a753d1eacf5,Carson Schwesinger,LB,,77.52,,80.99,81.26
 2025,cad9ca89-7ff4-487f-af33-671bdb6364c2,Carson Vinson,OT,,84.54,,64.04,71.42
 2025,c2624260-db60-4f31-941b-282484ab897f,Chandler Martin,LB,,,,,
-2025,c61042f4-5711-45d3-9891-8d7162d8729b,Charles Grant,OT,,,,85.81,78.09
-2025,8698c065-ad71-49a8-b76f-0351d1538a58,Chase Lundt,OT,,,,64.15,68.83
+2025,c61042f4-5711-45d3-9891-8d7162d8729b,Charles Grant,OT,,82.05,,85.81,79.84
+2025,8698c065-ad71-49a8-b76f-0351d1538a58,Chase Lundt,OT,,65.89,,64.15,68.61
 2025,d4f1d637-37a5-4c28-9ccd-2b4bcb394c84,Chimere Dike,WR,,87.2,,60.42,71.05
 2025,1b34ea2d-c3bc-4cf4-a2f4-19ff2634cf3e,Chris Paul Jr.,LB,,72.31,,70.75,71.95
-2025,538e8bfd-1733-4375-b2aa-05d9f3eac6d9,Clay Webb,C,,65.68,,81.59,71.49
+2025,538e8bfd-1733-4375-b2aa-05d9f3eac6d9,Clay Webb,C,,68.09,,81.59,73.03
 2025,ed6f89e1-0d42-4ad5-b7ce-8213da8bf13d,Cobee Bryant,CB,,57.23,,76.69,69.28
 2025,d26b9922-2b08-4680-ba59-439123f57bd9,Cody Lindenberg,LB,,74.42,,60.88,67.88
 2025,5fa409cc-f23f-4f6f-9941-6e46a5ea1658,Cody Simon,LB,,78.65,,65.71,71.67
@@ -7537,10 +7537,10 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2025,8ec5e6af-a67e-459e-8a16-7da38a01e210,Dominic Lovett,WR,,73.11,,64.88,71.41
 2025,3d025511-4847-443c-a236-3cb8270ce5b5,Donovan Edwards,RB,,91.75,,54.39,66.71
 2025,9bc4b812-54f7-4ddc-897b-ad57db640da9,Donovan Ezeiruaku,EDGE,,83.57,,86.75,82.73
-2025,c1c09849-457e-40cb-8c36-fff058aa1279,Donovan Jackson,G,,,,72.95,83.78
+2025,c1c09849-457e-40cb-8c36-fff058aa1279,Donovan Jackson,G,,95.89,,72.95,83.54
 2025,60c59e68-6039-4e4d-856a-8c0fb5ac0f2e,Dont'e Thornton Jr.,WR,,89.27,,62.49,71.72
 2025,c48e5593-9430-4a76-9aef-246847d88ec3,Dorian Strong,CB,,58.55,,62.16,65.28
-2025,be7b4e88-f370-4331-a9ee-cd00ec2c2cd7,Drew Kendall,C,,86.72,,65.52,72.23
+2025,be7b4e88-f370-4331-a9ee-cd00ec2c2cd7,Drew Kendall,C,,85.24,,65.52,71.86
 2025,b0b303a9-748b-4c58-9daf-dbe831b81a72,Dylan Fairchild,G,,95.97,,72.79,79.46
 2025,f1e0af75-fc6e-4fc7-9c81-fab1f7feaeb2,Dylan Sampson,RB,,76.09,,77.98,80.07
 2025,e8af3d8c-a9fd-4543-be06-a0b3760e94d9,Eli Cox,C,,87.13,,58.91,66.43
@@ -7550,20 +7550,20 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2025,4f89ad88-f36f-42d4-88fe-b2183de4493f,Elijah Simmons,DT,,62.84,,51.72,56.9
 2025,f060cb67-b5a2-44a1-9eb5-0e472f71b8e2,Elijhah Badger,WR,,76.03,,67.89,73.18
 2025,7ae027f7-a70a-4a52-88fc-c168ebc83ba7,Emeka Egbuka,WR,,74.53,,77.99,81.82
-2025,5156c9fc-6eba-4439-8347-95322cb52bc7,Emery Jones Jr.,OT,,,,60.75,72.07
+2025,5156c9fc-6eba-4439-8347-95322cb52bc7,Emery Jones Jr.,OT,,83.44,,60.75,74.15
 2025,943b3c07-314a-4b7c-9939-e97a13004648,Eric Gregory,DT,,68.44,,59.88,60.9
 2025,84aa632b-13b5-456c-8afa-a48fd69991a9,Ethan Downs,EDGE,,75.94,,57.92,63.47
 2025,96dcfd65-5691-4ee4-bbb1-187e0c440e4f,Eugene Asante,LB,,85.64,,61.72,70.83
 2025,be8e187d-2565-45a6-a615-8e973271d6dc,Fadil Diggs,EDGE,,75.67,,64.87,66.07
 2025,d1f1fb47-1f06-46b3-b42c-3a9159de6f23,Francisco Mauigoa,LB,,75.04,,65.48,68.05
-2025,2b96fb5d-327f-4769-944a-5eb13a7abcdb,Garrett Dellinger,G,,,,70.32,75.1
+2025,2b96fb5d-327f-4769-944a-5eb13a7abcdb,Garrett Dellinger,G,,93.36,,70.32,74.52
 2025,cda959c4-30cf-4419-8a08-e5d79e8f3668,Gavin Bartholomew,TE,,66.51,,67.29,68.26
 2025,cd35233a-ea10-46a3-8f89-cdb6928f6e46,Graham Mertz,QB,,,,57.34,63.49
-2025,9af141d9-27ef-477b-9cda-e05cebe075e7,Grey Zabel,OT,,87.35,,90.64,86.34
+2025,9af141d9-27ef-477b-9cda-e05cebe075e7,Grey Zabel,OT,,88.51,,90.64,86.63
 2025,b2ffba9e-fe98-4580-b567-d9a712cb987b,Gunnar Helm,TE,,53.38,,80,72.85
 2025,8866ae4b-d153-4785-ad9f-ec2bcd907e62,Harold Fannin Jr.,TE,,75.95,,90.09,84.02
 2025,8ea85253-2f0c-4ac2-ad65-11d09e8e617b,Hayden Conner,G,,67.44,,59.4,58.17
-2025,6c5d94d6-f779-4a76-adbe-cf949941299e,Hollin Pierce,OT,,,,59.79,67.15
+2025,6c5d94d6-f779-4a76-adbe-cf949941299e,Hollin Pierce,OT,,68.36,,59.79,69.29
 2025,ef55eb55-9060-43cc-b348-297ff548b269,Howard Cross III,DT,,68.59,,72.14,70.65
 2025,01d53718-1569-4240-8a4d-2aa0fdb4ee33,Hunter Wohler,SAF,,77.4,,63.77,66.91
 2025,6ed2fde7-46cc-4db3-9992-dd990d8a98fa,Isaac TeSlaa,WR,,96.27,,52.88,69.55
@@ -7577,10 +7577,10 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2025,a4ac5e9d-ae07-4bb2-990b-beda6c82f093,Jabbar Muhammad,CB,,51,,63.89,59.3
 2025,40a600cd-455d-46bf-b329-66c9ce71c50f,Jack Bech,WR,,72.84,,68.33,75.06
 2025,7b53f66d-e96a-4c6c-92d7-750130d27b3b,Jack Kiser,LB,,71.7,,64.87,68.28
-2025,d68e90d3-9bf3-4c46-9e71-3685afdf4b97,Jack Nelson,OT,,,,63.67,69.73
+2025,d68e90d3-9bf3-4c46-9e71-3685afdf4b97,Jack Nelson,OT,,78.44,,63.67,70.86
 2025,5a65795a-63fe-4f05-aa39-d418ab5ad060,Jack Sawyer,EDGE,,76.43,,74.07,75.99
 2025,bce013a5-a098-44ae-b617-089546b1e3de,Jackson Hawes,TE,,70.33,,63.19,68.63
-2025,dbd7086c-7176-4769-8d41-7b2a95c468ca,Jackson Slater,G,,94.06,,71.59,76.22
+2025,dbd7086c-7176-4769-8d41-7b2a95c468ca,Jackson Slater,G,,95.86,,71.59,77.63
 2025,7f453324-0bc6-4278-b71d-a56be4f61f35,Jackson Woodard,LB,,78.75,,69.95,72.11
 2025,1516ff0f-8daf-4a5a-a95c-d4adae8eb7b4,Jacob Parrish,CB,,90.1,,68.37,77.22
 2025,f02ec415-b1fe-4a2d-b30b-7dd5f0d78d8d,Jacolby George,WR,,72.21,,66.53,67.1
@@ -7588,12 +7588,12 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2025,17a83ae3-745d-4d27-b022-02ef84ea70d3,Jahdae Barron,CB,,82.16,,93.7,90.13
 2025,63bf73bd-2105-4f10-8181-d777d18871ae,Jahvaree Ritzie,DT,,83.04,,61.28,67.37
 2025,44e32c42-9e3a-4c6c-9921-0f7391a42134,Jake Briningstool,TE,,62.1,,70.4,70.46
-2025,1a74b880-5179-48cd-9eab-d3bf3cef4658,Jake Majors,C,,,,59.35,66.36
+2025,1a74b880-5179-48cd-9eab-d3bf3cef4658,Jake Majors,C,,75.14,,59.35,66.29
 2025,76133d5f-c876-4596-a74d-c1760baa30a5,Jalen McLeod,LB,,73.61,,61.65,67.55
 2025,e8228ada-df68-4d4f-b45d-ad590fa6d402,Jalen Milroe,QB,,,,74.64,77.32
-2025,d5a35286-ead1-4a6d-9a6e-4635d1bef205,Jalen Rivers,OT,,68.25,,66.51,70.97
+2025,d5a35286-ead1-4a6d-9a6e-4635d1bef205,Jalen Rivers,OT,,67.99,,66.51,70.91
 2025,04c538dd-2e19-4cbb-92fd-4f416c6a36d3,Jalen Royals,WR,,83.54,,75.89,81.81
-2025,c9ba6d17-48dd-478c-a777-5d24b77bbbf9,Jalen Travis,OT,,88.56,,60.46,71.77
+2025,c9ba6d17-48dd-478c-a777-5d24b77bbbf9,Jalen Travis,OT,,86.91,,60.46,71.37
 2025,ebd8ba03-4bb3-4a71-881b-27c06fe72f7a,Jalin Conyers,TE,,82.17,,68.76,73.31
 2025,e28e3360-9428-4990-ae0d-453c4da3cfff,Jalon Walker,LB,,83.85,,70.71,80.19
 2025,c5921e10-6588-4c2a-84d6-3c79d965e26d,Jamaree Caldwell,DT,,55.45,,64.72,64.39
@@ -7620,8 +7620,8 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2025,d3daf6fc-9c32-41d0-801d-8fc27631adb8,Jihaad Campbell,LB,,82.45,,77.62,82.2
 2025,a9167e29-c4b3-4571-b330-91e3be1ef411,Jimmy Horn Jr.,WR,,68.07,,57.72,57.37
 2025,e7ef860a-1323-4f54-a25f-0230d773d4c4,Joe Huber,G,,69.85,,63.28,63.91
-2025,c38ba635-9b88-4831-ab78-4279f3c6125a,John Williams,G,,76.87,,66.98,69.22
-2025,39e063dc-f14b-449c-bfbb-9d05597c06c5,Jonah Monheim,C,,,,68.59,70.51
+2025,c38ba635-9b88-4831-ab78-4279f3c6125a,John Williams,G,,78.05,,66.98,69.6
+2025,39e063dc-f14b-449c-bfbb-9d05597c06c5,Jonah Monheim,C,,71.99,,68.59,70.55
 2025,e445fee5-f022-4a07-a9b6-290c4e2535f3,Jonah Savaiinaea,OT,,84.04,,66.31,75.66
 2025,223ef512-82f6-4d70-b6b4-312394833308,Jonas Sanker,SAF,,78.95,,70.52,71.4
 2025,46e1cae1-502d-4287-81aa-6f382cfa7299,Jordan Burch,EDGE,,77.45,,70.1,73.26
@@ -7632,7 +7632,7 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2025,bcb5a4a8-509f-4520-828a-a62013dedb9c,Josaiah Stewart,EDGE,,74.08,,80.86,76.16
 2025,65b7d47f-f342-4f1c-ba00-60906d88a00f,Josh Conerly Jr.,OT,,85.36,,78.42,81
 2025,d221e927-ed37-458e-8cd6-936fd585bb32,Josh Kelly,WR,,55.31,,68.54,60.56
-2025,00c1a520-a8f6-47c3-911b-ebb1a9fe0817,Josh Simmons,OT,,,,76,77.92
+2025,00c1a520-a8f6-47c3-911b-ebb1a9fe0817,Josh Simmons,OT,,76.28,,76,77.45
 2025,fb6878a1-0fd6-4edc-8798-89dc63b3795c,Joshua Farmer,DT,,69.06,,68.39,69.41
 2025,c1583a1c-6cec-4592-bc27-bd3e05e1224f,Joshua Gray,G,,80.66,,72.41,75.87
 2025,2249eb49-2115-4265-bff9-7dbb31eb544b,Joshua Simon,TE,,71.68,,73.6,70.83
@@ -7661,8 +7661,8 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2025,cbf0a477-4295-4400-864d-e8688f7c6af0,Landon Jackson,EDGE,,86.05,,71.95,77.71
 2025,34fd4ffc-91d1-4d8d-a425-09296b61f28c,Lathan Ransom,SAF,,73.44,,66.04,73.4
 2025,371ea380-ff96-420f-9aa9-4e4d3bcc740f,LeQuint Allen,RB,,66.12,,60.22,65.99
-2025,7e3fb4d1-34a5-481c-8022-546d1b0195c2,Logan Brown,OT,,85.38,,70.47,72.83
-2025,d2a5140c-d869-4008-a150-3d0c9ed499e4,Luke Kandra,G,,,,76.86,74.93
+2025,7e3fb4d1-34a5-481c-8022-546d1b0195c2,Logan Brown,OT,,86.07,,70.47,73
+2025,d2a5140c-d869-4008-a150-3d0c9ed499e4,Luke Kandra,G,,75.48,,76.86,75.79
 2025,b654c38f-38c2-4df3-b59b-7ffe465cae7e,Luke Lachey,TE,,62.82,,62.14,64.73
 2025,010b7bdc-0f4a-45fd-8395-a8165fad9328,Luther Burden III,WR,,79.31,,78.39,85.25
 2025,95e95317-3ae6-4765-b3a0-dbdf48d9489d,Mac McWilliams,CB,,73.15,,63.16,67.63
@@ -7671,7 +7671,7 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2025,bfe98569-f7ad-40f1-89fe-458bcf430d4c,Malik Verdon,SAF,,68.51,,63.36,61.88
 2025,b1dea483-0c5e-42b7-bc7f-3b2bed7b4bb5,Marcus Harris,CB,,72.48,,62.36,66.05
 2025,c438bb9f-8baa-41a2-8486-f248589fc2e9,Marcus Mbow,G,,72.61,,69.8,74.15
-2025,5f479d3c-a37b-4be4-89f4-26f74fbd2b65,Marcus Tate,G,,,,60.86,65.98
+2025,5f479d3c-a37b-4be4-89f4-26f74fbd2b65,Marcus Tate,G,,76.55,,60.86,65.54
 2025,cec5c8ab-7688-4d29-ab13-7887d57f7e1d,Marcus Yarns,RB,,79.96,,69.76,75.07
 2025,270d1a88-733e-49ae-86fb-e09679a99053,Marques Sigle,SAF,,83.5,,70.77,71.16
 2025,9cf6cc25-56f4-4771-97e9-4379ff9f20da,Mason Graham,DT,,77.21,,92.69,85.27
@@ -7682,7 +7682,7 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2025,ebbcc9ea-f1e9-4697-861a-8ba07832c689,Maxwell Hairston,CB,,81.52,,73.11,77.71
 2025,e07585f8-9e62-4f76-a090-97a20001511c,Mello Dotson,CB,,63.86,,69.92,68.17
 2025,44e80a1e-911a-4a0f-b233-32701ffd8154,Mike Green,EDGE,,75.31,,77.12,79.08
-2025,0cb0bf8d-92af-4d23-97f5-3fd243d3790c,Miles Frazier,G,,79.98,,66.86,72.78
+2025,0cb0bf8d-92af-4d23-97f5-3fd243d3790c,Miles Frazier,G,,78.97,,66.86,72.79
 2025,ed235c5d-3507-4ba2-96cf-7085618a95ad,Mitchell Evans,TE,,73.61,,69.93,72.69
 2025,9ad95b19-59a9-4af9-bfa9-78b9c4d2dce7,Moliki Matavao,TE,,66.95,,61.56,67.39
 2025,cc2b32dc-489a-4314-920a-5a668936cfd1,Montrell Johnson Jr.,RB,,78,,51.58,62.13
@@ -7700,7 +7700,7 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2025,6504fc3c-6d7c-4dbc-9c5d-6e5967e73f4b,Omarion Hampton,RB,,82.29,,83.76,85.16
 2025,c0ab6316-20ca-4503-a43e-33dc6d0adaa6,Omarr Norman-Lott,DT,,79.09,,67.22,71.9
 2025,b84266f6-4309-4ddf-9ce4-e96cafd5c1e2,Oronde Gadsden II,TE,,77.04,,78.09,76.22
-2025,b21fc11c-afff-4896-af0a-c381d848b0b8,Ozzy Trapilo,OT,,74.93,,64.35,72.95
+2025,b21fc11c-afff-4896-af0a-c381d848b0b8,Ozzy Trapilo,OT,,74.65,,64.35,72.88
 2025,7046b225-d884-45d2-9b52-99c38b2af76f,Pat Bryant,WR,,68.14,,70.77,70.75
 2025,ed2331e2-6890-4c9f-9624-e0f26cb8ca39,Payton Page,DT,,75.63,,58.15,62.73
 2025,b75f337d-3895-40e0-9034-01730f03fd9e,Phil Mafah,RB,,64.29,,54.8,60.69
@@ -7727,7 +7727,7 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2025,6b92fc81-e639-417c-a8c0-4341d901fd14,Sean Martin,EDGE,,68.84,,53.29,61.1
 2025,cb304e97-ba80-40b0-9dba-104282f51edf,Sebastian Castro,SAF,,61.66,,72.65,67.55
 2025,c1763fa5-35a3-4206-a092-5c40a3ebbed8,Seth Henigan,QB,,,,68.58,68.41
-2025,4a7e0fb9-55f0-4f5a-867f-82abbfe3c075,Seth McLaughlin,C,,,,73.11,72.13
+2025,4a7e0fb9-55f0-4f5a-867f-82abbfe3c075,Seth McLaughlin,C,,73.91,,73.11,73.02
 2025,f564929a-a26c-44f8-8607-aac9e73a4d77,Shavon Revel Jr.,CB,,88.83,,76.17,83.83
 2025,315ed005-aa14-4de5-86a6-007d7e90217d,Shedeur Sanders,QB,,,,87.49,79.86
 2025,346f1e70-5aca-40dd-a286-efc85bd135f3,Shemar James,LB,,62.91,,60.31,61.08
@@ -7762,7 +7762,7 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2025,aa509760-99bc-46ff-9d06-24703a8ae9cb,Tyleik Williams,DT,,76.5,,80.28,80.23
 2025,bb2fe6cb-cfae-455f-b35a-f5d9c217b299,Tyler Baron,EDGE,,74.15,,68.28,69.5
 2025,c2549046-9c0f-4a65-9d0a-ea1bebf7b6af,Tyler Batty,EDGE,,76.34,,62.14,67.17
-2025,fa2e3ecf-f3f5-48fb-b4fb-30d4a0e38bdc,Tyler Booker,G,,57.88,,81.03,75.76
+2025,fa2e3ecf-f3f5-48fb-b4fb-30d4a0e38bdc,Tyler Booker,G,,56.36,,81.03,75.44
 2025,11d13911-3ceb-4c32-8b26-b5c5ab3c80d0,Tyler Loop,K,,,,,
 2025,fb133f30-35f9-49c5-b6bc-7ddbdd474157,Tyler Shough,QB,,,,58.27,66.39
 2025,972ed997-e5c7-4ed1-8f39-7107fb2ccba9,Tyler Warren,TE,,85.28,,97.86,92.36
