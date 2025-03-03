@@ -8,19 +8,21 @@ library(httr)
 library(jsonlite)
 
 scrape_combine <- function(season){
-  
+
   headers = c(
-    `User-Agent` = 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:99.0) Gecko/20100101 Firefox/99.0',
-    `Accept` = '*/*',
-    `Accept-Language` = 'en-US,en;q=0.5',
-    `Accept-Encoding` = 'gzip, deflate, br',
-    `Referer` = 'https://www.nfl.com/',
-    `Authorization` = 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjbGllbnRJZCI6ImU1MzVjN2MwLTgxN2YtNDc3Ni04OTkwLTU2NTU2ZjhiMTkyOCIsImNsaWVudEtleSI6IjRjRlVXNkRtd0pwelQ5TDdMckczcVJBY0FCRzVzMDRnIiwiaXNzIjoiTkZMIiwiZGV2aWNlSWQiOiI3MDhkZWQ0YS1jM2RmLTQ1ZGUtYTQxYy1mZjFkMzIwMzRiYzIiLCJwbGFucyI6W3sicGxhbiI6ImZyZWUiLCJleHBpcmF0aW9uRGF0ZSI6IjIwMjUtMDMtMzEiLCJzb3VyY2UiOiJORkwiLCJzdGFydERhdGUiOiIyMDI0LTAzLTMxIiwic3RhdHVzIjoiQUNUSVZFIiwidHJpYWwiOmZhbHNlfV0sIkRpc3BsYXlOYW1lIjoiV0VCX0RFU0tUT1BfREVTS1RPUCIsIk5vdGVzIjoiIiwiZm9ybUZhY3RvciI6IkRFU0tUT1AiLCJsdXJhQXBwS2V5IjoiU1pzNTdkQkdSeGJMNzI4bFZwN0RZUSIsInBsYXRmb3JtIjoiREVTS1RPUCIsInByb2R1Y3ROYW1lIjoiV0VCIiwiY2l0eSI6ImdvcmRvbiBwYXJrIiwiY291bnRyeUNvZGUiOiJBVSIsImRtYUNvZGUiOiIzNjMwNSIsImhtYVRlYW1zIjpbIjEwNDAyNTEwLTg5MzEtMGQ1Zi05ODE1LTc5YmI3OTY0OWE2NSIsIjEwNDAzNzAwLWI5MzktM2NiZC0zZDE2LTI0ZDRkNjc0MmZhMiJdLCJyZWdpb24iOiJRTEQiLCJicm93c2VyIjoiQ2hyb21lIiwiY2VsbHVsYXIiOmZhbHNlLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJyb2xlcyI6WyJmcmVlIl0sImV4cCI6MTcxMTg4Mzg2OH0.STS3hXsk4DwtfNZtVbv43ERoLLOACUO-wPwpKmAvjw0',
-    `Origin` = 'https://www.nfl.com',
-    `Connection` = 'keep-alive',
-    `Sec-Fetch-Dest` = 'empty',
-    `Sec-Fetch-Mode` = 'cors',
-    `Sec-Fetch-Site` = 'same-site'
+    `User-Agent` = "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0",
+    Accept = "*/*",
+    `Accept-Language` = "en-CA,en-US;q=0.7,en;q=0.3",
+    `Accept-Encoding` = "gzip, deflate, br, zstd",
+    Referer = "https://www.nfl.com/",
+    Authorization = "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjbGllbnRJZCI6ImU1MzVjN2MwLTgxN2YtNDc3Ni04OTkwLTU2NTU2ZjhiMTkyOCIsImNsaWVudEtleSI6IjRjRlVXNkRtd0pwelQ5TDdMckczcVJBY0FCRzVzMDRnIiwiZGV2aWNlSWQiOiJmOTMxYWFiZi1iZWFjLTRlZjEtYmMzNC0wNTIxOThkOGZlYzEiLCJpc3MiOiJORkwiLCJwbGFucyI6W3sicGxhbiI6ImZyZWUiLCJleHBpcmF0aW9uRGF0ZSI6IjIwMjYtMDMtMDMiLCJzb3VyY2UiOiJORkwiLCJzdGFydERhdGUiOiIyMDI1LTAzLTAzIiwic3RhdHVzIjoiQUNUSVZFIiwidHJpYWwiOmZhbHNlfV0sIkRpc3BsYXlOYW1lIjoiV0VCX0RFU0tUT1BfREVTS1RPUCIsIk5vdGVzIjoiIiwiZm9ybUZhY3RvciI6IkRFU0tUT1AiLCJsdXJhQXBwS2V5IjoiU1pzNTdkQkdSeGJMNzI4bFZwN0RZUSIsInBsYXRmb3JtIjoiREVTS1RPUCIsInByb2R1Y3ROYW1lIjoiV0VCIiwicm9sZXMiOlsiY29udGVudCIsImV4cGVyaWVuY2UiLCJmb290YmFsbCIsInV0aWxpdGllcyIsInRlYW1zIiwicGxheSIsImxpdmUiLCJpZGVudGl0eSIsIm5nc19zdGF0cyIsInBheW1lbnRzX2FwaSIsIm5nc190cmFja2luZyIsIm5nc19wbGF0Zm9ybSIsIm5nc19jb250ZW50IiwibmdzX2NvbWJpbmUiLCJuZ3NfYWR2YW5jZWRfc3RhdHMiLCJuZmxfcHJvIiwiZWNvbW0iLCJuZmxfaWRfYXBpIiwidXRpbGl0aWVzX2xvY2F0aW9uIiwiaWRlbnRpdHlfb2lkYyIsIm5nc19zc2UiLCJhY2NvdW50cyIsImZyZWUiXSwibmV0d29ya1R5cGUiOiJvdGhlciIsImNpdHkiOiJvdHRhd2EiLCJjb3VudHJ5Q29kZSI6IkNBIiwiZG1hQ29kZSI6IjEyNDUwNSIsImhtYVRlYW1zIjpbIjEwNDAxNTQwLWY5N2MtMmQxOS02ZmNkLWZhYzY0OTBhNDhiNyIsIjEwNDAzMDAwLTU4NTEtZjlkNS1kYTQ1LTc4MzY1YTA1YjZiMCIsIjEwNDA0NjAwLWFkY2QtMjhhYy01ODI2LWI0ZDk1ZWMyYTIyOCJdLCJyZWdpb24iOiJPTiIsInppcENvZGUiOiJrMWggN3o4IiwiYnJvd3NlciI6IkZpcmVmb3giLCJjZWxsdWxhciI6ZmFsc2UsImVudmlyb25tZW50IjoicHJvZHVjdGlvbiIsInVpZCI6ImZmYzhkZDgxZjliZWIwZTg1Zjk4ZWFlODE0MjBjZGExIiwiZXhwIjoxNzQwOTcxMzA5fQ.ZQF0XhwEUfkv2-liZ6xTLynMc8Qyo2wSInJ9_IU259Q",
+    Origin = "https://www.nfl.com",
+    Connection = "keep-alive",
+    `Sec-Fetch-Dest` = "empty",
+    `Sec-Fetch-Mode` = "cors",
+    `Sec-Fetch-Site` = "same-site",
+    Priority = "u=4",
+    TE = "trailers"
   )
 
   params = list(
@@ -39,7 +41,7 @@ scrape_combine <- function(season){
 }
 
 x <- tibble::tibble(
-  season = 2008:2024 |> as.character()
+  season = 2008:2025 |> as.character()
 ) |>
   dplyr::mutate(
     data = purrr::map(season,scrape_combine)
