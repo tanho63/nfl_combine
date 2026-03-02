@@ -2411,11 +2411,11 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2014,32194c4f-5712-5680-10d5-261b5e9d5414,Daytawion Lowe,FS,Priority free agent,,,,
 2014,32195448-4f09-5665-2ec7-1e2e24294c99,De'Anthony Thomas,RB,Rounds 2-3,58.98,57.0745,74.01,69.37
 2014,32194c41-5467-9045-3061-8edba466cba5,DeDe Lattimore,ILB,Round 7-Priority free agent,,,,
+2014,32194c41-5728-2118-edab-498f27240b6f,DeMarcus Lawrence,DE,Rounds 1-2,56.22,68.0772,86.4,78.33
 2014,32194655-5261-7740-4cfe-5283d8bb1a47,DeRon Furr,SS,,,,,
 2014,3219434f-4c24-0969-4fda-694c1b2c075b,Deandre Coleman,DT,Rounds 3-4,65.83,85.41,59.36,60.65
 2014,3219464f-5211-3166-d7f9-33e1998aa90b,Dee Ford,DE,Rounds 4-5,78.69,62.9583,74.6,77.33
 2014,32194245-4c80-8821-fe8c-072c0c69b2ad,Deion Belue,CB,Rounds 6-7,51.18,60.2869,52.52,51.42
-2014,32194c41-5728-2118-edab-498f27240b6f,Demarcus Lawrence,DE,Rounds 1-2,56.22,68.0772,86.4,78.33
 2014,3219474f-4f57-1007-c515-32573e101c35,Demetri Goodson,CB,Priority free agent,67.64,73.9228,50.92,58.29
 2014,32195248-4144-4955-2064-af88ad306aaa,Demetrius Rhaney,C,,,,,
 2014,3219414c-4c09-9471-a9d6-e90731b39d30,Denicos Allen,OLB,,,,,
@@ -3246,8 +3246,8 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2016,32194a4f-4e18-8523-7c89-f25eabe340bc,Cyrus Jones,CB,,71.84,71.2221,62.51,69.9
 2016,3219464f-5319-9981-38eb-7acc9e425a3f,D.J. Foster,WR,,82.18,66.1385,62.15,68.38
 2016,32195045-5474-2114-ef98-f8e05d9ea29a,D.J. Pettway,DE,,51,64.713,50.29,50.82
-2016,32195245-4114-8116-e0aa-521c3fdaafdb,D.J. Reader,NT,,60.66,77.9475,52.51,59.3
 2016,32195748-4915-1510-f1ab-ab95ebd08a21,D.J. White,CB,,63.21,72.465,69.88,69.52
+2016,32195245-4114-8116-e0aa-521c3fdaafdb,DJ Reader,NT,,60.66,77.9475,52.51,59.3
 2016,32194e49-4378-0920-33e5-b8ef5ea2f62c,Dadi Nicolas,DE,,69.6,85.2315,56.64,62.64
 2016,32195052-4528-5723-d1b2-96e92ebc1241,Dak Prescott,QB,,75.6,77.3041,73.15,76.42
 2016,32194252-4169-4296-ee8a-3950d53fffe9,Daniel Braverman,WR,Rounds 4 or 5,,,,
@@ -3655,7 +3655,7 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2017,3219524f-5514-3143-5837-2bad2a8bdd7e,Chase Roullier,C,,68.35,71.92,60.53,66.3
 2017,32194157-5580-0920-d33d-9451c81f6cbb,Chidobe Awuzie,CB,,82.38,75.0857,84.75,83.98
 2017,32194341-5256-8144-487d-eff74f49df34,Chris Carson,RB,,76.7,78.6934,60.43,62.11
-2017,3219474f-4454-9393-6eec-24189dd66641,Chris Godwin,WR,,93.41,76.1298,76.72,82.69
+2017,3219474f-4454-9393-6eec-24189dd66641,Chris Godwin Jr.,WR,,93.41,76.1298,76.72,82.69
 2017,3219574f-5264-5302-4b3c-cd49024f87a2,Chris Wormley,DE,,63.24,81.4437,82.8,75.11
 2017,32194252-4f34-2369-22d2-2f52b17ed7e8,Christian Brown,DT,,,,,
 2017,32194d43-4303-5988-790d-0077d6a4692b,Christian McCaffrey,RB,,86.17,71.8918,96.36,95.13
@@ -4099,7 +4099,7 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2018,32195048-4912-5951-834c-7c3042ac2b51,Cam Phillips,WR,PFA,51,70.4435,66.47,54.87
 2018,32195345-5241-0040-3003-53e3b2d8b932,Cam Serigne,TE,Priority Free Agent,,,,
 2018,32195349-4d66-7389-635d-47b12e2ab8b9,Cam Sims,WR,PFA,,,,
-2018,32194441-5622-0184-ef7c-ffcde714e0af,Carlton Davis,CB,Round 2,62.21,85.9884,77.11,75.28
+2018,32194441-5622-0184-ef7c-ffcde714e0af,Carlton Davis III,CB,Round 2,62.21,85.9884,77.11,75.28
 2018,32194455-4e51-2956-449a-218aafc998df,Casey Dunn,C,,,,,
 2018,3219434f-4c52-1089-711e-d12abb23bb08,Cayson Collins,LB,,,,,
 2018,32195749-4c65-6498-c69c-d263ba915a14,Cedrick Wilson Jr.,WR,Rounds 4-5,70.7,78.2953,82.32,74.17
@@ -4254,7 +4254,7 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2018,32195345-4e03-8161-455f-959805637012,Greg Senat,OT,Round 7/PFA,56.94,78.1794,52.45,57.58
 2018,32195354-5259-4753-cde7-9099420754cf,Greg Stroman,CB,Round 7/PFA,51,63.5031,60.25,56.2
 2018,32194544-5747-1180-daba-c0c892edc0c8,Gus Edwards,RB,PFA,,,,
-2018,32194c41-4e15-9704-c65c-9a07b28af620,Harold Landry,EDGE,Round 1,91.4,63.6744,82.36,85.02
+2018,32194c41-4e15-9704-c65c-9a07b28af620,Harold Landry III,EDGE,Round 1,91.4,63.6744,82.36,85.02
 2018,32195048-4921-5142-5ef5-133a36dda72f,Harrison Phillips,DT,Round 3,80.34,77.7374,87.62,85.11
 2018,32194144-4132-8123-3c86-d7f6b18e7c67,Haston Adams,DT,Priority free agent,,,,
 2018,32194855-5249-5014-7c57-e10d2c41fe87,Hayden Hurst,TE,Round 1,74.31,74.965,70.35,78.24
@@ -5043,7 +5043,7 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2019,32194641-4e40-5165-5070-db7e36dbc0d7,Noah Fant,TE,Round 1,90.77,76.0304,80.59,88.93
 2019,32194d55-5256-3541-f9f0-85333f87c531,Nyqwan Murray,WR,Priority free agent,51,70.2498,59.31,53.08
 2019,32195a41-4313-3180-ba01-ae8103314fa2,Olamide Zaccheaus,WR,Priority free agent,,,,
-2019,32195544-4f48-9451-1839-5671f0b17981,Oli Udoh,T,Round 6,81.25,83.7839,59.45,71.6
+2019,32195544-4f48-9451-1839-5671f0b17981,Olisaemeka Udoh,T,Round 6,81.25,83.7839,59.45,71.6
 2019,32195341-4703-4607-2785-8e6e16175667,Olive Sagapolu,DT,Priority free agent,,,,
 2019,32195849-4d30-8281-ff5a-2f0f08abb7f2,Oshane Ximines,EDGE,Rounds 3-4,61.24,67.6817,77.57,70.76
 2019,3219414c-4138-5627-e834-0fe364ff6fd6,Otaro Alaka,LB,Priority free agent,68.4,81.4051,60.76,62.35
@@ -5570,7 +5570,7 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2020,32195155-4530-8806-168a-7e9ee3bd3f96,Patrick Queen,LB,Round 1,83.95,65.3755,90.77,87.42
 2020,32195441-5961-0553-917c-3a56e5a4c26c,Patrick Taylor,RB,Rounds 6-7,69.88,83.0449,56.89,58.9
 2020,3219594f-5544-4415-292e-8b6b0ea5c2b2,Perry Young,LB,Undrafted free agent,,,,
-2020,32194755-4557-9681-5e3d-81fdd9ca979d,Pete Guerrerio,RB,,,,,
+2020,32194755-4557-9681-5e3d-81fdd9ca979d,Pete Guerriero,RB,,,,,
 2020,3219524f-4267-8228-3366-13e70c1c688d,Prince Robinson,CB,Priority free agent,,,,
 2020,32195741-4e53-2090-9e0a-56f56bf22fa9,Prince Tega Wanogho,T,Rounds 3-4,81.53,75.7883,72.05,75.88
 2020,32195348-4556-2158-8a49-6f6d8667b1f7,Qaadir Sheppard,EDGE,,68.18,67.4768,52.14,55.58
@@ -6171,7 +6171,7 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2022,f7eabbd9-3ce8-4b11-8d19-12e4bf4dc039,Braxton Jones,OT,Rounds 5-6,80.27,81.4406,78.1,76
 2022,92a1fee0-7af1-447b-94ba-312714fbc0eb,Braylon Sanders,WR,Round 6-Priority free agent,70.85,76.63,51.29,57.97
 2022,f64cc98c-2e0e-41e9-ae36-a0bb0824b87b,Breece Hall,RB,Rounds 1-2,95.59,77.0113,84.83,90.15
-2022,0adf3b78-7d9a-42b8-9907-c19c41bd6986,Brian Asamoah,LB,Rounds 3-4,76.08,67.4545,67.31,73.6
+2022,0adf3b78-7d9a-42b8-9907-c19c41bd6986,Brian Asamoah II,LB,Rounds 3-4,76.08,67.4545,67.31,73.6
 2022,89f3bbb5-9138-486c-b4ce-717e044ab380,Brian Robinson,RB,Round 3,62.42,86.1105,72.55,70.75
 2022,d1d0fb10-709f-4151-9add-932061347b06,Britain Covey,WR,Priority free agent,,,,
 2022,aa6dc28b-578a-4e3b-bed7-670fe5b922db,Brock Purdy,QB,Priority free agent,68.85,63.371,73.13,71.54
@@ -6634,10 +6634,10 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2023,d19a1872-5bb5-44e8-afe1-81ab4a6f12de,Dawand Jones,OT,Rounds 1-2,65.29,,92.2,80.28
 2023,324358cd-5b2d-47c4-afef-1bbb13af13ef,De'Von Achane,RB,Round 3,73.61,60.056,74.41,76.77
 2023,71a8aae8-8bcc-4938-9c65-61767a0cda18,DeMarcco Hellams,DB,Round 7/Priority free agent,62.44,77.7993,64.1,64.91
+2023,927b2257-178b-4bcb-a05f-9eee8735a661,DeMario Douglas,WR,Round 6,70.35,,63.93,61.82
 2023,d9de7299-45c2-4331-8985-a5e8545ba954,DeMarvion Overshown,LB,Rounds 3-4,73.64,,67.59,71.73
 2023,c24c6852-febd-4929-b2d2-b8544dbc716a,DeWayne McBride,RB,Round 4,76.87,75.6583,81.33,79.35
 2023,2f445aeb-0830-45a4-98e5-2a3b44a85603,Dee Winters,LB,Rounds 5-6,70.11,,64.42,66.13
-2023,927b2257-178b-4bcb-a05f-9eee8735a661,Demario Douglas,WR,Round 6,70.35,,63.93,61.82
 2023,31b9580d-616b-4fd2-86e7-f7a77962dd2a,Deneric Prince,RB,Round 7/Priority free agent,79.96,73.1522,54.48,62.77
 2023,2c9052dc-a7df-4570-a976-797e9d174e55,Deonte Banks,CB,Round 1,99,,72.27,85.2
 2023,fdb4c9ef-4d11-4998-8d8c-f4b7d8a4b542,Derek Parish,EDGE,Round 7/Priority free agent,,,,
@@ -6716,8 +6716,8 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2023,977904a0-c7d2-474f-be63-3e213cf28231,Jaleel McLaughlin,RB,Round 6,,,,
 2023,b67e37f0-cbad-4819-8e2f-2cb66d8470b7,Jalen Brooks,WR,Priority free agent,63.47,,50,56.04
 2023,6c7286cf-7235-40b6-9e9b-17b695e341ba,Jalen Carter,DT,Round 1,83.22,,82.46,84.7
+2023,524b4e2d-0088-42c7-8601-0dfbce20a8fc,Jalen Cropper,WR,Round 6,72.99,,72.3,72.29
 2023,ec878a47-c9d9-4ba0-8374-3606daa8515d,Jalen Graham,LB,Rounds 6-7/Priority free agent,57.31,,55.88,53.89
-2023,524b4e2d-0088-42c7-8601-0dfbce20a8fc,Jalen Moreno-Cropper,WR,Round 6,72.99,,72.3,72.29
 2023,87e3ca05-3112-4a07-8ea8-4e3064f0b94a,Jalen Redmond,DT,Rounds 5-6,88.01,,70.67,72.48
 2023,c1581a57-49ab-4e46-97c7-cf3b764683c9,Jalen Sample,WR,Priority free agent,,,,
 2023,2cf1e005-02f0-479f-a2e9-18eff02ed9f2,Jalen Wayne,WR,Round 7/Priority free agent,67.74,,64.12,66.28
@@ -6804,7 +6804,7 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2023,35d067fe-dd95-4ce8-8701-32f0fc1be6ed,Kobie Turner,DT,Rounds 5-6,,,,
 2023,d62f2753-f3d4-466d-be52-a5530fd0b8d1,Kyle Patterson,TE,Priority free agent,60.93,,63.79,64.48
 2023,01d5d7b8-a441-41d7-8d9b-08d5a1f483e9,Kyle Soelle,LB,Priority free agent,,,,
-2023,7b9dd7b0-d720-402e-babf-23e85158d3a8,Kyu Kelly,CB,Rounds 4-5,71.68,,63.95,68.87
+2023,7b9dd7b0-d720-402e-babf-23e85158d3a8,Kyu Blu Kelly,CB,Rounds 4-5,71.68,,63.95,68.87
 2023,f9f6e032-4fe4-485d-a22a-66d4e1799c6d,Lance Boykin,CB,Priority free agent,52.52,,60.79,56.06
 2023,152f5f87-a6e1-4c89-877a-ba55e2d9b694,Leonard Taylor,TE,Priority free agent,58.56,,64.83,62.88
 2023,09e22898-9ea9-40c1-a8c6-54ee81789835,Levi Bell,EDGE,Priority free agent,,,,
@@ -7455,333 +7455,775 @@ year,id,player_name,pos,draft_projection,athleticism_score,size_score,production
 2024,9c61a487-879a-416a-a7bd-f785ee817ec3,Zak Zinter,G,Round 4,72.66,,76.51,77
 2024,95361252-89f8-48e5-9e11-fcc221d97328,Zion Logue,DT,Priority free agent,56.69,,52.02,53.65
 2024,e9228861-bb00-48e0-a77c-28ea400483d8,Zion Tupuola-Fetui,EDGE,Round 6,57.86,,68.23,63.91
-2025,3ea425e1-f7de-44e4-aaea-3c643fd2dd2b,Abdul Carter,EDGE,,83.03,,94.86,90.49
-2025,fa2e7b56-fdb6-4e43-bf3b-efea2872df66,Aeneas Peebles,DT,,67.92,,66.38,65.98
-2025,ba052617-d981-4dc0-bcc9-16a7e8989c57,Ahmed Hassanein,EDGE,,72.5,,69.09,66.51
-2025,a20cd563-052a-48a3-a836-5c469f2276c7,Aireontae Ersery,OT,,86.6,,74.96,79.59
-2025,864ef599-e575-46ec-b56d-3e1cfb9b520c,Ajani Cornelius,OT,,77.77,,68.54,73.82
-2025,7e499959-edb0-4e35-a263-92d877beaf54,Alfred Collins,DT,,59.59,,74.36,72.69
-2025,adbd07c1-f987-4f67-828d-e48757506aff,Alijah Clark,SAF,,68.32,,58.88,60.52
-2025,8fd56e1f-999c-4c32-8194-672b36faf2b2,Alijah Huzzie,CB,,62.73,,65.45,64.31
-2025,bc2347b5-78ab-4134-96f8-ae36dc5fb9b8,Andres Borregales,K,,,,,
-2025,bfb8bd8e-ef15-4de0-a767-afe0267aed84,Andrew Armstrong,WR,,72.9,,69.67,68.61
-2025,4e86b3ce-245c-4dfa-835a-805c9fd3a091,Andrew Mukuba,SAF,,72.67,,71.79,74.79
-2025,83c4e654-8ef4-4ea5-abcf-f96e6ece794b,Anthony Belton,OT,,73.4,,72.58,74.51
-2025,a9882101-63a3-4ea5-83ee-d99087ddcb9e,Antwane Wells Jr.,WR,,65.17,,66.8,65.73
-2025,77d854ee-5c3d-4a30-b8ce-37629ca58ddb,Antwaun Powell-Ryland,EDGE,,76.51,,80.17,75.68
-2025,da77da98-1784-4457-90b1-cdb9011f4b1a,Arian Smith,WR,,84.11,,61.98,69.76
-2025,23885a41-5a13-45d8-af81-ed889489634d,Armand Membou,OT,,94.47,,83.51,85.18
-2025,9fbff3ef-7777-458b-85ee-3e6a9bb6c8da,Ashton Gillotte,EDGE,,76.4,,71.67,72.18
-2025,1a8bad47-d1b0-4ec3-8bdd-f65063617614,Ashton Jeanty,RB,,83.18,,98.29,94.87
-2025,8e37b503-6b4a-43b6-add7-51c8b211e659,Azareye'h Thomas,CB,,67.37,,73.07,75.32
-2025,900089c4-157d-4895-8d5c-5be6defd1556,BJ Adams,CB,,51,,55.31,55.48
-2025,d727b151-7173-4f99-ba57-74830222073a,Bam Martin-Scott,LB,,66.72,,63.53,64.76
-2025,dd78a460-9dbe-4510-8885-b6fbb9c433d8,Barrett Carter,LB,,73.44,,71.52,72.58
-2025,8f4986a2-13e7-4bfa-ba72-eb43bb04f6da,Barryn Sorrell,EDGE,,77.85,,63.7,69.11
-2025,ec51e262-e3ec-4d3e-b97c-7731eb8d86e4,Beaux Collins,WR,,69.83,,58.28,63.36
-2025,8146de60-592a-4a42-a743-26340ce0e68a,Ben Sauls,K,,,,,
-2025,16d893e5-4fdc-416a-8eaf-cda116309244,Benjamin Morrison,CB,,87.93,,79.83,82.78
-2025,fc1a8f91-3069-4be0-8baa-e20e630d7e55,Bhayshul Tuten,RB,,82.3,,72.45,78.56
-2025,89ea8a9b-22cb-4fec-bec8-77f7f8347f11,Bilhal Kone,CB,,68.32,,60.19,63.89
-2025,073da8b5-4503-4281-9610-8bdaf388593f,Billy Bowman Jr.,SAF,,73.3,,69.55,68.99
-2025,1b45e5c7-02b8-4d08-a4aa-e9279966ac20,Brady Cook,QB,,,,65.13,67.9
-2025,90912e76-d795-4d4e-b7b1-145dfd57bce8,Bradyn Swinson,EDGE,,68.82,,72.11,69.37
-2025,927095fa-f627-46fa-bed7-1782d42eceac,Brandon Crenshaw-Dickson,OT,,53.98,,65.95,60.87
-2025,de6ff8c0-c4a3-45e6-bd9d-1262f173ec03,Branson Taylor,OT,,68.62,,61.87,66.02
-2025,10d293b7-5e2e-448a-8563-ec6f1ab3cbf4,Brant Kuithe,TE,,71.49,,75.06,72.75
-2025,cbef8ed4-e9ab-4fb5-80a8-f5ca5be2ef2a,Brashard Smith,RB,,74.62,,74.36,73.67
-2025,54036084-773e-4146-8e4a-7d313be56890,Bru McCoy,WR,,70.01,,58.82,64.34
-2025,3289d418-3ca2-4091-b6f2-82ae8642dd2b,Bryson Nesbit,TE,,57.4,,66.77,66.95
-2025,a44c7c1a-e80a-443b-93ed-ae9211271d2f,CJ Dippre,TE,,85.38,,63.37,73.72
-2025,8b2a535f-723b-401a-93d4-b8fcf8b8567c,CJ West,DT,,86.01,,66.16,75
-2025,58a08939-46b6-49ae-9264-59e6c9229e00,Caleb Ransaw,CB,,92.38,,54.89,71.91
-2025,2bb1d58d-b452-4ebc-b82b-34c8d3eac3ba,Caleb Rogers,G,,91.76,,54.21,65.99
-2025,7156c05f-65a6-4afa-b46c-48583643103e,Cam Horsley,DT,,68.66,,59.42,63.39
-2025,ce542ddd-366b-4496-b6f2-0a8620a06df7,Cam Jackson,DT,,51,,59.66,58.79
-2025,92c320fc-e7d3-4c47-8e33-d2a3d1cec5a8,Cam Skattebo,RB,,72.52,,93.34,87.72
-2025,1f1333b1-478c-4bba-8dfa-3d8cd9864631,Cam Ward,QB,,,,85.35,81.71
-2025,a5318bc5-1c6a-4c3d-8efd-b382a6b35d7b,Cameron Williams,OT,,67.72,,71.36,73.73
-2025,59f5ca4a-8bb9-4857-8142-0d12e23766e3,Carson Bruener,LB,,71.65,,63.87,68.26
-2025,1853aaac-2e63-483a-8ac9-1a753d1eacf5,Carson Schwesinger,LB,,77.52,,80.99,81.26
-2025,cad9ca89-7ff4-487f-af33-671bdb6364c2,Carson Vinson,OT,,84.54,,64.04,71.42
-2025,c2624260-db60-4f31-941b-282484ab897f,Chandler Martin,LB,,,,,
-2025,c61042f4-5711-45d3-9891-8d7162d8729b,Charles Grant,OT,,82.05,,85.81,79.84
-2025,8698c065-ad71-49a8-b76f-0351d1538a58,Chase Lundt,OT,,65.89,,64.15,68.61
-2025,d4f1d637-37a5-4c28-9ccd-2b4bcb394c84,Chimere Dike,WR,,87.2,,60.42,71.05
-2025,1b34ea2d-c3bc-4cf4-a2f4-19ff2634cf3e,Chris Paul Jr.,LB,,72.31,,70.75,71.95
-2025,538e8bfd-1733-4375-b2aa-05d9f3eac6d9,Clay Webb,C,,68.09,,81.59,73.03
-2025,ed6f89e1-0d42-4ad5-b7ce-8213da8bf13d,Cobee Bryant,CB,,57.23,,76.69,69.28
-2025,d26b9922-2b08-4680-ba59-439123f57bd9,Cody Lindenberg,LB,,74.42,,60.88,67.88
-2025,5fa409cc-f23f-4f6f-9941-6e46a5ea1658,Cody Simon,LB,,78.65,,65.71,71.67
-2025,99275a2f-1096-43cc-905b-1d2111945ae0,Collin Oliver,EDGE,,79.78,,68.62,68.97
-2025,a9f8083f-ae90-4e58-8086-64f7233f1c5a,Colston Loveland,TE,,75.32,,85.57,84.03
-2025,9e9d72cc-c794-49b5-894e-43b1cae5ed18,Connor Colby,G,,81.46,,55.74,66.99
-2025,e74416ec-816e-4a2f-9360-3cad1f51a480,Corey Kiner,RB,,65.74,,57.56,61.47
-2025,0e1fa045-7066-4181-a760-28f7485c89de,Craig Woodson,SAF,,77.92,,61.65,66.86
-2025,bd1f6404-e3a3-4a10-b171-4353f3afa958,DJ Giddens,RB,,82.82,,76.75,77.93
-2025,0ad6fdac-50aa-45f7-af71-42e08832c439,Da'Quan Felton,WR,,72.76,,60.77,64.51
-2025,8a3ab67e-8aa7-44a5-87e2-3b27ea8bc822,Damien Martinez,RB,,72.06,,75.25,75.61
-2025,728e7880-0e6c-445d-b693-909b48b2d551,Daniel Jackson,WR,,54.33,,66.46,61.98
-2025,953b9cf4-646a-46f5-9c2b-be3d787cf000,Danny Stutsman,LB,,77.89,,71.52,73.6
-2025,94df2b23-3452-43e6-8e58-1893d9dd26e6,Dante Trader Jr.,SAF,,64.64,,58.87,59.42
-2025,321fceb4-a25f-4f87-a98c-a192beb723f4,Darien Porter,CB,,92.61,,65.11,79.18
-2025,237f87ad-f557-452d-a5d2-6463fb136673,Darius Alexander,DT,,78.27,,76.08,76.75
-2025,e5d7b3f3-8ab5-43dd-9ca0-ef8b3f34543c,David Walker,EDGE,,77.14,,69.46,73.86
-2025,010bac37-ef26-496a-a234-da93218b8f41,DeAndre Jules,DT,,79.02,,51.72,63.43
-2025,f30ede8d-3a5f-4439-a765-a28efab6edfe,Demetrius Knight Jr.,LB,,73.01,,71.07,73.55
-2025,cf03243e-6598-49ed-90c0-02ebad1eff83,Denzel Burke,CB,,69.71,,69.2,70.29
-2025,a24b6b07-1586-4f03-b03c-91f8f7490075,Deone Walker,DT,,58.57,,77.41,74.09
-2025,44874e90-94e1-464e-a81b-ddcc3a8dbf22,Derrick Harmon,DT,,72.92,,78.21,79.08
-2025,3bbfba02-71b4-45ce-8254-bdddeac29ad8,Devin Neal,RB,,74.2,,77.95,76.37
-2025,d5e853dd-1d63-4daa-8fda-699594a6353d,Dillon Gabriel,QB,,,,78.39,75.25
-2025,8ec5e6af-a67e-459e-8a16-7da38a01e210,Dominic Lovett,WR,,73.11,,64.88,71.41
-2025,3d025511-4847-443c-a236-3cb8270ce5b5,Donovan Edwards,RB,,91.75,,54.39,66.71
-2025,9bc4b812-54f7-4ddc-897b-ad57db640da9,Donovan Ezeiruaku,EDGE,,83.57,,86.75,82.73
-2025,c1c09849-457e-40cb-8c36-fff058aa1279,Donovan Jackson,G,,95.89,,72.95,83.54
-2025,60c59e68-6039-4e4d-856a-8c0fb5ac0f2e,Dont'e Thornton Jr.,WR,,89.27,,62.49,71.72
-2025,c48e5593-9430-4a76-9aef-246847d88ec3,Dorian Strong,CB,,58.55,,62.16,65.28
-2025,be7b4e88-f370-4331-a9ee-cd00ec2c2cd7,Drew Kendall,C,,85.24,,65.52,71.86
-2025,b0b303a9-748b-4c58-9daf-dbe831b81a72,Dylan Fairchild,G,,95.97,,72.79,79.46
-2025,f1e0af75-fc6e-4fc7-9c81-fab1f7feaeb2,Dylan Sampson,RB,,76.09,,77.98,80.07
-2025,e8af3d8c-a9fd-4543-be06-a0b3760e94d9,Eli Cox,C,,87.13,,58.91,66.43
-2025,2cd92909-8198-4030-b051-726488ccb319,Elic Ayomanor,WR,,79.5,,72.81,78.81
-2025,78f78232-4567-4622-b056-ca42b562e253,Elijah Arroyo,TE,,85.28,,73.05,79.4
-2025,050559b8-482e-4a0d-9794-aa86dbc79236,Elijah Roberts,EDGE,,75.25,,69.47,69.91
-2025,4f89ad88-f36f-42d4-88fe-b2183de4493f,Elijah Simmons,DT,,62.84,,51.72,56.9
-2025,f060cb67-b5a2-44a1-9eb5-0e472f71b8e2,Elijhah Badger,WR,,76.03,,67.89,73.18
-2025,7ae027f7-a70a-4a52-88fc-c168ebc83ba7,Emeka Egbuka,WR,,74.53,,77.99,81.82
-2025,5156c9fc-6eba-4439-8347-95322cb52bc7,Emery Jones Jr.,OT,,83.44,,60.75,74.15
-2025,943b3c07-314a-4b7c-9939-e97a13004648,Eric Gregory,DT,,68.44,,59.88,60.9
-2025,84aa632b-13b5-456c-8afa-a48fd69991a9,Ethan Downs,EDGE,,75.94,,57.92,63.47
-2025,96dcfd65-5691-4ee4-bbb1-187e0c440e4f,Eugene Asante,LB,,85.64,,61.72,70.83
-2025,be8e187d-2565-45a6-a615-8e973271d6dc,Fadil Diggs,EDGE,,75.67,,64.87,66.07
-2025,d1f1fb47-1f06-46b3-b42c-3a9159de6f23,Francisco Mauigoa,LB,,75.04,,65.48,68.05
-2025,2b96fb5d-327f-4769-944a-5eb13a7abcdb,Garrett Dellinger,G,,93.36,,70.32,74.52
-2025,cda959c4-30cf-4419-8a08-e5d79e8f3668,Gavin Bartholomew,TE,,66.51,,67.29,68.26
-2025,cd35233a-ea10-46a3-8f89-cdb6928f6e46,Graham Mertz,QB,,,,57.34,63.49
-2025,9af141d9-27ef-477b-9cda-e05cebe075e7,Grey Zabel,OT,,88.51,,90.64,86.63
-2025,b2ffba9e-fe98-4580-b567-d9a712cb987b,Gunnar Helm,TE,,53.38,,80,72.85
-2025,8866ae4b-d153-4785-ad9f-ec2bcd907e62,Harold Fannin Jr.,TE,,75.95,,90.09,84.02
-2025,8ea85253-2f0c-4ac2-ad65-11d09e8e617b,Hayden Conner,G,,67.44,,59.4,58.17
-2025,6c5d94d6-f779-4a76-adbe-cf949941299e,Hollin Pierce,OT,,68.36,,59.79,69.29
-2025,ef55eb55-9060-43cc-b348-297ff548b269,Howard Cross III,DT,,68.59,,72.14,70.65
-2025,01d53718-1569-4240-8a4d-2aa0fdb4ee33,Hunter Wohler,SAF,,77.4,,63.77,66.91
-2025,6ed2fde7-46cc-4db3-9992-dd990d8a98fa,Isaac TeSlaa,WR,,96.27,,52.88,69.55
-2025,5f779e22-a51c-4159-9ab4-7e5196a72b1e,Isaiah Bond,WR,,78.43,,64.85,75.09
-2025,9eb8604c-183f-437d-83eb-393dba0ea986,Isaiah Neyor,WR,,94.89,,64.44,74.24
-2025,7f1d7e56-fba4-4df4-8f9d-c8495c5af092,Isas Waxter,CB,,69.29,,71.06,71.37
-2025,c20777e7-f20b-4d0b-b4f8-4e5f3be06396,JJ Pegues,DT,,59.91,,67.4,65.02
-2025,42059841-b7d0-466c-8e62-d175b0a03df4,JT Tuimoloau,EDGE,,85.44,,82.24,81.16
-2025,6d1d3f50-b9cb-4b0d-a852-890db72f58e7,Ja'Corey Brooks,WR,,68.25,,68.16,67.68
-2025,fe82c23c-9065-465f-a610-ed12351f6305,Ja'Quinden Jackson,RB,,64.54,,62,62.84
-2025,a4ac5e9d-ae07-4bb2-990b-beda6c82f093,Jabbar Muhammad,CB,,51,,63.89,59.3
-2025,40a600cd-455d-46bf-b329-66c9ce71c50f,Jack Bech,WR,,72.84,,68.33,75.06
-2025,7b53f66d-e96a-4c6c-92d7-750130d27b3b,Jack Kiser,LB,,71.7,,64.87,68.28
-2025,d68e90d3-9bf3-4c46-9e71-3685afdf4b97,Jack Nelson,OT,,78.44,,63.67,70.86
-2025,5a65795a-63fe-4f05-aa39-d418ab5ad060,Jack Sawyer,EDGE,,76.43,,74.07,75.99
-2025,bce013a5-a098-44ae-b617-089546b1e3de,Jackson Hawes,TE,,70.33,,63.19,68.63
-2025,dbd7086c-7176-4769-8d41-7b2a95c468ca,Jackson Slater,G,,95.86,,71.59,77.63
-2025,7f453324-0bc6-4278-b71d-a56be4f61f35,Jackson Woodard,LB,,78.75,,69.95,72.11
-2025,1516ff0f-8daf-4a5a-a95c-d4adae8eb7b4,Jacob Parrish,CB,,90.1,,68.37,77.22
-2025,f02ec415-b1fe-4a2d-b30b-7dd5f0d78d8d,Jacolby George,WR,,72.21,,66.53,67.1
-2025,3eac5835-8a6b-4cf6-8336-07bd2bea04a2,Jah Joyner,EDGE,,67.03,,59.12,63.05
-2025,17a83ae3-745d-4d27-b022-02ef84ea70d3,Jahdae Barron,CB,,82.16,,93.7,90.13
-2025,63bf73bd-2105-4f10-8181-d777d18871ae,Jahvaree Ritzie,DT,,83.04,,61.28,67.37
-2025,44e32c42-9e3a-4c6c-9921-0f7391a42134,Jake Briningstool,TE,,62.1,,70.4,70.46
-2025,1a74b880-5179-48cd-9eab-d3bf3cef4658,Jake Majors,C,,75.14,,59.35,66.29
-2025,76133d5f-c876-4596-a74d-c1760baa30a5,Jalen McLeod,LB,,73.61,,61.65,67.55
-2025,e8228ada-df68-4d4f-b45d-ad590fa6d402,Jalen Milroe,QB,,,,74.64,77.32
-2025,d5a35286-ead1-4a6d-9a6e-4635d1bef205,Jalen Rivers,OT,,67.99,,66.51,70.91
-2025,04c538dd-2e19-4cbb-92fd-4f416c6a36d3,Jalen Royals,WR,,83.54,,75.89,81.81
-2025,c9ba6d17-48dd-478c-a777-5d24b77bbbf9,Jalen Travis,OT,,86.91,,60.46,71.37
-2025,ebd8ba03-4bb3-4a71-881b-27c06fe72f7a,Jalin Conyers,TE,,82.17,,68.76,73.31
-2025,e28e3360-9428-4990-ae0d-453c4da3cfff,Jalon Walker,LB,,83.85,,70.71,80.19
-2025,c5921e10-6588-4c2a-84d6-3c79d965e26d,Jamaree Caldwell,DT,,55.45,,64.72,64.39
-2025,2d6563e6-13e7-46cd-8197-e1bb2fc5d2dc,James Burnip,P,,,,,
-2025,c7161704-7d19-4d2b-afa6-b00e9aa37211,James Pearce Jr.,EDGE,,74.13,,81.45,80.17
-2025,40a0c82d-3143-4130-a615-6e51a4909599,Jamon Dumas-Johnson,LB,,73.78,,63.51,68.73
-2025,8891a49e-d2d3-4856-b190-def46328e140,Jared Harrison-Hunte,DT,,84.05,,68.4,70.77
-2025,ca07efb4-5d18-44d9-bc6c-2b2cac49dac5,Jared Ivey,EDGE,,86.36,,68.07,74.05
-2025,8806679b-a2f2-4608-9fd9-788074376de3,Jared Wilson,C,,97.8,,81.87,82.74
-2025,5c8e14e5-82a9-4818-8635-70dfd3f1462e,Jarquez Hunter,RB,,75.96,,71.77,72.62
-2025,75f2a8fa-481d-40e8-a175-fc576bd3f6dd,Jason Marshall Jr.,CB,,75.84,,55.86,66.72
-2025,7f978b63-5e04-4dd6-becb-30c6c50a1b6d,Jaxson Dart,QB,,,,79.57,76.36
-2025,155e932b-8192-4645-b66c-edcfd4304bac,Jay Higgins,LB,,55.33,,72.29,67.44
-2025,2accd477-c86a-400d-b846-c1f435c798a1,Jay Toia,DT,,54.11,,52.07,54.27
-2025,c008fe15-a61b-41e8-b545-67377780582d,Jayden Higgins,WR,,89.66,,77.56,82.65
-2025,bed07dcd-ff2b-4942-a550-131bafc715cd,Jaydon Blue,RB,,84.97,,70.57,74.54
-2025,444fee56-e0b0-46b3-b0bc-d9c5ff8bb5ab,Jaylen Reed,SAF,,75.11,,60.18,65.72
-2025,d9b1ca51-c4f6-4212-9e8a-40d37fe93f1e,Jaylin Lane,WR,,89.6,,64.07,74.88
-2025,4deab0a8-a960-4eb2-870f-62f7328e4ff7,Jaylin Noel,WR,,90.55,,71.28,79.89
-2025,96acf03e-4a9c-488e-b8b9-cdb1bde2ec7b,Jaylin Smith,CB,,61.05,,68.16,68.53
-2025,9888c12a-32bf-482b-a582-3169d65f4474,Jeffrey Bassa,LB,,70.83,,64.52,70.12
-2025,07637794-d7ff-4140-826d-b040d2015dde,Jeremy Crawshaw,P,,,,,
-2025,42afdd83-0967-46ec-b6ac-d826f35af424,Jermari Harris,CB,,65.3,,60.73,66.05
-2025,d3daf6fc-9c32-41d0-801d-8fc27631adb8,Jihaad Campbell,LB,,82.45,,77.62,82.2
-2025,a9167e29-c4b3-4571-b330-91e3be1ef411,Jimmy Horn Jr.,WR,,68.07,,57.72,57.37
-2025,e7ef860a-1323-4f54-a25f-0230d773d4c4,Joe Huber,G,,69.85,,63.28,63.91
-2025,c38ba635-9b88-4831-ab78-4279f3c6125a,John Williams,G,,78.05,,66.98,69.6
-2025,39e063dc-f14b-449c-bfbb-9d05597c06c5,Jonah Monheim,C,,71.99,,68.59,70.55
-2025,e445fee5-f022-4a07-a9b6-290c4e2535f3,Jonah Savaiinaea,OT,,84.04,,66.31,75.66
-2025,223ef512-82f6-4d70-b6b4-312394833308,Jonas Sanker,SAF,,78.95,,70.52,71.4
-2025,46e1cae1-502d-4287-81aa-6f382cfa7299,Jordan Burch,EDGE,,77.45,,70.1,73.26
-2025,dcdc6c29-c6b0-4cc0-99af-eabbe922076e,Jordan Hancock,CB,,75.95,,58.71,66.76
-2025,d87e6316-e3df-4953-bf7b-b159e6ccef11,Jordan James,RB,,64.91,,70.25,71.72
-2025,55e354a2-db6a-4b10-a900-93a3bf0b9c83,Jordan Phillips,DT,,61.97,,56.48,60.7
-2025,96d41209-8279-4559-99c6-730172456d00,Jordan Watkins,WR,,80.66,,65.15,69.67
-2025,bcb5a4a8-509f-4520-828a-a62013dedb9c,Josaiah Stewart,EDGE,,74.08,,80.86,76.16
-2025,65b7d47f-f342-4f1c-ba00-60906d88a00f,Josh Conerly Jr.,OT,,85.36,,78.42,81
-2025,d221e927-ed37-458e-8cd6-936fd585bb32,Josh Kelly,WR,,55.31,,68.54,60.56
-2025,00c1a520-a8f6-47c3-911b-ebb1a9fe0817,Josh Simmons,OT,,76.28,,76,77.45
-2025,fb6878a1-0fd6-4edc-8798-89dc63b3795c,Joshua Farmer,DT,,69.06,,68.39,69.41
-2025,c1583a1c-6cec-4592-bc27-bd3e05e1224f,Joshua Gray,G,,80.66,,72.41,75.87
-2025,2249eb49-2115-4265-bff9-7dbb31eb544b,Joshua Simon,TE,,71.68,,73.6,70.83
-2025,cfc8395d-a8e5-4eae-b4bb-5e7189513641,Junior Tafuna,DT,,70.72,,54.9,58.6
-2025,7fbe974f-ea6a-49e5-a084-91ff8a0b3ae0,Justin Walley,CB,,79.44,,62.96,68.32
-2025,a56cb799-e73c-4d26-9c0b-5d267b41e8f8,Kaden Prather,WR,,69.47,,60.8,65.62
-2025,c00b4c99-a997-48e5-8e48-e916e4999e73,Kaimon Rucker,EDGE,,74.84,,70.13,68.68
-2025,71bc31bb-06b2-4438-9d41-88c98a7ce9d3,Kain Medrano,LB,,81.85,,58.2,65.7
-2025,2dececfe-8e9b-4257-963e-fd6e704c9701,Kaleb Johnson,RB,,63.85,,76.89,76.22
-2025,5dcda1b7-815e-410a-a85f-49cc09699770,Kalel Mullings,RB,,74.46,,56.02,64.72
-2025,c8dd6021-96c6-4164-9950-094c820a243a,Karene Reid,LB,,67.43,,61.43,64.75
-2025,c79110c3-ca2b-416d-bc11-aa1cc0086864,KeAndre Lambert-Smith,WR,,79.83,,66.7,71.22
-2025,fece3c3d-d661-4b4f-af58-9db6fcdbc315,Kelvin Banks Jr.,OT,,77.96,,82.96,81.7
-2025,ec7c1a3b-16ad-42dd-a7de-be31e42ed1cb,Kenneth Grant,DT,,72.76,,75,77.03
-2025,cf19f9ad-1cec-4ff5-8127-5c021728df55,Kevin Winston Jr.,SAF,,75.13,,59.97,72.04
-2025,2e50e8b2-e1ab-4253-a8a0-2d0538137e13,Kitan Crawford,SAF,,88.98,,62.26,66.88
-2025,5d39d336-d6b6-4367-812d-3c3071744b62,Kobe Hudson,WR,,64.59,,66.45,66.87
-2025,71973556-533b-430d-a532-b00fe95a9f95,Kobe King,LB,,70.42,,69.43,70.47
-2025,6f1ee499-d4c6-4154-a304-748f70ecc0e0,Konata Mumpfield,WR,,62.11,,63.65,58.82
-2025,8fdeb01f-afb7-492c-b3f0-b29dba93a100,Kurtis Rourke,QB,,,,65.97,70.22
-2025,81abf575-ab13-49d6-9855-8660309e3c3d,Kyle Kennard,EDGE,,68.54,,74.83,71.44
-2025,eee75c11-de9a-408a-99bd-bbcaa73152e7,Kyle McCord,QB,,,,69.22,65.93
-2025,9c35a610-c920-4351-b91a-d2337e308d1c,Kyle Monangai,RB,,68.88,,63.16,67.72
-2025,d08e3a4c-eece-4167-b215-e27f1291a11d,Kyle Williams,WR,,75.82,,76.13,75.57
-2025,4714dc23-a8a6-4e23-8cc1-d93d2f3069a6,LaJohntay Wester,WR,,67.54,,66.31,63.05
-2025,cbf0a477-4295-4400-864d-e8688f7c6af0,Landon Jackson,EDGE,,86.05,,71.95,77.71
-2025,34fd4ffc-91d1-4d8d-a425-09296b61f28c,Lathan Ransom,SAF,,73.44,,66.04,73.4
-2025,371ea380-ff96-420f-9aa9-4e4d3bcc740f,LeQuint Allen,RB,,66.12,,60.22,65.99
-2025,7e3fb4d1-34a5-481c-8022-546d1b0195c2,Logan Brown,OT,,86.07,,70.47,73
-2025,d2a5140c-d869-4008-a150-3d0c9ed499e4,Luke Kandra,G,,75.48,,76.86,75.79
-2025,b654c38f-38c2-4df3-b59b-7ffe465cae7e,Luke Lachey,TE,,62.82,,62.14,64.73
-2025,010b7bdc-0f4a-45fd-8395-a8165fad9328,Luther Burden III,WR,,79.31,,78.39,85.25
-2025,95e95317-3ae6-4765-b3a0-dbdf48d9489d,Mac McWilliams,CB,,73.15,,63.16,67.63
-2025,56ee9a84-dd6a-4d75-82c4-7e5bac34f6a0,Malachi Moore,SAF,,68.35,,71.75,67.99
-2025,25d7e83d-9beb-4105-8d13-3aa77b743591,Malaki Starks,SAF,,67.21,,78.24,77.9
-2025,bfe98569-f7ad-40f1-89fe-458bcf430d4c,Malik Verdon,SAF,,68.51,,63.36,61.88
-2025,b1dea483-0c5e-42b7-bc7f-3b2bed7b4bb5,Marcus Harris,CB,,72.48,,62.36,66.05
-2025,c438bb9f-8baa-41a2-8486-f248589fc2e9,Marcus Mbow,G,,72.61,,69.8,74.15
-2025,5f479d3c-a37b-4be4-89f4-26f74fbd2b65,Marcus Tate,G,,76.55,,60.86,65.54
-2025,cec5c8ab-7688-4d29-ab13-7887d57f7e1d,Marcus Yarns,RB,,79.96,,69.76,75.07
-2025,270d1a88-733e-49ae-86fb-e09679a99053,Marques Sigle,SAF,,83.5,,70.77,71.16
-2025,9cf6cc25-56f4-4771-97e9-4379ff9f20da,Mason Graham,DT,,77.21,,92.69,85.27
-2025,b1d4c028-5288-41e7-84c3-7bd7dcac7031,Mason Taylor,TE,,80.9,,75.78,80.11
-2025,c9e85e2a-5a00-4774-afa2-5a3d7e906fee,Matthew Golden,WR,,86.71,,74.34,82.44
-2025,b6b41235-181e-4e81-8731-07b5d46d8ba6,Max Brosmer,QB,,,,61.48,59.39
-2025,9c67c269-a0df-42f4-be92-72d05e1a6696,Maxen Hook,SAF,,71.65,,62.78,66.61
-2025,ebbcc9ea-f1e9-4697-861a-8ba07832c689,Maxwell Hairston,CB,,81.52,,73.11,77.71
-2025,e07585f8-9e62-4f76-a090-97a20001511c,Mello Dotson,CB,,63.86,,69.92,68.17
-2025,44e80a1e-911a-4a0f-b233-32701ffd8154,Mike Green,EDGE,,75.31,,77.12,79.08
-2025,0cb0bf8d-92af-4d23-97f5-3fd243d3790c,Miles Frazier,G,,78.97,,66.86,72.79
-2025,ed235c5d-3507-4ba2-96cf-7085618a95ad,Mitchell Evans,TE,,73.61,,69.93,72.69
-2025,9ad95b19-59a9-4af9-bfa9-78b9c4d2dce7,Moliki Matavao,TE,,66.95,,61.56,67.39
-2025,cc2b32dc-489a-4314-920a-5a668936cfd1,Montrell Johnson Jr.,RB,,78,,51.58,62.13
-2025,62b90eac-6cdf-468c-a7f0-8f60c7234a2c,Mykel Williams,EDGE,,75.39,,67.94,76.34
-2025,76bd8f7b-af6a-4852-8c93-d38db1fcfc75,Myles Hinton,OT,,68.45,,52.26,63.61
-2025,d77c7fd5-a049-4eda-99a3-db6dde1a7dd8,Nazir Stackhouse,DT,,68.39,,52.12,61.05
-2025,38c6d215-6cd1-415b-97ac-5b40470d01aa,Nic Scourton,EDGE,,71.21,,74.37,76.57
-2025,ca3a4ff2-480f-4e55-9efc-29f757146b90,Nick Emmanwori,SAF,,90.86,,81.51,85.29
-2025,ae3c03ab-944d-4fe4-9d7e-30668d3e59ce,Nick Martin,LB,,81.8,,70.1,73.57
-2025,02e76eb5-ba39-4130-90fb-7aa080f85c77,Nick Nash,WR,,65.73,,71.75,69.08
-2025,c5e4340d-ac45-4260-b3a9-41528babc483,Nohl Williams,CB,,62.75,,79.54,72.78
-2025,cc359ad9-6f5d-4f0c-aafc-daad35ae4dca,O'Donnell Fortune,CB,,51,,63.47,60.93
-2025,7cfe3420-6f30-4cac-9d27-3b555f15b451,Ollie Gordon II,RB,,73.13,,71.45,75.39
-2025,33f3e4e3-1aa6-4abc-b904-cbc63847e0db,Oluwafemi Oladejo,EDGE,,75.36,,67.08,69.97
-2025,6504fc3c-6d7c-4dbc-9c5d-6e5967e73f4b,Omarion Hampton,RB,,82.29,,83.76,85.16
-2025,c0ab6316-20ca-4503-a43e-33dc6d0adaa6,Omarr Norman-Lott,DT,,79.09,,67.22,71.9
-2025,b84266f6-4309-4ddf-9ce4-e96cafd5c1e2,Oronde Gadsden II,TE,,77.04,,78.09,76.22
-2025,b21fc11c-afff-4896-af0a-c381d848b0b8,Ozzy Trapilo,OT,,74.65,,64.35,72.88
-2025,7046b225-d884-45d2-9b52-99c38b2af76f,Pat Bryant,WR,,68.14,,70.77,70.75
-2025,ed2331e2-6890-4c9f-9624-e0f26cb8ca39,Payton Page,DT,,75.63,,58.15,62.73
-2025,b75f337d-3895-40e0-9034-01730f03fd9e,Phil Mafah,RB,,64.29,,54.8,60.69
-2025,07070904-25c8-4053-a316-3f42c749c052,Power Echols,LB,,61.95,,60.27,60.65
-2025,41af33ce-a8eb-4206-be3c-056b39d6d270,Princely Umanmielen,EDGE,,69.02,,80,74.69
-2025,9efce864-687b-41a8-871c-898bf6830920,Que Robinson,EDGE,,58.19,,51.9,57.05
-2025,a43b8b74-65c3-41ed-b22c-d99cfd18e6f1,Quincy Riley,CB,,71.45,,70.87,72.15
-2025,b9c3eba0-b127-4b57-a39b-a6b0747c212d,Quinn Ewers,QB,,,,68.84,72.94
-2025,dee1acb0-249e-4278-a3c2-efae1da586e3,Quinshon Judkins,RB,,91.86,,74.41,82.98
-2025,4a6fa45c-fd59-47da-b21e-b6cf87e16887,R.J. Mickens,SAF,,74.05,,68.16,68.07
-2025,8126381a-a895-4eb5-a46d-6f06c2bb53bf,RJ Harvey,RB,,75,,85.55,79.31
-2025,cfdb5504-f999-422c-b468-0d83e7f950ad,Raheim Sanders,RB,,78.9,,72.63,74.78
-2025,e5f7fa36-39f3-4664-8f51-d176058d5f18,Rayuan Lane III,SAF,,69.67,,62.4,62.88
-2025,579a6be3-2ace-4e22-9e6f-2ff62b5799e1,Ricky White III,WR,,61.03,,77.79,69.79
-2025,003ec65b-c062-458c-a39b-332e9a3b935b,Riley Leonard,QB,,,,62.08,70.02
-2025,6ed3e586-8924-4633-b0bd-dd452098f0a0,Robbie Ouzts,TE,,72,,57.95,66.14
-2025,10b28960-376b-4f87-b071-a0fa6e538184,Robert Longerbeam,CB,,71.87,,61.01,64.82
-2025,376092a7-d190-4c82-8c86-bacdc0c484c5,Roc Taylor,WR,,71.65,,61.06,64.51
-2025,b01172ca-20ee-490c-a0af-697b5d7eee5b,Ryan Fitzgerald,K,,,,,
-2025,90c1af5e-db5e-4420-bebf-4755b2d8694b,Rylie Mills,DT,,76.31,,73.31,72.72
-2025,d2dc0168-cb86-438d-8312-ea833190e6a9,Sai'vion Jones,EDGE,,74.23,,62.58,68.99
-2025,72bc5e42-79d9-4bdc-a933-01572398ba18,Sam Brown Jr.,WR,,89.73,,58.18,68.45
-2025,90699b67-1868-4056-bf94-a2d6c4994776,Savion Williams,WR,,83.44,,71.69,77.91
-2025,6b92fc81-e639-417c-a8c0-4341d901fd14,Sean Martin,EDGE,,68.84,,53.29,61.1
-2025,cb304e97-ba80-40b0-9dba-104282f51edf,Sebastian Castro,SAF,,61.66,,72.65,67.55
-2025,c1763fa5-35a3-4206-a092-5c40a3ebbed8,Seth Henigan,QB,,,,68.58,68.41
-2025,4a7e0fb9-55f0-4f5a-867f-82abbfe3c075,Seth McLaughlin,C,,73.91,,73.11,73.02
-2025,f564929a-a26c-44f8-8607-aac9e73a4d77,Shavon Revel Jr.,CB,,88.83,,76.17,83.83
-2025,315ed005-aa14-4de5-86a6-007d7e90217d,Shedeur Sanders,QB,,,,87.49,79.86
-2025,346f1e70-5aca-40dd-a286-efc85bd135f3,Shemar James,LB,,62.91,,60.31,61.08
-2025,714c96a7-ba36-4daf-b2b4-d214c30f6fe6,Shemar Stewart,EDGE,,83.59,,64.05,77.45
-2025,a18dff2b-fd86-4850-9591-1e76dd4d7983,Shemar Turner,DT,,77.93,,70.95,73.1
-2025,edf100d0-9afd-48a0-914f-193cd3ccf23b,Smael Mondon Jr.,LB,,80.79,,69.74,73.97
-2025,21a90263-4df8-45dd-8c3c-14afddf87617,Steve Linton,EDGE,,62.61,,59.87,61.1
-2025,2e49014d-b7c0-46fe-9498-194fda879a06,T.J. Sanders,DT,,68.14,,75.58,72.24
-2025,b1094c64-7f5d-45d1-8bd6-be8f3a6d5f56,Tahj Brooks,RB,,81.51,,71.53,74.64
-2025,d7de3d76-ecd7-4bce-8c2c-539b0f4956db,Tai Felton,WR,,83.32,,73.61,76.69
-2025,b98b6c99-1c8c-49b6-b3e0-de56765dcc19,Tate Ratledge,G,,97.86,,75.68,84.19
-2025,605b35d1-50d4-4e5e-a8a6-674f249d9f01,Teddye Buchanan,LB,,80.79,,61.06,70.92
-2025,f46c2519-0b53-4941-a990-42eb3517e484,Terrance Ferguson,TE,,83.46,,75.13,77.54
-2025,734f5f63-1917-4faa-8785-5cead15a8fe4,Tetairoa McMillan,WR,,81.21,,84.2,88.08
-2025,196a3a9e-c23e-42f5-85e5-748c9f649298,Tez Johnson,WR,,63.82,,74.2,73.92
-2025,3c94ebc9-240a-4003-ba00-ec7d62ee99ea,Theo Wease Jr.,WR,,58.76,,64.75,63.58
-2025,58d6ac17-e04c-4dc6-874b-30d2cced0808,Thomas Fidone II,TE,,77.19,,63.4,72.1
-2025,1b8fdd91-ab85-455b-b5d7-b8a3bffb7122,Tim Smith,DT,,62.43,,53.27,58.28
-2025,2ac4a044-e90c-42b1-ab43-234a903f2f7b,Tommi Hill,CB,,94.05,,58.54,74.56
-2025,de9f9268-dd30-47fd-9114-464d6574a292,Tommy Akingbesote,DT,,68.34,,62.23,62.72
-2025,5d9f934c-4bb6-407a-9394-6ce52adbb3d7,Tonka Hemingway,DT,,84.58,,60.96,67.85
-2025,58bfa6b4-00ba-4788-8c6a-caf5178e8dc2,Torricelli Simpkins III,C,,69.31,,59.7,62.25
-2025,1ba17269-33fc-4806-b575-c479496f535e,Tory Horton,WR,,78.91,,69.07,74.6
-2025,0999b7c8-1566-462d-8728-4819ffc289df,Traeshon Holden,WR,,65.44,,63.73,60.39
-2025,b077de53-0fef-4381-80df-cc4dbc6c3735,Travis Hunter,CB/WR,,77.77,,99,92.03
-2025,0f494586-91bb-4141-9b51-2eadca1515c8,Tre Harris,WR,,72.31,,76.18,79.17
-2025,136cfc88-4d16-42b6-b19a-57ef5127a117,TreVeyon Henderson,RB,,91.95,,83.01,86.22
-2025,a55f398c-b325-4eb8-a9d3-a1750ac19ab1,Trevor Etienne,RB,,90.16,,62.11,73.06
-2025,430437f8-7ed0-456f-9103-b9d2c408a8c3,Trey Amos,CB,,69.24,,68.05,72.86
-2025,e476eed8-3c3b-40c5-897c-adcf2cd0da6f,Ty Hamilton,DT,,74.62,,68.22,68.64
-2025,dbfdd380-ee19-4d5b-bd32-a8dcec272255,Ty Robinson,DT,,79.63,,70.37,73.49
-2025,aa509760-99bc-46ff-9d06-24703a8ae9cb,Tyleik Williams,DT,,76.5,,80.28,80.23
-2025,bb2fe6cb-cfae-455f-b35a-f5d9c217b299,Tyler Baron,EDGE,,74.15,,68.28,69.5
-2025,c2549046-9c0f-4a65-9d0a-ea1bebf7b6af,Tyler Batty,EDGE,,76.34,,62.14,67.17
-2025,fa2e3ecf-f3f5-48fb-b4fb-30d4a0e38bdc,Tyler Booker,G,,56.36,,81.03,75.44
-2025,11d13911-3ceb-4c32-8b26-b5c5ab3c80d0,Tyler Loop,K,,,,,
-2025,fb133f30-35f9-49c5-b6bc-7ddbdd474157,Tyler Shough,QB,,,,58.27,66.39
-2025,972ed997-e5c7-4ed1-8f39-7107fb2ccba9,Tyler Warren,TE,,85.28,,97.86,92.36
-2025,81cf7cb3-ddc4-4284-bc18-69db463a4bf7,Tyreem Powell,LB,,74.1,,56.35,64.21
-2025,b3a62b78-f7fc-43c5-bb5e-5a5fb96d8968,Tyrion Ingram-Dawkins,DT,,86.75,,59.15,68.7
-2025,3c157f7f-bae2-49b8-8d89-8a1896baa027,Ulysses Bentley IV,RB,,64.98,,51.97,54.74
-2025,ca267e28-a6c8-480e-82f2-e510a457bae3,Upton Stout,CB,,61.79,,64.17,65.14
-2025,e5979994-fa3b-4884-a426-534077debae4,Vernon Broughton,DT,,66.63,,65.78,67.97
-2025,eaa04792-33a8-49b9-83ca-e08abf43269d,Walter Nolen,DT,,73.81,,85.97,82.52
-2025,3e0ec57e-10ea-484d-aafd-3fe1ab960676,Warren Brinson,DT,,79.64,,65.14,70.63
-2025,b76f58f5-5d8c-4430-9069-6d6e59ae3172,Will Campbell,OT,,88.45,,83.98,85.44
-2025,5c4814a9-002e-4f41-9955-c8685f516ef3,Will Howard,QB,,,,72.65,74.74
-2025,8429c1da-d0ab-448b-a1a3-f68cf7ef63c7,Will Johnson,CB,,82.6,,80.08,82.62
-2025,ff5b617f-4f55-4f19-ad18-68008b3ee665,Woody Marks,RB,,72.32,,61.09,67.36
-2025,df2145d7-c885-4ae5-bbc5-11ca5b020f79,Wyatt Milum,OT,,70.22,,81.21,77.68
-2025,db19d32d-5628-4d12-84a5-b90962bdec41,Xavier Restrepo,WR,,65.07,,73.99,74.38
-2025,f2252116-b8d3-48f7-a50f-f83308de34a3,Xavier Truss,G,,68.42,,54.4,60.12
-2025,d7528462-9be6-4b16-9b42-d55f590eb160,Xavier Watts,SAF,,69.26,,78.22,76.52
-2025,440aed83-bbdc-4aee-ae4b-c2d2c65c1f93,Yahya Black,DT,,55.58,,59.99,61.25
-2025,d33dfcab-aefd-44fc-a679-5b1d7ca319e5,Zah Frazier,CB,,75.39,,62.55,66.7
-2025,d7243a2e-28fc-41bb-b164-1b157a525f8c,Zeek Biggers,DT,,83.6,,52.75,64.82
-2025,ac580381-953f-453b-b050-17f1fcc5f995,Zy Alexander,CB,,53.16,,70.57,67.18
+2025,b9798b6d-0ff0-4e38-a9cb-556173e399a6,Aaron Smith,LB,Priority free agent,,,,
+2025,3ea425e1-f7de-44e4-aaea-3c643fd2dd2b,Abdul Carter,EDGE,Round 1,83.03,,94.86,90.49
+2025,9cb89722-1dc5-4167-9c70-cdee5c487b00,Addison West,C,Round 7/PFA,,,,
+2025,51306eb2-972e-4097-af0b-f24a33d7f3a4,Adin Huntington,EDGE,Priority free agent,,,,
+2025,fa2e7b56-fdb6-4e43-bf3b-efea2872df66,Aeneas Peebles,DT,Rounds 5-6,68.83,,66.38,66.22
+2025,ba052617-d981-4dc0-bcc9-16a7e8989c57,Ahmed Hassanein,EDGE,Round 7,71.35,,69.09,66.22
+2025,219ccd51-9856-4420-bd2c-addbd00ffadc,Aiden Williams,G,Round 7/PFA,,,,
+2025,a20cd563-052a-48a3-a836-5c469f2276c7,Aireontae Ersery,OT,Round 2,86.6,,74.96,79.59
+2025,864ef599-e575-46ec-b56d-3e1cfb9b520c,Ajani Cornelius,OT,Rounds 6-7,75.94,,68.54,73.36
+2025,06abbaf8-6021-4761-b438-043dcabcdd7c,Alex Howard,LB,Priority free agent,,,,
+2025,db83243d-6bcc-42f9-8081-3433171e98fb,Alex Mastromanno,P,Priority free agent,,,,
+2025,7e499959-edb0-4e35-a263-92d877beaf54,Alfred Collins,DT,Round 2,59.59,,74.36,72.69
+2025,adbd07c1-f987-4f67-828d-e48757506aff,Alijah Clark,SAF,Priority free agent,72.79,,58.88,61.64
+2025,8fd56e1f-999c-4c32-8194-672b36faf2b2,Alijah Huzzie,CB,Rounds 6-7,62.73,,65.45,64.31
+2025,5f81fd65-2fce-4929-ba80-462e0fe53538,Amar Johnson,RB,Priority free agent,,,,
+2025,bfb8bd8e-ef15-4de0-a767-afe0267aed84,Andrew Armstrong,WR,Round 6,72.9,,69.67,68.61
+2025,4e86b3ce-245c-4dfa-835a-805c9fd3a091,Andrew Mukuba,SAF,Round 4,67.72,,71.79,73.54
+2025,bc2347b5-78ab-4134-96f8-ae36dc5fb9b8,Andy Borregales,K,Rounds 5-6,,,,
+2025,83c4e654-8ef4-4ea5-abcf-f96e6ece794b,Anthony Belton,OT,Round 3,72.2,,72.58,74.21
+2025,a9882101-63a3-4ea5-83ee-d99087ddcb9e,Antwane Wells Jr.,WR,Priority free agent,65.17,,66.8,65.73
+2025,77d854ee-5c3d-4a30-b8ce-37629ca58ddb,Antwaun Powell-Ryland,EDGE,Rounds 5-6,76.51,,80.17,75.68
+2025,da77da98-1784-4457-90b1-cdb9011f4b1a,Arian Smith,WR,Round 7/PFA,84.11,,61.98,69.76
+2025,23885a41-5a13-45d8-af81-ed889489634d,Armand Membou,OT,Round 1,94.47,,83.51,85.18
+2025,9fbff3ef-7777-458b-85ee-3e6a9bb6c8da,Ashton Gillotte,EDGE,Rounds 3-4,84.07,,71.67,74.19
+2025,1a8bad47-d1b0-4ec3-8bdd-f65063617614,Ashton Jeanty,RB,Round 1,83.18,,98.29,94.87
+2025,65fe7398-5079-40b0-bc50-205366b3fa43,Austin Brinkman,LS,Priority free agent,,,,
+2025,4890cb22-3462-41b5-9f99-cb417d1bbd54,Austin Riggs,LS,Priority free agent,,,,
+2025,8e37b503-6b4a-43b6-add7-51c8b211e659,Azareye'h Thomas,CB,Round 2,65.18,,73.07,74.63
+2025,900089c4-157d-4895-8d5c-5be6defd1556,BJ Adams,CB,Rounds 4-5,51,,55.31,55.48
+2025,34b5a271-1822-4b9d-a4c3-246c7b591e2e,BJ Green II,EDGE,Priority free agent,,,,
+2025,2f132b9e-703e-4d21-835a-c88fa3ca09a8,BJ Mayes,CB,Priority free agent,,,,
+2025,d727b151-7173-4f99-ba57-74830222073a,Bam Martin-Scott,LB,Priority free agent,66.72,,63.53,64.76
+2025,dd78a460-9dbe-4510-8885-b6fbb9c433d8,Barrett Carter,LB,Round 4,68.85,,71.52,71.43
+2025,8f4986a2-13e7-4bfa-ba72-eb43bb04f6da,Barryn Sorrell,EDGE,Rounds 3-4,77.85,,63.7,69.11
+2025,ec51e262-e3ec-4d3e-b97c-7731eb8d86e4,Beaux Collins,WR,Round 7/PFA,67.91,,58.28,62.88
+2025,8146de60-592a-4a42-a743-26340ce0e68a,Ben Sauls,K,Priority free agent,,,,
+2025,85745d3b-2b92-4a06-9afa-673ff0488e0b,Ben Yurosek,TE,Priority free agent,,,,
+2025,16d893e5-4fdc-416a-8eaf-cda116309244,Benjamin Morrison,CB,Round 2,75.62,,79.83,79.06
+2025,fc1a8f91-3069-4be0-8baa-e20e630d7e55,Bhayshul Tuten,RB,Round 3,82.3,,72.45,78.56
+2025,89ea8a9b-22cb-4fec-bec8-77f7f8347f11,Bilhal Kone,CB,Round 4,69.06,,60.19,64.09
+2025,073da8b5-4503-4281-9610-8bdaf388593f,Billy Bowman Jr.,SAF,Round 3,73.3,,69.55,68.99
+2025,cf4c1c06-5ccf-4174-bbde-538c2011f31c,Blayne Taylor,WR,Priority free agent,,,,
+2025,1b45e5c7-02b8-4d08-a4aa-e9279966ac20,Brady Cook,QB,Round 7/PFA,90.5,,65.13,69.46
+2025,90912e76-d795-4d4e-b7b1-145dfd57bce8,Bradyn Swinson,EDGE,Rounds 3-4,68.82,,72.11,69.37
+2025,927095fa-f627-46fa-bed7-1782d42eceac,Brandon Crenshaw-Dickson,OT,Rounds 5-6,52.07,,65.95,60.4
+2025,e3da5d80-5f89-4d1d-ba3f-4ac3e1cb76a9,Brandon George,LB,Round 7,,,,
+2025,de6ff8c0-c4a3-45e6-bd9d-1262f173ec03,Branson Taylor,G,Rounds 5-6,71.47,,61.87,66.73
+2025,10d293b7-5e2e-448a-8563-ec6f1ab3cbf4,Brant Kuithe,TE,Priority free agent,71.49,,75.06,72.75
+2025,cbef8ed4-e9ab-4fb5-80a8-f5ca5be2ef2a,Brashard Smith,RB,Rounds 4-5,75.14,,74.36,74.14
+2025,a8a3678b-7851-4a00-b151-45a924b70fd3,Brendan Hall,P,Round 7/PFA,,,,
+2025,54036084-773e-4146-8e4a-7d313be56890,Bru McCoy,WR,Round 5,70.01,,58.82,64.34
+2025,a188bf09-fc1a-42a6-9031-3aaa00ec00b9,Bryce Benhart,OT,Priority free agent,,,,
+2025,7a439a15-a704-43a0-9608-2e22bf1eb7af,Bryce Cabeldue,G,Rounds 4-5,,,,
+2025,b967c2fd-0045-46fc-b262-060c28c6875d,Bryson Green,WR,Priority free agent,,,,
+2025,3289d418-3ca2-4091-b6f2-82ae8642dd2b,Bryson Nesbit,TE,Priority free agent,54.21,,66.77,66.15
+2025,a44c7c1a-e80a-443b-93ed-ae9211271d2f,CJ Dippre,TE,Rounds 5-6,82.11,,63.37,72.9
+2025,8b2a535f-723b-401a-93d4-b8fcf8b8567c,CJ West,DT,Round 6,82.35,,66.16,73.87
+2025,6935ad0f-4c57-4b57-b65f-d3d81eb29904,Caden Davis,K,Priority free agent,,,,
+2025,25f58943-badf-4c6e-9809-ef9183e53821,Caden Prieskorn,TE,Round 7/PFA,,,,
+2025,278dadd6-953d-437c-8508-22f358f980ed,Caleb Etienne,OT,Rounds 6-7,,,,
+2025,aa783c68-459a-41a5-8cee-aaa8daacb62d,Caleb Lohner,TE,,,,,
+2025,58a08939-46b6-49ae-9264-59e6c9229e00,Caleb Ransaw,CB,Round 4,89.74,,54.89,71.25
+2025,2bb1d58d-b452-4ebc-b82b-34c8d3eac3ba,Caleb Rogers,OL,Rounds 4-5,91.15,,54.21,65.83
+2025,7156c05f-65a6-4afa-b46c-48583643103e,Cam Horsley,DT,Rounds 6-7,74.62,,59.42,65.5
+2025,ce542ddd-366b-4496-b6f2-0a8620a06df7,Cam Jackson,DT,Round 5,51,,59.66,58.79
+2025,0044f479-2c34-4579-879a-e02ca9cb5cda,Cam Miller,QB,Priority free agent,,,,
+2025,92c320fc-e7d3-4c47-8e33-d2a3d1cec5a8,Cam Skattebo,RB,Round 4,72.52,,93.34,87.72
+2025,1f1333b1-478c-4bba-8dfa-3d8cd9864631,Cam Ward,QB,Round 1,89.98,,85.35,85.82
+2025,8707a2b9-07b2-4c69-9f00-8a8eb18a4405,Cam'Ron Johnson,G,Priority free agent,,,,
+2025,a5318bc5-1c6a-4c3d-8efd-b382a6b35d7b,Cameron Williams,OT,Round 4,67.72,,71.36,73.73
+2025,59f5ca4a-8bb9-4857-8142-0d12e23766e3,Carson Bruener,LB,Rounds 6-7,77.36,,63.87,69.7
+2025,1853aaac-2e63-483a-8ac9-1a753d1eacf5,Carson Schwesinger,LB,Round 2,77.52,,80.99,81.26
+2025,cad9ca89-7ff4-487f-af33-671bdb6364c2,Carson Vinson,OT,Round 6,76.99,,64.04,69.52
+2025,03606984-2d2a-46ab-af0d-1c639cb4bfc3,Carter Runyon,TE,Priority free agent,,,,
+2025,5db8496c-63b5-4145-a9d4-c320d85c99e1,Chandler Brayboy,WR,Priority free agent,,,,
+2025,c2624260-db60-4f31-941b-282484ab897f,Chandler Martin,LB,Round 7/PFA,,,,
+2025,c61042f4-5711-45d3-9891-8d7162d8729b,Charles Grant,OT,Round 3,72.75,,85.81,77.51
+2025,8698c065-ad71-49a8-b76f-0351d1538a58,Chase Lundt,OT,Rounds 4-5,55.17,,64.15,65.14
+2025,52bece9c-ecf3-44d3-97c6-0dfb38330578,Chaz Chambliss,EDGE,Rounds 6-7,,,,
+2025,d4f1d637-37a5-4c28-9ccd-2b4bcb394c84,Chimere Dike,WR,Rounds 4-5,87.2,,60.42,71.05
+2025,538e8bfd-1733-4375-b2aa-05d9f3eac6d9,Clay Webb,C,Rounds 5-6,68.44,,81.59,73.12
+2025,ed6f89e1-0d42-4ad5-b7ce-8213da8bf13d,Cobee Bryant,CB,Round 6,57.23,,76.69,69.28
+2025,d26b9922-2b08-4680-ba59-439123f57bd9,Cody Lindenberg,LB,Priority free agent,69.48,,60.88,66.65
+2025,5fa409cc-f23f-4f6f-9941-6e46a5ea1658,Cody Simon,LB,Round 5,68.27,,65.71,69.08
+2025,c4bf0496-7338-4606-be6a-f061344c2db7,Collin Brunstein,WR,Priority free agent,,,,
+2025,99275a2f-1096-43cc-905b-1d2111945ae0,Collin Oliver,EDGE,Round 6,79.78,,68.62,68.97
+2025,a9f8083f-ae90-4e58-8086-64f7233f1c5a,Colston Loveland,TE,Round 1,75.32,,85.57,84.03
+2025,9e9d72cc-c794-49b5-894e-43b1cae5ed18,Connor Colby,G,Priority free agent,78.25,,55.74,66.16
+2025,ef36a36d-3fd7-41f3-aed9-55db24546169,Cooper Mays,C,Priority free agent,,,,
+2025,e74416ec-816e-4a2f-9360-3cad1f51a480,Corey Kiner,RB,Priority free agent,61.92,,57.56,60.52
+2025,0e1fa045-7066-4181-a760-28f7485c89de,Craig Woodson,SAF,Round 5,72.64,,61.65,65.51
+2025,bd1f6404-e3a3-4a10-b171-4353f3afa958,DJ Giddens,RB,Rounds 5-6,80.64,,76.75,77.37
+2025,0ad6fdac-50aa-45f7-af71-42e08832c439,Da'Quan Felton,WR,Rounds 6-7,72.76,,60.77,64.51
+2025,cf4a005e-4475-4e81-968a-f251fd4d5da2,Dalton Cooper,G,Round 7,,,,
+2025,8a3ab67e-8aa7-44a5-87e2-3b27ea8bc822,Damien Martinez,RB,Round 6,68.89,,75.25,74.71
+2025,1cd1312e-95ae-4a54-99a1-2e0ccb07ca31,Dan Jackson,SAF,Rounds 5-6,,,,
+2025,728e7880-0e6c-445d-b693-909b48b2d551,Daniel Jackson,WR,Priority free agent,61.42,,66.46,63.76
+2025,953b9cf4-646a-46f5-9c2b-be3d787cf000,Danny Stutsman,LB,Round 3,77.87,,71.52,73.6
+2025,94df2b23-3452-43e6-8e58-1893d9dd26e6,Dante Trader Jr.,SAF,Round 7/PFA,51.72,,58.87,55.98
+2025,321fceb4-a25f-4f87-a98c-a192beb723f4,Darien Porter,CB,Round 3,92.61,,65.11,79.18
+2025,237f87ad-f557-452d-a5d2-6463fb136673,Darius Alexander,DT,Round 2,78.27,,76.08,76.75
+2025,fd7e47f7-f4dd-4092-8347-ef5b55416d43,Darius Cooper,WR,Priority free agent,,,,
+2025,e5d7b3f3-8ab5-43dd-9ca0-ef8b3f34543c,David Walker,EDGE,Round 4,77.14,,69.46,73.86
+2025,010bac37-ef26-496a-a234-da93218b8f41,DeAndre Jules,DT,Priority free agent,52.27,,51.72,53.74
+2025,768addce-7114-4f9b-9d8b-c5cc91447cae,Dean Clark,SAF,Priority free agent,,,,
+2025,f30ede8d-3a5f-4439-a765-a28efab6edfe,Demetrius Knight Jr.,LB,Rounds 2-3,73.01,,71.07,73.55
+2025,cf03243e-6598-49ed-90c0-02ebad1eff83,Denzel Burke,CB,Round 4,69.71,,69.2,70.29
+2025,a24b6b07-1586-4f03-b03c-91f8f7490075,Deone Walker,DT,Round 3,51,,77.41,71.68
+2025,44874e90-94e1-464e-a81b-ddcc3a8dbf22,Derrick Harmon,DT,Round 1,72.92,,78.21,79.08
+2025,4dad5e60-e382-42d5-80a1-ddf1ea1641ed,Deshawn Pace,LB,Priority free agent,,,,
+2025,3ac9409c-1fc2-483e-ad30-3f8e7d92c050,Desmond Watson,DT,Priority free agent,,,,
+2025,3bbfba02-71b4-45ce-8254-bdddeac29ad8,Devin Neal,RB,Rounds 5-6,64.3,,77.95,73.2
+2025,d5e853dd-1d63-4daa-8fda-699594a6353d,Dillon Gabriel,QB,Rounds 4-5,73.47,,78.39,75.3
+2025,8ec5e6af-a67e-459e-8a16-7da38a01e210,Dominic Lovett,WR,Round 5,73.11,,64.88,71.41
+2025,3d025511-4847-443c-a236-3cb8270ce5b5,Donovan Edwards,RB,Round 7,91.75,,54.39,66.71
+2025,9bc4b812-54f7-4ddc-897b-ad57db640da9,Donovan Ezeiruaku,EDGE,Round 1,83.57,,86.75,82.73
+2025,c1c09849-457e-40cb-8c36-fff058aa1279,Donovan Jackson,G,Rounds 1-2,82.86,,72.95,80.28
+2025,3df9f283-eee8-4989-8d21-db264833b269,Donovan McMillon,SAF,Priority free agent,,,,
+2025,090be2ee-414c-4504-8270-731215096349,Donovan Smith,QB,,,,,
+2025,60c59e68-6039-4e4d-856a-8c0fb5ac0f2e,Dont'e Thornton Jr.,WR,Round 4,89.27,,62.49,71.72
+2025,973ed6ca-00c0-4668-91a5-720eb8fc05ac,Donte Kent,CB,Round 7/PFA,,,,
+2025,c48e5593-9430-4a76-9aef-246847d88ec3,Dorian Strong,CB,Round 4,58.55,,62.16,65.28
+2025,be7b4e88-f370-4331-a9ee-cd00ec2c2cd7,Drew Kendall,C,Round 4,85.08,,65.52,71.82
+2025,cedcbddc-6b4d-46d5-9549-d188200de0ae,Dylan Brown,CB,Priority free agent,,,,
+2025,b0b303a9-748b-4c58-9daf-dbe831b81a72,Dylan Fairchild,G,Round 4,95.97,,72.79,79.46
+2025,f1e0af75-fc6e-4fc7-9c81-fab1f7feaeb2,Dylan Sampson,RB,Rounds 2-3,76.29,,77.98,80.11
+2025,2bdc638d-d237-4a38-afa9-79fd3015bea6,Dymere Miller,WR,Priority free agent,,,,
+2025,a94c5565-c609-496c-ac83-c441b900bff3,Easton Kilty,OT,Round 7/PFA,,,,
+2025,10aaac08-ef08-490d-8cd7-c152ed622c4d,Easton Mascarenas-Arnold,LB,Round 7/PFA,,,,
+2025,85be839f-cf5e-4d75-87a2-5153f0c491d4,Efton Chism III,WR,Priority free agent,,,,
+2025,e8af3d8c-a9fd-4543-be06-a0b3760e94d9,Eli Cox,C,Round 6,86,,58.91,66.15
+2025,2cd92909-8198-4030-b051-726488ccb319,Elic Ayomanor,WR,Rounds 3-4,78.45,,72.81,78.55
+2025,78f78232-4567-4622-b056-ca42b562e253,Elijah Arroyo,TE,Round 2,85.28,,73.05,79.4
+2025,d239e9c9-e6db-4c7d-b855-d8bcfeec438f,Elijah Ponder,EDGE,Round 7/PFA,,,,
+2025,050559b8-482e-4a0d-9794-aa86dbc79236,Elijah Roberts,EDGE,Round 5,72.31,,69.47,69.17
+2025,4f89ad88-f36f-42d4-88fe-b2183de4493f,Elijah Simmons,DT,Round 7/PFA,62.84,,51.72,56.9
+2025,f060cb67-b5a2-44a1-9eb5-0e472f71b8e2,Elijhah Badger,WR,Round 6,76.03,,67.89,73.18
+2025,7ae027f7-a70a-4a52-88fc-c168ebc83ba7,Emeka Egbuka,WR,Round 1,81.65,,77.99,83.6
+2025,5156c9fc-6eba-4439-8347-95322cb52bc7,Emery Jones Jr.,OT,Round 3,83.44,,60.75,74.15
+2025,943b3c07-314a-4b7c-9939-e97a13004648,Eric Gregory,DT,Round 7/PFA,68.44,,59.88,60.9
+2025,974f4d03-9d2b-4e71-a16e-563e48d333ea,Esa Pole,OT,Round 7/PFA,,,,
+2025,84aa632b-13b5-456c-8afa-a48fd69991a9,Ethan Downs,EDGE,Rounds 6-7,75.94,,57.92,63.47
+2025,96dcfd65-5691-4ee4-bbb1-187e0c440e4f,Eugene Asante,LB,Round 5,80.52,,61.72,69.55
+2025,be8e187d-2565-45a6-a615-8e973271d6dc,Fadil Diggs,EDGE,Rounds 5-6,77.14,,64.87,66.65
+2025,47254461-b659-45ab-9fd1-6730f3afb462,Fentrell Cypress II,CB,Round 7/PFA,,,,
+2025,d1f1fb47-1f06-46b3-b42c-3a9159de6f23,Francisco Mauigoa,LB,Round 7,75.04,,65.48,68.05
+2025,2b96fb5d-327f-4769-944a-5eb13a7abcdb,Garrett Dellinger,G,Rounds 6-7,86.47,,70.32,72.8
+2025,cda959c4-30cf-4419-8a08-e5d79e8f3668,Gavin Bartholomew,TE,Round 7/PFA,76.13,,67.29,70.97
+2025,680a65b6-ccff-459f-988f-adc6b4b66dd4,Gerad Lichtenhan,OT,Priority free agent,,,,
+2025,f0b4d446-f0ad-447a-85cb-f8bac3e78018,Glendon Miller,SAF,Round 7/PFA,,,,
+2025,cd35233a-ea10-46a3-8f89-cdb6928f6e46,Graham Mertz,QB,Priority free agent,83.58,,57.34,65.92
+2025,9af141d9-27ef-477b-9cda-e05cebe075e7,Grey Zabel,G,Rounds 1-2,90.21,,90.64,87.06
+2025,b2ffba9e-fe98-4580-b567-d9a712cb987b,Gunnar Helm,TE,Round 4,53.38,,80,72.85
+2025,d238d225-0163-4a61-bc81-155c29b3647a,Gus Hartwig,C,Priority free agent,,,,
+2025,8866ae4b-d153-4785-ad9f-ec2bcd907e62,Harold Fannin Jr.,TE,Rounds 3-4,75.95,,90.09,84.02
+2025,8ea85253-2f0c-4ac2-ad65-11d09e8e617b,Hayden Conner,G,Round 6,69.32,,59.4,58.64
+2025,6c5d94d6-f779-4a76-adbe-cf949941299e,Hollin Pierce,OT,Round 5,68.36,,59.79,69.29
+2025,ef55eb55-9060-43cc-b348-297ff548b269,Howard Cross III,DT,Priority free agent,70.47,,72.14,71.12
+2025,01d53718-1569-4240-8a4d-2aa0fdb4ee33,Hunter Wohler,LB,Rounds 6-7,77.4,,63.77,66.91
+2025,06c5311f-afe3-41b1-b93c-18f690e98b3a,Isaac Gifford,SAF,Priority free agent,,,,
+2025,6ed2fde7-46cc-4db3-9992-dd990d8a98fa,Isaac TeSlaa,WR,Rounds 4-5,96.27,,52.88,69.55
+2025,5f779e22-a51c-4159-9ab4-7e5196a72b1e,Isaiah Bond,WR,"",76.75,,64.85,74.58
+2025,9eb8604c-183f-437d-83eb-393dba0ea986,Isaiah Neyor,WR,Rounds 6-7,91.73,,64.44,73.45
+2025,7f1d7e56-fba4-4df4-8f9d-c8495c5af092,Isas Waxter,CB,Priority free agent,73.48,,71.06,72.45
+2025,2e18c07d-9e2b-4537-8c86-9b5e4d183e21,J.J. Weaver,EDGE,Priority free agent,,,,
+2025,c20777e7-f20b-4d0b-b4f8-4e5f3be06396,JJ Pegues,DT,Rounds 4-5,56.53,,67.4,64.01
+2025,de170242-a141-4316-89a3-171246126466,JJ Roberts,SAF,Round 7/PFA,,,,
+2025,1a7d16e6-256b-4150-8672-fc145578f7eb,JP Richardson,WR,Round 7/PFA,,,,
+2025,42059841-b7d0-466c-8e62-d175b0a03df4,JT Tuimoloau,EDGE,Round 2,77.51,,82.24,79.17
+2025,6d1d3f50-b9cb-4b0d-a852-890db72f58e7,Ja'Corey Brooks,WR,Priority free agent,51,,68.16,63.36
+2025,fe82c23c-9065-465f-a610-ed12351f6305,Ja'Quinden Jackson,RB,Priority free agent,51,,62,59.17
+2025,a4ac5e9d-ae07-4bb2-990b-beda6c82f093,Jabbar Muhammad,CB,Priority free agent,51,,63.89,59.3
+2025,40a600cd-455d-46bf-b329-66c9ce71c50f,Jack Bech,WR,Round 2,72.84,,68.33,75.06
+2025,7b53f66d-e96a-4c6c-92d7-750130d27b3b,Jack Kiser,LB,Rounds 5-6,70.9,,64.87,68.08
+2025,d68e90d3-9bf3-4c46-9e71-3685afdf4b97,Jack Nelson,OT,Round 5,76.99,,63.67,70.49
+2025,5a65795a-63fe-4f05-aa39-d418ab5ad060,Jack Sawyer,EDGE,Rounds 2-3,76.14,,74.07,75.92
+2025,bce013a5-a098-44ae-b617-089546b1e3de,Jackson Hawes,TE,Rounds 5-6,70.33,,63.19,68.63
+2025,dbd7086c-7176-4769-8d41-7b2a95c468ca,Jackson Slater,G,Round 5,83.87,,71.59,74.64
+2025,7f453324-0bc6-4278-b71d-a56be4f61f35,Jackson Woodard,LB,Round 7/PFA,51,,69.95,64.48
+2025,a25597fb-2941-4db7-8751-c0db5f967bcd,Jacob Bayer,C,Round 7/PFA,,,,
+2025,1516ff0f-8daf-4a5a-a95c-d4adae8eb7b4,Jacob Parrish,CB,Round 2,90.1,,68.37,77.22
+2025,f02ec415-b1fe-4a2d-b30b-7dd5f0d78d8d,Jacolby George,WR,Priority free agent,54.42,,66.53,62.08
+2025,972de46b-a5e4-4c5a-a703-2ed8f625ba9a,Jacory Croskey-Merritt,RB,Round 5,,,,
+2025,3eac5835-8a6b-4cf6-8336-07bd2bea04a2,Jah Joyner,EDGE,Round 6,67.03,,59.12,63.05
+2025,17a83ae3-745d-4d27-b022-02ef84ea70d3,Jahdae Barron,CB,Round 1,78.78,,93.7,89.23
+2025,63bf73bd-2105-4f10-8181-d777d18871ae,Jahvaree Ritzie,DT,,75.63,,61.28,65.42
+2025,89c9ab21-c08b-425d-bc2d-ecca18e88ebc,Jailin Walker,LB,,,,,
+2025,44e32c42-9e3a-4c6c-9921-0f7391a42134,Jake Briningstool,TE,Rounds 5-6,62.1,,70.4,70.46
+2025,1a74b880-5179-48cd-9eab-d3bf3cef4658,Jake Majors,C,Rounds 6-7,71.69,,59.35,65.43
+2025,f7d10ff5-ae16-4ba9-8881-9d8249188108,Jalen Kimber,CB,Priority free agent,,,,
+2025,76133d5f-c876-4596-a74d-c1760baa30a5,Jalen McLeod,LB,Rounds 6-7,73.61,,61.65,67.55
+2025,e8228ada-df68-4d4f-b45d-ad590fa6d402,Jalen Milroe,QB,Rounds 2-3,99,,74.64,81.21
+2025,d5a35286-ead1-4a6d-9a6e-4635d1bef205,Jalen Rivers,OT,Round 4,67.99,,66.51,70.91
+2025,04c538dd-2e19-4cbb-92fd-4f416c6a36d3,Jalen Royals,WR,Rounds 2-3,83.62,,75.89,81.85
+2025,c9ba6d17-48dd-478c-a777-5d24b77bbbf9,Jalen Travis,OT,Rounds 5-6,86.89,,60.46,71.37
+2025,d86fc7b1-6174-49fd-8682-02688259f832,Jalen White,RB,Round 7/PFA,,,,
+2025,ebd8ba03-4bb3-4a71-881b-27c06fe72f7a,Jalin Conyers,TE,Rounds 6-7,82.17,,68.76,73.31
+2025,e28e3360-9428-4990-ae0d-453c4da3cfff,Jalon Walker,EDGE,Round 1,83.85,,70.71,80.19
+2025,c5921e10-6588-4c2a-84d6-3c79d965e26d,Jamaree Caldwell,DT,Round 4,55.45,,64.72,64.39
+2025,2d6563e6-13e7-46cd-8197-e1bb2fc5d2dc,James Burnip,P,Rounds 4-5,,,,
+2025,c7161704-7d19-4d2b-afa6-b00e9aa37211,James Pearce Jr.,EDGE,Rounds 1-2,74.13,,81.45,80.17
+2025,40a0c82d-3143-4130-a615-6e51a4909599,Jamon Dumas-Johnson,LB,Rounds 6-7,82.51,,63.51,70.91
+2025,8891a49e-d2d3-4856-b190-def46328e140,Jared Harrison-Hunte,DT,Round 7,76.5,,68.4,68.48
+2025,ca07efb4-5d18-44d9-bc6c-2b2cac49dac5,Jared Ivey,EDGE,Round 5,51,,68.07,64.76
+2025,8806679b-a2f2-4608-9fd9-788074376de3,Jared Wilson,C,Rounds 2-3,96.28,,81.87,82.36
+2025,5c8e14e5-82a9-4818-8635-70dfd3f1462e,Jarquez Hunter,RB,Rounds 5-6,66.86,,71.77,69.71
+2025,75f2a8fa-481d-40e8-a175-fc576bd3f6dd,Jason Marshall Jr.,CB,Round 6,75.84,,55.86,66.72
+2025,7f978b63-5e04-4dd6-becb-30c6c50a1b6d,Jaxson Dart,QB,Rounds 1-2,73.92,,79.57,77.53
+2025,155e932b-8192-4645-b66c-edcfd4304bac,Jay Higgins,LB,Priority free agent,55.33,,72.29,67.44
+2025,2accd477-c86a-400d-b846-c1f435c798a1,Jay Toia,DT,Rounds 6-7,52.12,,52.07,54.58
+2025,c008fe15-a61b-41e8-b545-67377780582d,Jayden Higgins,WR,Round 2,87.04,,77.56,81.99
+2025,bed07dcd-ff2b-4942-a550-131bafc715cd,Jaydon Blue,RB,Round 3,74.66,,70.57,71.37
+2025,444fee56-e0b0-46b3-b0bc-d9c5ff8bb5ab,Jaylen Reed,SAF,Round 4,75.11,,60.18,65.72
+2025,d9b1ca51-c4f6-4212-9e8a-40d37fe93f1e,Jaylin Lane,WR,Round 4,89.6,,64.07,74.88
+2025,4deab0a8-a960-4eb2-870f-62f7328e4ff7,Jaylin Noel,WR,Round 3,90.55,,71.28,79.89
+2025,96acf03e-4a9c-488e-b8b9-cdb1bde2ec7b,Jaylin Smith,CB,Rounds 6-7,62.14,,68.16,68.81
+2025,9888c12a-32bf-482b-a582-3169d65f4474,Jeffrey Bassa,LB,Round 4,70.83,,64.52,70.12
+2025,07637794-d7ff-4140-826d-b040d2015dde,Jeremy Crawshaw,P,Rounds 6-7,,,,
+2025,42afdd83-0967-46ec-b6ac-d826f35af424,Jermari Harris,CB,Round 7/PFA,52.88,,60.73,62.85
+2025,d3daf6fc-9c32-41d0-801d-8fc27631adb8,Jihaad Campbell,LB,Round 1,82.45,,77.62,82.2
+2025,a9167e29-c4b3-4571-b330-91e3be1ef411,Jimmy Horn Jr.,WR,Rounds 6-7,67.03,,57.72,57.11
+2025,65d06d25-4005-4318-9b4f-c99834e6d224,Joaquin Davis,WR,Round 7/PFA,,,,
+2025,efa5af34-0003-4fa3-8755-36115e21b645,Joe Evans,DT,Round 7,,,,
+2025,e7ef860a-1323-4f54-a25f-0230d773d4c4,Joe Huber,G,Rounds 5-6,69.85,,63.28,63.91
+2025,c38ba635-9b88-4831-ab78-4279f3c6125a,John Williams,OL,Priority free agent,78.05,,66.98,69.6
+2025,b5fc2734-1b6e-4c99-b3da-6dc3350f15b7,Johnny Walker Jr.,EDGE,Round 7/PFA,,,,
+2025,39e063dc-f14b-449c-bfbb-9d05597c06c5,Jonah Monheim,C,Priority free agent,71.99,,68.59,70.55
+2025,e445fee5-f022-4a07-a9b6-290c4e2535f3,Jonah Savaiinaea,G,Rounds 2-3,84.04,,66.31,75.66
+2025,223ef512-82f6-4d70-b6b4-312394833308,Jonas Sanker,SAF,Rounds 3-4,71.07,,70.52,69.32
+2025,46e1cae1-502d-4287-81aa-6f382cfa7299,Jordan Burch,EDGE,Round 2,75.6,,70.1,72.79
+2025,dcdc6c29-c6b0-4cc0-99af-eabbe922076e,Jordan Hancock,CB,Rounds 5-6,84.9,,58.71,69.76
+2025,d87e6316-e3df-4953-bf7b-b159e6ccef11,Jordan James,RB,Round 4,66.69,,70.25,72.19
+2025,55e354a2-db6a-4b10-a900-93a3bf0b9c83,Jordan Phillips,DT,Rounds 6-7,61.97,,56.48,60.7
+2025,96d41209-8279-4559-99c6-730172456d00,Jordan Watkins,WR,Rounds 6-7,80.66,,65.15,69.67
+2025,bcb5a4a8-509f-4520-828a-a62013dedb9c,Josaiah Stewart,EDGE,Round 3,74.08,,80.86,76.16
+2025,83eda887-1510-4fcc-8f33-77d0fb5dda8e,Joseph Michalski,C,Priority free agent,,,,
+2025,65b7d47f-f342-4f1c-ba00-60906d88a00f,Josh Conerly Jr.,OT,Rounds 1-2,81.81,,78.42,80.11
+2025,d221e927-ed37-458e-8cd6-936fd585bb32,Josh Kelly,WR,Priority free agent,54.56,,68.54,60.37
+2025,00c1a520-a8f6-47c3-911b-ebb1a9fe0817,Josh Simmons,OT,Round 1,76.96,,76,77.62
+2025,fb6878a1-0fd6-4edc-8798-89dc63b3795c,Joshua Farmer,DT,Round 3,69.06,,68.39,69.41
+2025,c1583a1c-6cec-4592-bc27-bd3e05e1224f,Joshua Gray,G,Rounds 4-5,77.14,,72.41,74.85
+2025,2249eb49-2115-4265-bff9-7dbb31eb544b,Joshua Simon,TE,Round 6,71.68,,73.6,70.83
+2025,f6650b6e-4014-4d2b-a85c-d120cd5671a7,Julian Ashby,LS,Priority free agent,,,,
+2025,6a0c931a-293a-4163-832b-c2d9a4ad4f49,Junior Bergen,WR,,,,,
+2025,cfc8395d-a8e5-4eae-b4bb-5e7189513641,Junior Tafuna,DT,Round 7/PFA,71.07,,54.9,58.72
+2025,7fbe974f-ea6a-49e5-a084-91ff8a0b3ae0,Justin Walley,CB,Round 6,79.44,,62.96,68.32
+2025,a56cb799-e73c-4d26-9c0b-5d267b41e8f8,Kaden Prather,WR,Priority free agent,71.9,,60.8,66.46
+2025,64faa8a9-f963-4ffa-b402-99ac27aa6146,Kai Kroeger,P,Priority free agent,,,,
+2025,c00b4c99-a997-48e5-8e48-e916e4999e73,Kaimon Rucker,EDGE,Round 7,74.84,,70.13,68.68
+2025,71bc31bb-06b2-4438-9d41-88c98a7ce9d3,Kain Medrano,LB,Round 5,79.43,,58.2,65.09
+2025,2dececfe-8e9b-4257-963e-fd6e704c9701,Kaleb Johnson,RB,Rounds 2-3,63.85,,76.89,76.22
+2025,5dcda1b7-815e-410a-a85f-49cc09699770,Kalel Mullings,RB,Rounds 6-7,74.46,,56.02,64.72
+2025,c8dd6021-96c6-4164-9950-094c820a243a,Karene Reid,LB,Round 7/PFA,66.9,,61.43,64.61
+2025,5d189b4d-d0af-4bcd-97fa-bcb9735a5412,Ke'Shawn Williams,WR,Round 7/PFA,,,,
+2025,c79110c3-ca2b-416d-bc11-aa1cc0086864,KeAndre Lambert-Smith,WR,Rounds 5-6,83.3,,66.7,72.09
+2025,fb884128-7503-4c1d-b2c7-0f41c2337e51,Keleki Latu,TE,Priority free agent,,,,
+2025,5e795b82-91e8-4865-8292-b5088414a488,Kelly Akharaiyi,WR,Priority free agent,,,,
+2025,fece3c3d-d661-4b4f-af58-9db6fcdbc315,Kelvin Banks Jr.,OT,Round 1,77.96,,82.96,81.7
+2025,64a08866-ac5a-4c19-81a5-27e314356a68,Kendall Paul,CB,Priority free agent,,,,
+2025,ec7c1a3b-16ad-42dd-a7de-be31e42ed1cb,Kenneth Grant,DT,Round 1,68.05,,75,75.75
+2025,da477980-9d35-4d2f-bafa-d2700f2e2c31,Keondre Jackson,SAF,Priority free agent,,,,
+2025,cf19f9ad-1cec-4ff5-8127-5c021728df55,Kevin Winston Jr.,SAF,Round 3,75.27,,59.97,72.08
+2025,2e50e8b2-e1ab-4253-a8a0-2d0538137e13,Kitan Crawford,SAF,Rounds 4-5,88.98,,62.26,66.88
+2025,5d39d336-d6b6-4367-812d-3c3071744b62,Kobe Hudson,WR,Priority free agent,64.59,,66.45,66.87
+2025,71973556-533b-430d-a532-b00fe95a9f95,Kobe King,LB,Rounds 4-5,69.14,,69.43,70.15
+2025,8c3239ac-55ad-4c1c-8511-b8a2478eaeb7,Kobee Minor,DB,,,,,
+2025,6f1ee499-d4c6-4154-a304-748f70ecc0e0,Konata Mumpfield,WR,Priority free agent,63.98,,63.65,59.32
+2025,5736ba82-d690-456b-b576-de6833816e37,Korie Black,CB,Round 5,,,,
+2025,8fdeb01f-afb7-492c-b3f0-b29dba93a100,Kurtis Rourke,QB,Round 7/PFA,75.57,,65.97,69.85
+2025,81abf575-ab13-49d6-9855-8660309e3c3d,Kyle Kennard,EDGE,Round 4,68.54,,74.83,71.44
+2025,eee75c11-de9a-408a-99bd-bbcaa73152e7,Kyle McCord,QB,Rounds 3-4,57.24,,69.22,66.17
+2025,9c35a610-c920-4351-b91a-d2337e308d1c,Kyle Monangai,RB,Priority free agent,65.9,,63.16,66.28
+2025,d08e3a4c-eece-4167-b215-e27f1291a11d,Kyle Williams,WR,Round 2,75.82,,76.13,75.57
+2025,16ce1d77-a887-4c09-984b-fba079870157,Kyonte Hamilton,DT,Priority free agent,,,,
+2025,4714dc23-a8a6-4e23-8cc1-d93d2f3069a6,LaJohntay Wester,WR,Round 7/PFA,67.54,,66.31,63.05
+2025,fd6ddb76-214c-45bd-93b2-b8be228e1a2a,Lan Larison,RB,Rounds 6-7,,,,
+2025,cbf0a477-4295-4400-864d-e8688f7c6af0,Landon Jackson,EDGE,Round 2,85.13,,71.95,77.48
+2025,34fd4ffc-91d1-4d8d-a425-09296b61f28c,Lathan Ransom,SAF,Rounds 3-4,66.66,,66.04,71.68
+2025,371ea380-ff96-420f-9aa9-4e4d3bcc740f,LeQuint Allen Jr.,RB,Rounds 4-5,66.12,,60.22,65.99
+2025,7e3fb4d1-34a5-481c-8022-546d1b0195c2,Logan Brown,OT,Rounds 3-4,86.07,,70.47,73
+2025,d2a5140c-d869-4008-a150-3d0c9ed499e4,Luke Kandra,G,Round 7,69.54,,76.86,74.29
+2025,b654c38f-38c2-4df3-b59b-7ffe465cae7e,Luke Lachey,TE,Rounds 6-7,60.41,,62.14,64.03
+2025,775e621b-9058-49b1-84c1-d4cae7d31e32,Luke Newman,G,Priority free agent,,,,
+2025,010b7bdc-0f4a-45fd-8395-a8165fad9328,Luther Burden III,WR,Round 2,79.31,,78.39,85.25
+2025,ef5e7771-154a-492d-93c3-da9e2522c9a6,Mac Dalena,WR,Priority free agent,,,,
+2025,95e95317-3ae6-4765-b3a0-dbdf48d9489d,Mac McWilliams,CB,Round 5,73.35,,63.16,67.71
+2025,eaa7e8b4-1595-4ccb-86d2-761faf44183b,Maddux Trujillo,K,Rounds 6-7,,,,
+2025,56ee9a84-dd6a-4d75-82c4-7e5bac34f6a0,Malachi Moore,SAF,Round 5,68.35,,71.75,67.99
+2025,25d7e83d-9beb-4105-8d13-3aa77b743591,Malaki Starks,SAF,Rounds 1-2,67.21,,78.24,77.9
+2025,bfe98569-f7ad-40f1-89fe-458bcf430d4c,Malik Verdon,SAF,Rounds 6-7,68.67,,63.36,61.92
+2025,14e3bf29-4859-4e16-a6ef-c0f2565e92e7,Marcus Bryant,OT,Rounds 6-7,,,,
+2025,b1dea483-0c5e-42b7-bc7f-3b2bed7b4bb5,Marcus Harris,CB,Rounds 5-6,66.49,,62.36,64.42
+2025,c438bb9f-8baa-41a2-8486-f248589fc2e9,Marcus Mbow,OT,Rounds 3-4,72.61,,69.8,74.15
+2025,5f479d3c-a37b-4be4-89f4-26f74fbd2b65,Marcus Tate,G,Round 6,76.55,,60.86,65.54
+2025,e62e3c64-107e-40c3-b24b-0c8a71c52f1d,Marcus Wehr,G,Round 7/PFA,,,,
+2025,cec5c8ab-7688-4d29-ab13-7887d57f7e1d,Marcus Yarns,RB,Priority free agent,69.26,,69.76,72.33
+2025,7780e659-4125-4213-9458-75435cc611d6,Mario Anderson Jr.,RB,Priority free agent,,,,
+2025,efec6c1c-0f31-4b9d-be3c-3e06dabaffbe,Marques Cox,OT,Priority free agent,,,,
+2025,270d1a88-733e-49ae-86fb-e09679a99053,Marques Sigle,SAF,Round 5,83.51,,70.77,71.16
+2025,9cf6cc25-56f4-4771-97e9-4379ff9f20da,Mason Graham,DT,Round 1,77.21,,92.69,85.27
+2025,a59ba743-30ea-4e0e-8cfc-a5b9174cf8ab,Mason Richman,OT,,,,,
+2025,b1d4c028-5288-41e7-84c3-7bd7dcac7031,Mason Taylor,TE,Round 2,80.12,,75.78,79.89
+2025,c9e85e2a-5a00-4774-afa2-5a3d7e906fee,Matthew Golden,WR,Round 1,86.71,,74.34,82.44
+2025,b6b41235-181e-4e81-8731-07b5d46d8ba6,Max Brosmer,QB,Rounds 6-7,64.79,,61.48,60.5
+2025,9c67c269-a0df-42f4-be92-72d05e1a6696,Maxen Hook,SAF,Round 5,71.75,,62.78,66.64
+2025,ebbcc9ea-f1e9-4697-861a-8ba07832c689,Maxwell Hairston,CB,Round 1,81.52,,73.11,77.71
+2025,e07585f8-9e62-4f76-a090-97a20001511c,Mello Dotson,CB,Priority free agent,63.86,,69.92,68.17
+2025,d52baeb9-22d9-46a2-9e29-314d8753657a,Melvin Smith Jr.,CB,,,,,
+2025,b4bf1d0d-f056-4ad6-95bc-2048bf260970,Micah Robinson,CB,,,,,
+2025,44e80a1e-911a-4a0f-b233-32701ffd8154,Mike Green,EDGE,Round 1,88.17,,77.12,82.51
+2025,b6f22219-833f-4213-b31f-f2e6ebbffbee,Mike Smith Jr.,SAF,Round 7,,,,
+2025,0cb0bf8d-92af-4d23-97f5-3fd243d3790c,Miles Frazier,G,Round 4,73.54,,66.86,71.32
+2025,ed235c5d-3507-4ba2-96cf-7085618a95ad,Mitchell Evans,TE,Rounds 4-5,73.38,,69.93,72.63
+2025,9ad95b19-59a9-4af9-bfa9-78b9c4d2dce7,Moliki Matavao,TE,Rounds 6-7,66.95,,61.56,67.39
+2025,cc2b32dc-489a-4314-920a-5a668936cfd1,Montrell Johnson Jr.,RB,Round 7,78,,51.58,62.13
+2025,a7f594bb-d64c-4179-b826-c564b68b4ec9,Mose Vavao,C,Priority free agent,,,,
+2025,62b90eac-6cdf-468c-a7f0-8f60c7234a2c,Mykel Williams,EDGE,Round 1,76.05,,67.94,76.61
+2025,76bd8f7b-af6a-4852-8c93-d38db1fcfc75,Myles Hinton,OT,Round 5,68.23,,52.26,63.55
+2025,5b7fde54-4652-4ce8-9321-daac56ef39f1,Nash Hutmacher,DT,Priority free agent,,,,
+2025,c8a9d475-9302-40ff-8e87-e5a07c79668d,Nash Jones,G,Priority free agent,,,,
+2025,51e147f2-9b61-40b0-8aa8-1fdab0469d67,Nate Carter,RB,Priority free agent,,,,
+2025,d77c7fd5-a049-4eda-99a3-db6dde1a7dd8,Nazir Stackhouse,DT,Rounds 5-6,68.42,,52.12,61.07
+2025,38c6d215-6cd1-415b-97ac-5b40470d01aa,Nic Scourton,EDGE,Round 2,71.21,,74.37,76.57
+2025,ca3a4ff2-480f-4e55-9efc-29f757146b90,Nick Emmanwori,SAF,Round 1,90.86,,81.51,85.29
+2025,ae3c03ab-944d-4fe4-9d7e-30668d3e59ce,Nick Martin,LB,Round 4,80.42,,70.1,73.23
+2025,02e76eb5-ba39-4130-90fb-7aa080f85c77,Nick Nash,WR,Round 5,64.74,,71.75,68.83
+2025,76fd9daa-eeb0-4e65-a194-1101fd032606,Nikko Reed,CB,Priority free agent,,,,
+2025,c5e4340d-ac45-4260-b3a9-41528babc483,Nohl Williams,CB,Rounds 3-4,67.35,,79.54,73.94
+2025,cc359ad9-6f5d-4f0c-aafc-daad35ae4dca,O'Donnell Fortune,CB,Round 7/PFA,51,,63.47,60.93
+2025,7cfe3420-6f30-4cac-9d27-3b555f15b451,Ollie Gordon II,RB,Round 5,63.76,,71.45,72.92
+2025,33f3e4e3-1aa6-4abc-b904-cbc63847e0db,Oluwafemi Oladejo,EDGE,Round 3,75.36,,67.08,69.97
+2025,2f400b53-6438-4ecf-bc38-2ad6be20f378,Omari Thomas,DT,Priority free agent,,,,
+2025,6504fc3c-6d7c-4dbc-9c5d-6e5967e73f4b,Omarion Hampton,RB,Round 1,82.29,,83.76,85.16
+2025,c0ab6316-20ca-4503-a43e-33dc6d0adaa6,Omarr Norman-Lott,DT,Rounds 3-4,61.29,,67.22,67.08
+2025,b84266f6-4309-4ddf-9ce4-e96cafd5c1e2,Oronde Gadsden II,TE,Round 4,71.41,,78.09,74.8
+2025,b21fc11c-afff-4896-af0a-c381d848b0b8,Ozzy Trapilo,OT,Round 2,74.65,,64.35,72.88
+2025,7046b225-d884-45d2-9b52-99c38b2af76f,Pat Bryant,WR,Round 6,68.14,,70.77,70.75
+2025,ed2331e2-6890-4c9f-9624-e0f26cb8ca39,Payton Page,DT,Round 7,72.73,,58.15,61.85
+2025,b75f337d-3895-40e0-9034-01730f03fd9e,Phil Mafah,RB,Priority free agent,64.29,,54.8,60.69
+2025,a87387b7-8a4a-418e-b3e0-f0b7ea48100a,Philip Blidi,DT,Priority free agent,,,,
+2025,1b34ea2d-c3bc-4cf4-a2f4-19ff2634cf3e,Pooh Paul Jr.,LB,Rounds 4-5,63.39,,70.75,69.66
+2025,07070904-25c8-4053-a316-3f42c749c052,Power Echols,LB,Priority free agent,61.95,,60.27,60.65
+2025,41af33ce-a8eb-4206-be3c-056b39d6d270,Princely Umanmielen,EDGE,Round 3,69.02,,80,74.69
+2025,9efce864-687b-41a8-871c-898bf6830920,Que Robinson,EDGE,Rounds 5-6,58.19,,51.9,57.05
+2025,a43b8b74-65c3-41ed-b22c-d99cfd18e6f1,Quincy Riley,CB,Rounds 3-4,71.45,,70.87,72.15
+2025,b9c3eba0-b127-4b57-a39b-a6b0747c212d,Quinn Ewers,QB,Round 3,72.27,,68.84,73.53
+2025,dee1acb0-249e-4278-a3c2-efae1da586e3,Quinshon Judkins,RB,Round 2,91.86,,74.41,82.98
+2025,4a6fa45c-fd59-47da-b21e-b6cf87e16887,R.J. Mickens,SAF,Round 5,74.89,,68.16,68.28
+2025,8126381a-a895-4eb5-a46d-6f06c2bb53bf,RJ Harvey,RB,Rounds 3-4,75,,85.55,79.31
+2025,1746d99b-c19e-4cfe-993c-f4ac8a1bbe76,RJ Oben,EDGE,Priority free agent,,,,
+2025,cfdb5504-f999-422c-b468-0d83e7f950ad,Raheim Sanders,RB,Rounds 5-6,67.32,,72.63,71.27
+2025,e5f7fa36-39f3-4664-8f51-d176058d5f18,Rayuan Lane III,SAF,Round 7/PFA,69.67,,62.4,62.88
+2025,579a6be3-2ace-4e22-9e6f-2ff62b5799e1,Ricky White III,WR,Priority free agent,56.52,,77.79,68.66
+2025,003ec65b-c062-458c-a39b-332e9a3b935b,Riley Leonard,QB,Round 5,85.44,,62.08,71.44
+2025,6ed3e586-8924-4633-b0bd-dd452098f0a0,Robbie Ouzts,TE,Priority free agent,72,,57.95,66.14
+2025,10b28960-376b-4f87-b071-a0fa6e538184,Robert Longerbeam,CB,Round 6,70.14,,61.01,64.34
+2025,f565c01c-0b5b-4bcc-a3dd-1e7258c18a9a,Robert McDaniel,SAF,Priority free agent,,,,
+2025,376092a7-d190-4c82-8c86-bacdc0c484c5,Roc Taylor,WR,Priority free agent,70.29,,61.06,64.17
+2025,1075f81e-df5c-4552-9499-5b580515ad14,Ruben Hyppolite II,LB,Round 5,,,,
+2025,b01172ca-20ee-490c-a0af-697b5d7eee5b,Ryan Fitzgerald,K,Priority free agent,,,,
+2025,90c1af5e-db5e-4420-bebf-4755b2d8694b,Rylie Mills,DT,Round 6,76.31,,73.31,72.72
+2025,d2dc0168-cb86-438d-8312-ea833190e6a9,Sai'vion Jones,EDGE,Round 3,77.09,,62.58,69.9
+2025,72bc5e42-79d9-4bdc-a933-01572398ba18,Sam Brown Jr.,WR,Priority free agent,89.73,,58.18,68.45
+2025,90699b67-1868-4056-bf94-a2d6c4994776,Savion Williams,WR,Rounds 3-4,83.44,,71.69,77.91
+2025,6b92fc81-e639-417c-a8c0-4341d901fd14,Sean Martin,EDGE,Priority free agent,68.41,,53.29,60.99
+2025,cb304e97-ba80-40b0-9dba-104282f51edf,Sebastian Castro,SAF,Round 7/PFA,61.66,,72.65,67.55
+2025,e91c0267-8926-41da-bf5d-770a4d5ce506,Sebastian Valdez,DT,Priority free agent,,,,
+2025,e2f6dcfb-9ab3-4f3b-82cb-3c01e8711b4e,Seth Coleman,EDGE,Round 7/PFA,,,,
+2025,c1763fa5-35a3-4206-a092-5c40a3ebbed8,Seth Henigan,QB,Priority free agent,70.2,,68.58,68.33
+2025,4a7e0fb9-55f0-4f5a-867f-82abbfe3c075,Seth McLaughlin,C,Round 5,73.91,,73.11,73.02
+2025,ec5e3185-6a2b-4d0f-8afc-9e4b91e25ab5,Shamari Simmons,SAF,Priority free agent,,,,
+2025,30305074-eb59-413d-b159-f25ceaa8dbc1,Shaun Dolac,LB,Priority free agent,,,,
+2025,f564929a-a26c-44f8-8607-aac9e73a4d77,Shavon Revel Jr.,CB,Rounds 1-2,90.54,,76.17,84.34
+2025,315ed005-aa14-4de5-86a6-007d7e90217d,Shedeur Sanders,QB,Round 1,62.69,,87.49,78.99
+2025,346f1e70-5aca-40dd-a286-efc85bd135f3,Shemar James,LB,Rounds 6-7,62.91,,60.31,61.08
+2025,714c96a7-ba36-4daf-b2b4-d214c30f6fe6,Shemar Stewart,EDGE,Round 1,83.59,,64.05,77.45
+2025,a18dff2b-fd86-4850-9591-1e76dd4d7983,Shemar Turner,DT,Round 3,77.93,,70.95,73.1
+2025,5f06a2da-f1af-421f-8704-dd73072a1e27,Shilo Sanders,SAF,Priority free agent,,,,
+2025,123f6741-4dae-4fd3-ae47-6866942aedba,ShunDerrick Powell,RB,,,,,
+2025,ec55abc2-605d-4b6b-80cb-9c7120600bde,Simeon Barrow Jr.,DT,Round 7/PFA,,,,
+2025,edf100d0-9afd-48a0-914f-193cd3ccf23b,Smael Mondon Jr.,LB,Round 3,84.03,,69.74,74.78
+2025,21a90263-4df8-45dd-8c3c-14afddf87617,Steve Linton,EDGE,Priority free agent,61.76,,59.87,60.89
+2025,b0eb3143-f78b-427f-9ca4-826a08bfc0da,Stone Blanton,LB,,,,,
+2025,2e49014d-b7c0-46fe-9498-194fda879a06,T.J. Sanders,DT,Round 2,79.52,,75.58,75.27
+2025,3d91ee83-71b5-4c76-8f2f-2d15cb87c876,TJ Moore,CB,Priority free agent,,,,
+2025,b1094c64-7f5d-45d1-8bd6-be8f3a6d5f56,Tahj Brooks,RB,Rounds 4-5,81.51,,71.53,74.64
+2025,d7de3d76-ecd7-4bce-8c2c-539b0f4956db,Tai Felton,WR,Rounds 4-5,82.35,,73.61,76.45
+2025,6cdaf862-9bbb-4c96-a85e-64513d726dc2,Tanner Volk,SAF,Priority free agent,,,,
+2025,b98b6c99-1c8c-49b6-b3e0-de56765dcc19,Tate Ratledge,G,Round 2,97.5,,75.68,84.1
+2025,605b35d1-50d4-4e5e-a8a6-674f249d9f01,Teddye Buchanan,LB,Rounds 5-6,79.21,,61.06,70.53
+2025,f46c2519-0b53-4941-a990-42eb3517e484,Terrance Ferguson,TE,Round 3,82.74,,75.13,77.36
+2025,734f5f63-1917-4faa-8785-5cead15a8fe4,Tetairoa McMillan,WR,Round 1,70.89,,84.2,85.48
+2025,196a3a9e-c23e-42f5-85e5-748c9f649298,Tez Johnson,WR,Round 5,63.82,,74.2,73.92
+2025,3c94ebc9-240a-4003-ba00-ec7d62ee99ea,Theo Wease Jr.,WR,Priority free agent,58.76,,64.75,63.58
+2025,58d6ac17-e04c-4dc6-874b-30d2cced0808,Thomas Fidone II,TE,Round 5,76.5,,63.4,71.85
+2025,d1460d5b-7e7e-443d-a7c9-4ff8cb061808,Thomas Perry,G,Priority free agent,,,,
+2025,d64e32f9-94b3-4d3e-8787-b551f23e8f36,Thor Griffith,DT,,,,,
+2025,1b8fdd91-ab85-455b-b5d7-b8a3bffb7122,Tim Smith,DT,Rounds 5-6,51,,53.27,54.59
+2025,2ac4a044-e90c-42b1-ab43-234a903f2f7b,Tommi Hill,CB,Rounds 5-6,94.05,,58.54,74.56
+2025,de9f9268-dd30-47fd-9114-464d6574a292,Tommy Akingbesote,DT,Priority free agent,65.29,,62.23,61.4
+2025,daab1f99-3091-42ae-900b-d10562f02622,Tommy Mellott,WR,Round 7/PFA,,,,
+2025,5d9f934c-4bb6-407a-9394-6ce52adbb3d7,Tonka Hemingway,DT,Rounds 3-4,84.03,,60.96,67.71
+2025,58bfa6b4-00ba-4788-8c6a-caf5178e8dc2,Torricelli Simpkins III,C,Round 7/PFA,51,,59.7,57.38
+2025,1ba17269-33fc-4806-b575-c479496f535e,Tory Horton,WR,Round 4,78.91,,69.07,74.6
+2025,0999b7c8-1566-462d-8728-4819ffc289df,Traeshon Holden,WR,Round 7/PFA,65.44,,63.73,60.39
+2025,b077de53-0fef-4381-80df-cc4dbc6c3735,Travis Hunter,WR/CB,Round 1,77.77,,99,92.03
+2025,0f494586-91bb-4141-9b51-2eadca1515c8,Tre Harris,WR,Round 3,72.31,,76.18,79.17
+2025,8cf52843-2a4b-4cab-bb2e-10b4c9620307,Tre Stewart,RB,Priority free agent,,,,
+2025,136cfc88-4d16-42b6-b19a-57ef5127a117,TreVeyon Henderson,RB,Round 2,91.95,,83.01,86.22
+2025,a55f398c-b325-4eb8-a9d3-a1750ac19ab1,Trevor Etienne,RB,Rounds 3-4,74.22,,62.11,68.33
+2025,430437f8-7ed0-456f-9103-b9d2c408a8c3,Trey Amos,CB,Round 2,70.42,,68.05,73.22
+2025,5bfd07a7-4817-4b87-9fc0-7b23beab61f5,Trey Wedig,OT,Rounds 6-7,,,,
+2025,e5d4db08-235f-467f-bb15-ec87ea92bfd7,Trikweze Bridges,CB,Round 7/PFA,,,,
+2025,f7fe8fc7-ac60-43c8-bf65-1e19a73560a8,Ty French,EDGE,Priority free agent,,,,
+2025,e476eed8-3c3b-40c5-897c-adcf2cd0da6f,Ty Hamilton,DT,Round 4,80.38,,68.22,70.29
+2025,dbfdd380-ee19-4d5b-bd32-a8dcec272255,Ty Robinson,DT,Round 5,79.63,,70.37,73.49
+2025,aa509760-99bc-46ff-9d06-24703a8ae9cb,Tyleik Williams,DT,Round 2,76.5,,80.28,80.23
+2025,bb2fe6cb-cfae-455f-b35a-f5d9c217b299,Tyler Baron,EDGE,Round 5,70.5,,68.28,68.58
+2025,c2549046-9c0f-4a65-9d0a-ea1bebf7b6af,Tyler Batty,EDGE,Rounds 6-7,76.34,,62.14,67.17
+2025,fa2e3ecf-f3f5-48fb-b4fb-30d4a0e38bdc,Tyler Booker,G,Rounds 1-2,56.36,,81.03,75.44
+2025,22b4b92f-be18-4dd6-8dc2-3d52c06f632a,Tyler Kahmann,WR,Priority free agent,,,,
+2025,11d13911-3ceb-4c32-8b26-b5c5ab3c80d0,Tyler Loop,K,Round 6,,,,
+2025,fb133f30-35f9-49c5-b6bc-7ddbdd474157,Tyler Shough,QB,Rounds 2-3,76.31,,58.27,67.98
+2025,972ed997-e5c7-4ed1-8f39-7107fb2ccba9,Tyler Warren,TE,Round 1,85.28,,97.86,92.36
+2025,81cf7cb3-ddc4-4284-bc18-69db463a4bf7,Tyreem Powell,LB,Priority free agent,75.11,,56.35,64.46
+2025,b3a62b78-f7fc-43c5-bb5e-5a5fb96d8968,Tyrion Ingram-Dawkins,DT,Round 4,82.57,,59.15,67.65
+2025,9288c363-5e19-4b55-8640-87a82d27ecbd,Tyron Herring,CB,Priority free agent,,,,
+2025,3c157f7f-bae2-49b8-8d89-8a1896baa027,Ulysses Bentley IV,RB,Priority free agent,60.67,,51.97,53.66
+2025,ca267e28-a6c8-480e-82f2-e510a457bae3,Upton Stout,CB,Rounds 6-7,61.79,,64.17,65.14
+2025,e5979994-fa3b-4884-a426-534077debae4,Vernon Broughton,DT,Round 4,66.63,,65.78,67.97
+2025,eaa04792-33a8-49b9-83ca-e08abf43269d,Walter Nolen,DT,Rounds 1-2,65.13,,85.97,80.24
+2025,3e0ec57e-10ea-484d-aafd-3fe1ab960676,Warren Brinson,DT,Round 5,76.22,,65.14,69.51
+2025,b76f58f5-5d8c-4430-9069-6d6e59ae3172,Will Campbell,OT,Round 1,88.45,,83.98,85.44
+2025,5c4814a9-002e-4f41-9955-c8685f516ef3,Will Howard,QB,Rounds 4-5,73.1,,72.65,74.24
+2025,8429c1da-d0ab-448b-a1a3-f68cf7ef63c7,Will Johnson,CB,Round 1,82.6,,80.08,82.62
+2025,9bb147d4-c629-43ef-8486-a66889b787a4,Will Sheppard,WR,Priority free agent,,,,
+2025,527738d3-deeb-4e4c-952c-865637332e84,William Wagner,LS,Priority free agent,,,,
+2025,150b5382-4573-48b0-8ccf-3b8d3302a7c8,Willie Lampkin,C,Round 7/PFA,,,,
+2025,ff5b617f-4f55-4f19-ad18-68008b3ee665,Woody Marks,RB,Round 5,72.32,,61.09,67.36
+2025,d34dd3e4-a427-4f12-8e82-9ad036820945,Wy'Kevious Thomas,DT,Priority free agent,,,,
+2025,df2145d7-c885-4ae5-bbc5-11ca5b020f79,Wyatt Milum,G,Rounds 3-4,70.42,,81.21,77.73
+2025,b6743bde-6ce8-4b4e-a7d5-f689785a173f,Wyett Ekeler,SAF,Priority free agent,,,,
+2025,db19d32d-5628-4d12-84a5-b90962bdec41,Xavier Restrepo,WR,Priority free agent,60.06,,73.99,73.12
+2025,f2252116-b8d3-48f7-a50f-f83308de34a3,Xavier Truss,G,Round 6,68.33,,54.4,60.1
+2025,d7528462-9be6-4b16-9b42-d55f590eb160,Xavier Watts,SAF,Rounds 2-3,67.56,,78.22,76.08
+2025,440aed83-bbdc-4aee-ae4b-c2d2c65c1f93,Yahya Black,DT,Rounds 5-6,55.58,,59.99,61.25
+2025,d33dfcab-aefd-44fc-a679-5b1d7ca319e5,Zah Frazier,CB,Round 5,75.39,,62.55,66.7
+2025,d7243a2e-28fc-41bb-b164-1b157a525f8c,Zeek Biggers,DT,Rounds 6-7,70.33,,52.75,60.88
+2025,ac580381-953f-453b-b050-17f1fcc5f995,Zy Alexander,CB,Round 5,53.16,,70.57,67.18
+2026,c1c44197-cae9-4087-b239-cc4c24c62709,A.J. Haulcy,SAF,,76.25,,80.81,84.98
+2026,b8c3b166-135a-4bf7-9da3-a4bdaab19fb4,Aamil Wagner,OT,,74.36,,70.55,75.99
+2026,e7be18a8-d837-4df5-b6a5-2dee078fafc6,Aaron Anderson,WR,,62.89,,68.73,72.21
+2026,2bd121c7-68be-45ba-beaf-952a794a75b0,Adam Randall,RB,,70.51,,60.18,71.93
+2026,62249a72-87e0-4dc8-a795-57d58e2e6028,Ahmaad Moses,SAF,,68.74,,81.18,77.38
+2026,1d563173-af91-4d61-bc8b-6f54aeb0d015,Ahmari Harvey,CB,,61.28,,67.09,69.49
+2026,429c1652-9aac-4d72-9d7f-8aa477083409,Aidan Hubbard,EDGE,,66.44,,65.87,68.4
+2026,7bb2ff8f-2283-4dfa-a7b2-04863bd9715b,Aiden Fisher,LB,,68.91,,78.19,76.88
+2026,b1cba18e-58a4-4e5e-a90e-a816b49b3cd0,Akheem Mesidor,EDGE,,67.09,,89.61,80.24
+2026,fd5d8db4-3d30-44a4-a50e-d40d5d2f0073,Alan Herron,OT,,63.84,,57.78,67.33
+2026,a457ead8-bc93-42de-8c55-7e2b154e64c9,Albert Regis,DT,,70.28,,64.98,65.18
+2026,01507638-9be1-410d-a1f0-a629ea89af09,Alex Harkey,G,,70.56,,64.47,72.26
+2026,f1d4df6f-d32b-469f-b43f-6f6753c10b31,Andre Fuller,CB,,71.91,,75.32,75.58
+2026,7451fd32-af3d-4f3b-8d7a-1bea3357411a,Anez Cooper,G,,71.67,,64.19,72.38
+2026,443bdf59-be7f-4a85-a130-a6ef771b3e2b,Anthony Hill Jr.,LB,,83.96,,71.72,80.69
+2026,3b4557f0-cb5f-41f1-ba58-bdab5a88f49e,Anthony Lucas,EDGE,,66.63,,59.98,67.62
+2026,8cedfd6c-366a-4bba-9dc2-761b4dddb035,Antonio Williams,WR,,74.2,,68.1,75.39
+2026,ff2ba671-9e54-4678-a2d2-4bb61f4f74e9,Ar'maj Reed-Adams,G,,70.01,,72.05,74.62
+2026,75dc100a-b9dc-4607-9698-6b88887ddca6,Arvell Reese,EDGE,,78.1,,83.8,84.18
+2026,e0d82a58-ae6b-45d5-98b2-93abc1e51c26,Austin Barber,OT,,83.66,,65.95,75.56
+2026,a6881023-a8d2-467e-9c9b-3028379cee1a,Avery Smith,CB,,62.44,,73.74,71.13
+2026,0c45a452-e518-4342-9fca-29dbeb0ef79e,Avieon Terrell,CB,,60.82,,79.22,75.14
+2026,8399cdc9-5e0e-4558-a767-110cc8e18bd1,Barion Brown,WR,,73.76,,67.74,73.16
+2026,a9ef894d-38a9-4c2a-be1d-b7284bf4cef0,Bauer Sharp,TE,,76.19,,65.04,72.62
+2026,3f86bc2b-fd38-4a9c-9ad1-398a7708d813,Beau Stephens,G,,66.69,,70.65,73.32
+2026,060000fc-70fb-4d95-bd14-338cebf88667,Behren Morton,QB,,67.42,,58.8,68.93
+2026,94474bc5-345e-4cbc-96ce-fd1ce2ad6f00,Billy Schrauth,G,,72.09,,75.57,77.14
+2026,e4c23d57-5fab-4a60-9aa2-22da7041fd26,Bishop Fitzgerald,SAF,,72.38,,77.4,77.12
+2026,cc3bc2a3-508b-47ad-8f81-42ff1a24332b,Blake Miller,OT,,93.22,,72.45,82.15
+2026,41f89ceb-fe89-4ff4-81f8-5134133cccc1,Bobby Jamison-Travis,DT,,67.97,,60.12,64.92
+2026,e5f34d26-c83b-4f32-9580-cf36a581a426,Brandon Cisse,CB,,69.74,,74.16,75.49
+2026,0a41eb5a-e93d-4d1f-8615-f88daaf69957,Brandon Cleveland,DT,,68.05,,60.49,63.24
+2026,e1f9e653-e1b3-4886-80c9-03c873be0784,Brenen Thompson,WR,,81.42,,70.9,76.57
+2026,94832134-d876-47b6-bcad-2f199ea0a940,Brett Thorson,P,,,,,
+2026,b36e0836-38f2-4cf9-bfe0-f9a9e9724795,Brian Parker II,C,,72.66,,71.5,74.94
+2026,7d45f3cc-7af0-4295-9719-8bc38535a865,Bryce Boettcher,LB,,70.54,,74.19,74.69
+2026,80193600-a580-4d67-9a30-2eebec2ec10c,Bryce Lance,WR,,99,,79.2,85.77
+2026,bf646753-ed47-4cd3-8a6e-0eda5ba91d6a,Bryson Eason,DT,,65.81,,60.12,64.41
+2026,0f64a27f-0169-4417-9fea-ab7a8e0c1867,Bud Clark,SAF,,74.83,,78.84,79.21
+2026,2acd20a2-3e12-4c34-ae57-b7011fb5e10c,CJ Allen,LB,,70.77,,69.17,73.58
+2026,e02d32a3-eb50-4440-a4e7-9d7ba2d0f694,CJ Daniels,WR,,68.71,,72.58,73.41
+2026,1ce3d2ff-ff6f-4fbf-964d-d4a2348b159a,CJ Donaldson,RB,,69.1,,55.61,63.93
+2026,8057d5ed-4641-4d17-8aa0-857ab26a0195,Cade Klubnik,QB,,77.78,,73.29,76.26
+2026,728dd46e-8040-4f1a-88b2-9e511d7ea9e3,Caden Curry,EDGE,,67.98,,72.07,68.93
+2026,16af396a-d0ef-4c28-8b75-c6e380392b53,Caleb Banks,DT,,77.37,,66.19,71.42
+2026,31b56715-7c58-441b-a7f9-a2bb20aeb92a,Caleb Douglas,WR,,74.95,,66.63,72.79
+2026,095ce0fa-e258-4b09-abda-e3ed5521d153,Caleb Downs,SAF,,76.29,,81.43,83.74
+2026,7de04d8d-389b-4f20-a01c-0337ce0eb53f,Caleb Lomu,OT,,88.54,,76.05,81.32
+2026,2d591ba1-ae64-459a-b443-78609241160c,Caleb Tiernan,OT,,74.33,,74.06,75.53
+2026,30b3387a-5006-4456-9118-64f72c66de12,Cameron Ball,DT,,62.61,,64.74,64.97
+2026,ca4de2b6-af6c-47ff-bab0-b99d33dab5bb,Carnell Tate,WR,,65.32,,77.65,77.44
+2026,8b08be5c-46a5-48a9-a515-ce3b602816c2,Carson Beck,QB,,69.71,,83.95,77.09
+2026,d2501b60-0c62-4f66-a6cb-aedc8123aa05,Carver Willis,OT,,67.97,,64.78,68.39
+2026,1a9fc313-117c-42de-9ec4-10443e0110da,Cashius Howell,EDGE,,73.63,,74.1,76.97
+2026,3825ef7b-a07e-4c4c-a000-7c4340ed183c,Caullin Lacy,WR,,52.35,,68.81,66.21
+2026,940d1d32-d117-43ac-aeca-0adc1d8b2095,Chandler Rivers,CB,,77.41,,69.75,75.65
+2026,170a14bb-c87e-4876-8ac8-1ca0ab827a8a,Charles Demmings,CB,,88.18,,74.44,79.44
+2026,55f3e0b8-d277-45a2-9102-eca941c2ee50,Chase Bisontis,G,,81.09,,70.21,77.16
+2026,7dd33483-8d29-41bf-b659-4e3beb685b45,Chase Roberts,WR,,66.53,,69.96,71.59
+2026,53481cbe-6284-41dd-a201-a804354c867e,Chris Adams,OT,,72.02,,58.5,68.2
+2026,5b1f09cc-a4b2-4bb9-b116-c2234abb9763,Chris Bell,WR,,79.9,,74.21,78.4
+2026,6a16fe62-4789-4b67-beab-2cc9b5d3c6a8,Chris Brazzell II,WR,,82.62,,72.46,77.98
+2026,eec6df8c-2130-4f39-96fb-ae40946535c8,Chris Hilton Jr.,WR,,70.91,,55.85,68.13
+2026,5ddd05b5-aca6-4c20-b717-397d31572f1d,Chris Johnson,CB,,84.49,,70.03,79.26
+2026,bac9d2ec-7ff3-4642-9770-fe5d97c1f217,Chris McClellan,DT,,67.68,,71.79,70.51
+2026,5dd6ac8e-d64a-4b89-b7ce-d4b47d074881,Christen Miller,DT,,68.03,,71.74,70.98
+2026,d9eb6957-bd40-41d7-b50a-8344a1dc3005,Colbie Young,WR,,79.84,,63.78,73.09
+2026,4c58e6ba-7e1b-4194-b4c3-acf4bc0a0032,Cole Payton,QB,,83.16,,65.6,74.81
+2026,ea93c139-d46f-40c2-9011-bdd12d7349a5,Collin Wright,CB,,66.09,,63.44,67.74
+2026,a0ffe693-9f4b-4458-8c2e-797c6ff199fc,Colton Hood,CB,,82.06,,75.94,81.62
+2026,7087fa41-b95c-4954-b9b6-e45cbabe81fc,Connor Lew,C,,72.97,,70.12,74.73
+2026,61640e77-9d4c-48a4-afc1-7b74c3352753,D'Angelo Ponds,CB,,70.26,,83,77.83
+2026,0b97467d-fa24-4119-b7c2-e65917af7308,DJ Campbell,G,,81.07,,63.32,71.29
+2026,06308953-72d2-4ce4-b6de-fbb187b7dd04,DJ Rogers,TE,,69.68,,68.71,68.86
+2026,7156c958-2278-4aaa-90ce-8beacb6ca841,Dae'Quan Wright,TE,,71.13,,76.96,76.01
+2026,219cc4ad-d771-457d-8d53-9aa219831968,Dallen Bentley,TE,,80.61,,68.54,74.61
+2026,207ed7a4-5ba6-48da-bb5c-11c98bd0f7c8,Dalton Johnson,SAF,,72.59,,68.47,71.16
+2026,2e3e7721-a4eb-4d8c-b454-61a843cc0509,Dametrious Crownover,OT,,75.41,,56.39,68.97
+2026,e934c456-76c7-40fa-81ef-97195c7090c5,Damonic Williams,DT,,69.19,,60.73,63.42
+2026,7aa35736-0ba0-4806-a54a-48eb75d436e5,Dani Dennis-Sutton,EDGE,,85.38,,75.22,77.51
+2026,18294d9e-63b3-4b50-8291-a7545a2fc578,Darrell Jackson Jr.,DT,,67.96,,69.29,71.35
+2026,aecc62b8-a52a-46eb-b39a-50fe0a874a0e,David Bailey,EDGE,,79.67,,98.14,86.47
+2026,e4731ce1-6ed2-46ea-9278-0c4d63b01fe1,David Gusta,DT,,91.01,,60.93,72.34
+2026,ea49ea08-f421-499f-9dfe-329af74c1ca4,Davison Igbinosun,CB,,64.64,,74.7,73.8
+2026,36ac2bcc-5dc7-4368-8794-78827c9dc4f8,Daylen Everette,CB,,84.24,,64.61,75.1
+2026,e7292708-a2a9-4f2e-b676-b13752c18340,De'Zhaun Stribling,WR,,85.46,,68.95,76
+2026,efde2fd0-d797-41f4-a6b0-d1b7821aa738,DeMonte Capehart,DT,,84.73,,63.71,71.4
+2026,554af848-9ba2-49d3-863c-8608b1540d70,DeShon Singleton,SAF,,78.89,,66.02,72.77
+2026,0961d644-229a-42fe-9b3e-8676eab74b85,Deion Burks,WR,,92.92,,61.35,77.34
+2026,b03915d8-3fd4-49ac-82d4-37a2b4f1bf70,Demond Claiborne,RB,,80.74,,55.81,68.36
+2026,899bbb34-08ea-4515-8ff7-f4db5c695daf,Denzel Boston,WR,,71.24,,75.2,77.37
+2026,450c7425-8983-49ea-861a-91f71e5aaa66,Deontae Lawson,LB,,69.86,,68.62,70.07
+2026,78c527e2-9923-4855-883d-3141d18a5263,Derrick Moore,EDGE,,67.89,,77.81,72.71
+2026,bb713b7c-6497-412e-9ad6-a872ecb3b8b5,Desmond Reid,RB,,73.92,,76.57,71.97
+2026,818c233c-8366-4179-9413-d255834f79e0,Deven Eastern,DT,,61.35,,58.33,62.25
+2026,ff6e5f0e-73d7-49e8-bbec-3673640b9067,Devin Moore,CB,,69.01,,79.65,76.68
+2026,42ed090f-b233-4071-90ca-35ba52deace9,Diego Pavia,QB,,85.6,,74.11,77.34
+2026,6bb49c3b-c953-4dd8-8ba0-d2ec1a0b288c,Diego Pounds,OT,,82.33,,57.79,71.03
+2026,8cd3eef7-68d6-46e9-a8a0-202e7b94d797,Dillon Bell,WR,,79.94,,54.81,69.87
+2026,53fcdd12-a09e-479d-addd-08f06be57a14,Dillon Thieneman,SAF,,86.44,,76.86,80.5
+2026,5d42ed5b-a04a-49af-b145-59b596936952,Dillon Wade,G,,81.14,,61.33,69.93
+2026,24284823-0974-4d94-9add-083bee39fd9b,Domani Jackson,CB,,79.05,,65.08,71.85
+2026,d4297f61-4ae3-4b8a-898d-762fb4398df5,Dominic Zvada,K,,,,,
+2026,e851f767-520c-41f0-9c96-60f975c72013,Domonique Orange,DT,,69.62,,58.75,64.81
+2026,01392846-1921-4876-a51f-3b17ee480aac,Donaven McCulley,WR,,66.54,,53.09,58.07
+2026,c4478c66-f9a6-46fe-b5ac-2c00b1d1e0f2,Dontay Corleone,DT,,69.81,,65.18,68.01
+2026,6a77ebea-c7e0-4364-b1b0-3ed22e226de8,Drew Allar,QB,,75.36,,69,72.51
+2026,f72adefc-0138-423f-a390-d3c0b38948bf,Drew Shelton,OT,,78.55,,62.31,70.47
+2026,10188894-9801-4ec6-8df2-2935fecfc184,Drew Stevens,K,,,,,
+2026,5eeeba09-5e94-455e-878a-46b8050ff229,Eli Heidenreich,RB,,74.7,,69.65,69.35
+2026,161f9620-61d9-4178-950e-a9abd3b19806,Eli Raridon,TE,,77.19,,68.25,70.96
+2026,d342623d-a3ec-4c94-9d82-466f2f83274e,Eli Stowers,TE,,89.77,,81.8,85.75
+2026,6e3d25b1-56fb-4866-a90b-3847d8f86645,Elijah Sarratt,WR,,72.93,,83.16,79.21
+2026,f44e5742-e199-4a37-8ad0-eb802bb27086,Emmanuel Henderson Jr.,WR,,69.3,,64.96,62.63
+2026,53f26b43-7553-4736-a6c9-ffeeb12d706b,Emmanuel McNeil-Warren,SAF,,75.08,,80.6,81.43
+2026,bdafa9c9-fa1e-4c60-a9ae-9e17d391bd02,Emmanuel Pregnon,G,,79.54,,79.17,80.88
+2026,e4da5f73-f76a-42a9-8ddb-7f2fb72d6580,Emmett Johnson,RB,,63.84,,75.58,73.74
+2026,f0af61d9-0713-462e-9efe-18e0c79d0baa,Enrique Cruz,OT,,89.88,,63.69,71.14
+2026,81e19e94-8db7-4d1c-a0d9-9d067cf0843f,Ephesians Prysock,CB,,78.95,,64.53,72.51
+2026,8ecc9c16-cbe5-4d9f-af69-6a0f7563d258,Eric Gentry,LB,,70.92,,53.9,61.01
+2026,1f85078a-e4d0-45b9-b387-8af2dec16c49,Eric McAlister,WR,,68.72,,77.96,70.35
+2026,225babdf-354e-4a59-b325-046d223d9d7a,Eric Rivers,WR,,81.35,,75.12,76.1
+2026,0a1e2fe1-5192-44c0-8279-e9c4d633fac3,Evan Beerntsen,G,,62.26,,69.01,65.27
+2026,b202fa6d-fce0-4e3c-a836-e114e65581bf,Fa'alili Fa'amoe,OT,,71.24,,53.5,62.11
+2026,50644161-6802-4904-8403-303f54d2daa7,Febechi Nwaiwu,G,,77.22,,72.62,74.26
+2026,63851dbd-a5e6-4bd9-8654-e5cdff69c461,Fernando Carmona,G,,79.23,,71.31,70.83
+2026,065c9999-c256-42ec-a098-516a2296b387,Fernando Mendoza,QB,,76.35,,91.24,86.71
+2026,d47f2d0d-ed39-44d5-8766-ba0a834d8a76,Francis Mauigoa,OT,,73.22,,71.23,76.6
+2026,a96bfdd5-b394-43c2-9d89-0b6d236a1e05,Gabe Jacas,EDGE,,74.54,,74.6,74.08
+2026,009a817c-5806-48be-beee-81c4854d4495,Garrett DiGiorgio,G,,68.93,,54.16,57.18
+2026,838ac596-c7a0-479f-bc5c-314d4178d01f,Garrett Nussmeier,QB,,72.09,,62.95,70.47
+2026,5fc61ef6-128e-46f1-9292-df07e1040a4a,Gary Smith III,DT,,62.03,,55.12,60.31
+2026,978e8773-baaf-44c0-a5d2-b508c7eaf251,Genesis Smith,SAF,,79.8,,66.78,72.23
+2026,05ab3f56-b61b-4d23-b36f-743e39f847e1,Gennings Dunker,G,,86.03,,59.12,75.19
+2026,7ba92150-7093-4193-9098-8dba777405b5,George Gumbs Jr.,EDGE,,74.89,,57.93,63.13
+2026,5ec4d348-a0f7-4a72-bac0-2932ca883837,Germie Bernard,WR,,74.18,,68.89,74.43
+2026,f4e73b94-32b0-4033-887c-9c68d0112224,Gracen Halton,DT,,75.72,,71.41,68.97
+2026,e685cfeb-ba2a-486c-96de-647d71770d3f,Harold Perkins Jr.,LB,,73.91,,59.29,66.67
+2026,a8282c9a-1cae-4609-be34-7aa3e7302235,Harrison Wallace III,WR,,65.68,,61.59,59.08
+2026,892af4cd-614c-479c-88f1-75e1cc138d4f,Haynes King,QB,,94.19,,61.06,73.35
+2026,f2ba8914-3879-41b3-8245-8861f3cee761,Hezekiah Masses,CB,,53.26,,66.69,62.41
+2026,254028b4-587c-4f77-b3c7-2dbaee0d7903,Isaiah World,OT,,70.27,,56.5,67.85
+2026,5f6edbbd-0628-4cc8-8f7b-196892a7ca0d,J'Mari Taylor,RB,,68.22,,69.32,68.52
+2026,5efc5b34-3b94-451b-afbc-a24f5c37fedb,J. Michael Sturdivant,WR,,85.98,,58.02,71.48
+2026,0e0a18b2-58c2-480f-8d42-fa31a20790b3,J.C. Davis,OT,,77.84,,67.09,71.79
+2026,7f948cde-66d4-4e1c-b443-1104bdf12c85,Ja'Kobi Lane,WR,,79.09,,68.43,74.49
+2026,73b50a4b-9033-4980-b766-164409e2a5ff,Jack Endries,TE,,78.52,,68.41,75.05
+2026,c44f8bac-bd68-47b6-9776-db4064e15d54,Jack Kelly,LB,,86.27,,57.18,71.13
+2026,f18669be-6714-420c-aaa3-41192239ea1f,Jack Pyburn,EDGE,,68.03,,64.48,58.63
+2026,d1e1a27e-fb3f-4442-ad6a-0fc8c2a442ce,Jack Stonehouse,P,,,,,
+2026,69e30bc9-3ec8-4daf-9d8b-dde2eccbff96,Jackie Marshall,DT,,74.99,,55.58,60.04
+2026,62796f4a-6350-4adb-a36c-9281a29b3509,Jacob Rodriguez,LB,,85.82,,69.87,78.87
+2026,ea97b7d4-da1a-46f2-8a00-1ef2aa9afcb3,Jadarian Price,RB,,74.08,,73.19,75.78
+2026,ce711d27-289f-4477-bc92-d6e5ccca179c,Jadon Canady,CB,,61.98,,67.53,65.75
+2026,265d0dc7-728d-4472-a9d3-28b00684efcb,Jaeden Roberts,G,,78.59,,70.84,73.72
+2026,8b8431b9-d113-4ff6-ab7d-a526460d3995,Jager Burton,C,,82.97,,54.38,60.3
+2026,aae3b52a-3e19-43e5-9165-e7682b98de38,Jaishawn Barham,EDGE,,62.48,,58.9,63.12
+2026,bc2f0490-3133-4a1d-abcd-d934b0aedb4a,Jake Golday,LB,,80.68,,82.19,83.8
+2026,d7f2a3c3-e240-415c-8d9c-89ad77a0b14d,Jake Slaughter,C,,73.39,,92.07,81.19
+2026,28882c62-84c4-4ca2-9e1f-7522f8371293,Jakobe Thomas,SAF,,70.15,,65.37,66.35
+2026,554d53b9-ce2e-42a6-811b-6777a60d2a41,Jalen Farmer,G,,82.84,,73.79,75.19
+2026,f6e1c400-e51b-44d7-88aa-f9376a43ea05,Jalen Huskey,SAF,,68.52,,73.77,71.47
+2026,1f1df957-afa6-4537-a351-5b91cecca857,Jalen Walthall,WR,,62.43,,72.33,66.4
+2026,77fb7d14-06a7-46bf-a0d3-ca6069268532,Jalon Daniels,QB,,79.05,,65.71,68.61
+2026,b657c93d-3507-4682-9ee6-02294b8038ce,Jalon Kilgore,SAF,,79.9,,68.52,74.72
+2026,7b4d6794-8205-471a-8d9e-1c7a09c0ba63,Jam Miller,RB,,78.6,,51.84,58.68
+2026,93576253-d1a6-4121-8d61-2825243ba027,James Brockermeyer,C,,,,,
+2026,83a917eb-ea84-4c93-8ab0-fbd00dc61b0f,Jaren Kanak,TE,,86.17,,57.5,69.57
+2026,c1898b7d-5550-4518-ab20-b5ebb64c8f69,Jaylon Guilbeau,CB,,65.02,,54.09,60.21
+2026,6ab05c27-5a5e-42c0-b698-bfd3d7f44403,Jeff Caldwell,WR,,99,,67.77,77.68
+2026,5f4595c8-f471-40f9-9a3a-a00953086df0,Jeremiah Wright,G,,71.42,,54.76,63.02
+2026,a7dd5d4e-1c94-4ffa-9f5b-43045c2b4ea0,Jeremiyah Love,RB,,83.37,,95.94,94.33
+2026,8029935b-3120-4717-82d0-8b0e7f9bf4ba,Jermod McCoy,CB,,62.92,,78.3,75.43
+2026,2c4b6e9d-8533-45d8-aa97-e7ec33ce4ff4,Jimmy Rolder,LB,,75.06,,59.2,67.14
+2026,5b746a78-57ed-41a0-bc3c-3629cab56e75,Joe Fagnano,QB,,75.64,,64.69,69.93
+2026,1ec3184c-56c1-42c8-92f0-1b01bb194a74,Joe Royer,TE,,68.29,,65.93,67.55
+2026,12275134-8a26-4dc8-8310-6f0fa7308d78,Joey Aguilar,QB,,74.24,,72.37,71.9
+2026,3078ea11-507f-410a-86c2-6542b488ec01,John Michael Gyllenborg,TE,,83.79,,64.03,72.54
+2026,30b3612f-ad79-416f-9bd3-1a043d905c73,Jonah Coleman,RB,,68.64,,79.97,77.14
+2026,fb14c36f-7ca2-4a4f-a4d4-3dded650ac31,Jordan Hudson,WR,,66.15,,65.28,61.36
+2026,59053d1d-09c6-40ff-8534-abc228c77344,Jordyn Tyson,WR,,79.93,,79.65,86.19
+2026,1139a332-8675-4854-90ff-33501ad18b1c,Josh Cameron,WR,,80.25,,56.75,69.96
+2026,90473fae-f5fb-43c7-aa1a-414091628d31,Josh Cuevas,TE,,68.27,,76.11,70.22
+2026,0027f295-c6ff-41bd-8482-9a54731887f4,Joshua Braun,G,,73.96,,65.32,66.6
+2026,aa632df3-4f56-44cc-9234-6a7c2d4e4bdf,Joshua Josephs,EDGE,,68.12,,67.46,68.97
+2026,c6b2078c-497b-4ea3-b58f-4af54dbf5d7c,Josiah Trotter,LB,,67.81,,63.32,69.08
+2026,404094c6-b1d2-4a3f-9bb0-50cc012144d7,Jude Bowry,OT,,88.71,,56.4,72.43
+2026,b75f9c04-b609-4648-bbf9-75832492ca0f,Julian Neal,CB,,75.55,,71.38,74.75
+2026,11cfde18-f521-4f72-8d98-ed99e61d9189,Justin Jefferson,LB,,82.12,,65.5,71.75
+2026,10bfd2ab-6fa9-4eed-aac2-954dcdfa453d,Justin Joly,TE,,69.66,,77.64,74.38
+2026,615a7e5e-3623-4107-a8ed-6bf42dea5b0e,KC Concepcion,WR,,71.42,,74.54,77.24
+2026,41a178f0-1f1d-4094-b89f-c9e83c35f471,Kaden Wetjen,WR,,66.57,,56.8,60.41
+2026,77116485-d55d-4f9a-9853-02379f67c768,Kadyn Proctor,OT,,83.69,,72.97,80.26
+2026,8f847133-c82b-4513-974e-253c55c3144b,Kaelon Black,RB,,,,,
+2026,2199c1ca-e920-49ad-9852-6079ad08d59a,Kage Casey,OT,,66.08,,68.94,67.72
+2026,45bfdab9-5066-4ecc-9ddf-392269479d69,Kaleb Elarms-Orr,LB,,82.55,,66.92,73.75
+2026,52145f83-1e92-4ebe-aaa1-1daeb9c7f7a2,Kaleb Proctor,DT,,83.3,,67.19,69.65
+2026,0e58393e-1532-4c7c-86da-f5d0cfc159b1,Kamari Ramsey,SAF,,77.55,,76.23,78.78
+2026,a46fd386-99df-41ab-94ad-152d77c94dc6,Karson Sharar,LB,,84.26,,64.75,73.71
+2026,efbbf41f-a916-41ce-9b5b-68dde5d720b1,Kayden McDonald,DT,,67.26,,72.58,73.06
+2026,0771bbfc-37d0-4f6a-9870-62eecab2f4c4,Kaytron Allen,RB,,69.67,,68.62,69.46
+2026,d5ce59e7-d075-405e-a410-73ce844454e7,Keagen Trost,OT,,71.23,,81.56,73.88
+2026,d4ad7550-5036-4321-a5c1-d75e6207c6ac,Keionte Scott,CB,,74.24,,62.14,71.27
+2026,e9499b70-1c2b-4035-bb58-9815571de641,Keith Abney II,CB,,61.27,,73.98,72.45
+2026,4d4ef60c-9a92-4d88-9880-c28ab6b86c33,Keldric Faulk,EDGE,,75.82,,72.55,78.25
+2026,eb6f8a68-ddbf-4e15-88aa-b7e94423d190,Kendal Daniels,LB,,72.85,,61.69,67
+2026,fced2332-c8a0-4c78-b13d-26ac9b30d20e,Kendrick Law,WR,,82.31,,57.25,70.51
+2026,61566c3f-d554-4085-9ee1-221b360c38b9,Kenyon Sadiq,TE,,94.58,,80.11,93.11
+2026,7ec76fd0-f17b-4a5e-9375-dc0daf5e8a08,Kevin Coleman Jr.,WR,,66.49,,64.23,66.73
+2026,51b0c6dc-ce8b-46a7-9643-025c44309966,Keylan Rutledge,G,,89.98,,69.73,78.19
+2026,254b2028-ba0f-4554-bdda-f0372a4575d3,Keyron Crawford,EDGE,,65.29,,73.1,67.1
+2026,35e1eef4-837b-47a5-9ff2-39a74b783be3,Keyshaun Elliott,LB,,78.45,,58.85,68.13
+2026,e27d048d-773c-472c-b3e7-a19a316830a5,Khalil Dinkins,TE,,64.53,,66.17,65.09
+2026,7c625915-edbb-4c62-8c12-9e8c036e6748,Kyle Louis,LB,,86.44,,69.51,75.46
+2026,fd78aa5b-e9a7-4dda-9f20-f55bc45c11fb,LT Overton,EDGE,,65.97,,67.3,69.07
+2026,498cb39f-47de-41e9-9116-bfe3cd3dd20b,Lake McRee,TE,,73.2,,62.94,65.5
+2026,485bc1e6-7b6b-4289-ad34-fef575917ee9,Lander Barton,LB,,72.7,,57.4,65.96
+2026,24431fd7-2e5d-4d38-b29d-dd4f1248f22b,Latrell McCutchin Sr.,CB,,79.94,,62.49,70.49
+2026,19cdd1cd-48d1-449a-a266-2520f3101689,Le'Veon Moss,RB,,73.13,,54.47,59.87
+2026,94be8b69-ce5c-4984-b005-c925c1eba899,Lee Hunter,DT,,52.67,,81.73,72.76
+2026,36fbd3c8-8aaf-4a89-a454-62aee36e0e7a,Logan Fano,EDGE,,66.47,,61.09,58.77
+2026,f1abbbdd-2173-47e6-bbca-16318f36dbb5,Logan Jones,C,,86.84,,68.68,75.23
+2026,b7a1e8ed-33d6-4346-ad9c-c7f825fba8cd,Logan Taylor,G,,71.73,,53.53,56.82
+2026,ece22d0c-62c8-475a-a334-eaefecbf9523,Lorenzo Styles Jr.,SAF,,79.74,,57.1,65.02
+2026,a4eabbbf-929c-495e-8aeb-cfa0b3ba8bab,Louis Moore,SAF,,66.02,,73.6,71.09
+2026,6deab4a8-0e19-4214-8691-4e029119d26c,Luke Altmyer,QB,,76.6,,58.71,64.94
+2026,a6fd60a3-51a7-4b96-bf58-26b9d0828640,Makai Lemon,WR,,69.82,,90.73,84.74
+2026,66c52d9d-2ffa-43fd-8c56-716335593052,Malachi Fields,WR,,71.67,,69.64,74.15
+2026,80aa3d36-775d-4eb5-8bff-c5e1e22290b6,Malachi Lawrence,EDGE,,86.39,,68.72,72.95
+2026,77a6e8e3-ece6-4832-926b-c45f5a548caf,Malik Benson,WR,,75.17,,65.49,70.73
+2026,010950f0-c3e2-416e-8667-89fe53900a2f,Malik Muhammad,CB,,75.8,,69.83,73.19
+2026,970c6e20-317c-49bd-b32e-9fff4f9453ee,Mansoor Delane,CB,,64.64,,81.51,77.42
+2026,aa262f65-a4ec-4801-a893-64dd2ad849d0,Marcus Allen,CB,,59.58,,62.74,64.36
+2026,f1eb1a3c-9127-44b1-8e15-13c864ef3b37,Markel Bell,OT,,72.21,,67.24,70.42
+2026,50c66208-9e15-46b4-93cb-060284dc003f,Marlin Klein,TE,,71.07,,58.2,65.46
+2026,a2fa2fe6-2ac1-424d-8d81-94b681f2c749,Marvin Jones Jr.,EDGE,,62.76,,52.71,56.39
+2026,69e94ef0-0763-4307-b8fd-2817a5d93c4a,Mason Reiger,EDGE,,79.67,,67.59,66.67
+2026,70c01e1d-c204-427e-94df-930299cec177,Matt Gulbin,C,,67.7,,81.46,73.33
+2026,4ac3010f-c5c2-46fd-871b-73a3409b9685,Matthew Hibner,TE,,86.16,,67.44,72.27
+2026,88880e4e-2a9a-48bb-b41e-67a62bfdef40,Max Bredeson,FB,,64.19,,57.1,66.44
+2026,3051bd19-ce50-4666-9352-d9800fc20d6f,Max Iheanachor,OT,,89.68,,61.94,77.15
+2026,1aee79b9-4a90-401d-8af4-d361c5b6d6c5,Max Klare,TE,,68.31,,71.56,76.14
+2026,41f78736-f6bf-4008-9b19-f9ea3f37aba0,Max Llewellyn,EDGE,,64.84,,67.47,65.87
+2026,0d7a4e1b-c678-4c81-9bf2-6ccbd6cc542e,Micah Morris,G,,84.98,,72.63,73.28
+2026,1d63c414-c805-4190-ab05-4cedc9652a79,Michael Taaffe,SAF,,70.02,,72.84,70.23
+2026,6a64e972-a5a7-4039-abd6-6c5f90115318,Michael Trigg,TE,,70.14,,69.01,72.02
+2026,1d9f05fb-b9d2-4316-8981-6c198ee443e6,Mike Washington Jr.,RB,,92.29,,54.77,71.16
+2026,5c605793-8616-4876-934b-7cf20c00f5c8,Miles Kitselman,TE,,57.44,,66.27,63.92
+2026,95c977df-28a3-413a-9e85-c72d2015c8f4,Monroe Freeling,OT,,89.89,,72.02,80.65
+2026,a58c0cd0-cba3-43cb-a5d5-f781c50256be,Nadame Tucker,EDGE,,64.58,,78.03,68.49
+2026,664bac34-6572-464a-9d14-53eb9b7d04a0,Namdi Obiazor,LB,,72.5,,53.13,62.64
+2026,175a2b8a-75bf-4eb6-b8f8-6dee6bf26860,Nate Boerkircher,TE,,66.02,,67.13,67.55
+2026,8cf1ed10-9341-47c2-9175-4dd4a976d096,Nicholas Singleton,RB,,76.28,,63.64,71.88
+2026,a8eb4b6f-9e94-4af9-85cd-939776291244,Nick Barrett,DT,,65.55,,57.57,60.17
+2026,855a9b88-a5ae-446d-92a4-ea5771b026ee,Noah Whittington,RB,,73.2,,54.64,57.7
+2026,2bb8a3ec-6ff4-4a0d-9194-d2281fa78229,Nyjalik Kelly,EDGE,,65.19,,57.34,58.43
+2026,21cfaaf6-aa1c-4a87-bd14-03e5efaa61c8,Olaivavega Ioane,G,,73.66,,75.53,79.71
+2026,57bad83a-9395-4cb1-b105-0100022d20d0,Omar Cooper Jr.,WR,,75.98,,80.74,79.96
+2026,2e65fe3f-354a-4b55-b1f9-8e14c416c404,Oscar Delp,TE,,69.18,,68.02,68.75
+2026,bc06aa8a-48b1-483c-ab0d-321ac96d35a2,Owen Heinecke,LB,,74.23,,58.4,67.59
+2026,0ac4228e-51a4-44bb-b4eb-e57d9fb686c2,Parker Brailsford,C,,67.49,,62.48,66.1
+2026,a49bac51-5a49-489c-9076-19ccb909d657,Pat Coogan,C,,72.65,,60.79,65.68
+2026,38713cc5-fb50-4b5e-9cc2-ee9c82968a87,Patrick Payton,EDGE,,67.92,,61.39,59.63
+2026,5a065574-13e7-44eb-9953-ca012001d677,Peter Woods,DT,,76.32,,80.55,79.29
+2026,fead388b-298d-46db-96cf-6bb2bdd1aaf1,Quintayvious Hutchins,EDGE,,55.06,,52.83,53.61
+2026,f128d2a8-07ff-441b-9d21-f9f4c9a684de,R Mason Thomas,EDGE,,62.12,,69.1,68.34
+2026,ecf753f8-4e81-4e54-bdb6-fe6c0ffed903,RJ Maryland,TE,,79.78,,68.32,70.73
+2026,fb5e9721-886d-43fb-8a89-a1a54f8bc916,Rahsul Faison,RB,,72.66,,56.83,64.88
+2026,83752804-0521-444a-9346-2d1d868961af,Rayshaun Benny,DT,,75.25,,65.27,67.37
+2026,1c4162b5-dd5b-4ee5-9bbb-bf2d61a951b1,Red Murdock,LB,,66.94,,66.32,66.68
+2026,61b41374-6f6d-4ddb-964a-56fa88016e54,Reggie Virgil,WR,,63.3,,57.09,64.43
+2026,459ed252-a78a-4d96-b10e-a8f2250b3d07,Riley Nowakowski,TE,,75.79,,62.5,68.45
+2026,090693e2-7198-497c-af27-7a80680dd1e0,Robert Henry Jr.,RB,,69.34,,62.56,58.48
+2026,cb92de8f-4741-4f66-a15d-94b79aca11c6,Robert Spears-Jennings,SAF,,79.02,,60.07,69.81
+2026,147a9780-297f-4d4e-8c54-79a5a796f1f9,Roman Hemby,RB,,72.83,,58.35,63.61
+2026,1878bbb3-e882-4e6c-bcc0-87dc17effbd3,Romello Height,EDGE,,73.24,,74.73,73.21
+2026,2791684e-5a4a-41d3-b38d-ba156ca7de67,Rueben Bain Jr.,EDGE,,68.36,,92.55,84.46
+2026,abb1c15b-1149-4b8c-8e33-103265e0e0e2,Ryan Eckley,P,,,,,
+2026,9537a4c7-4974-4162-9731-18762f19301c,Sam Hecht,C,,68.38,,79.42,74.22
+2026,5155895f-cc44-4cca-a824-c56b6b1ae08f,Sam Roush,TE,,88.64,,60.04,74.57
+2026,21917481-64d1-4189-acf8-889514f39d7a,Sawyer Robertson,QB,,65.29,,65.83,67.34
+2026,fcb6fbf0-e8b7-490c-9cf6-96d4baf6f8fa,Scooby Williams,LB,,71.04,,51.99,60.78
+2026,069e8e0b-632a-41e5-a38b-00164487acd1,Seth McGowan,RB,,73.8,,63.58,67.29
+2026,b5b0e2c3-ba7b-41f8-8676-68b0b5fcc2c4,Skyler Bell,WR,,83.45,,73.28,77.37
+2026,c0da61b7-1adf-4226-9e02-9ec0de057914,Skyler Gill-Howard,DT,,75.81,,67.58,66.58
+2026,8f8d1bb6-1658-4fbf-92cb-e2289c7a4c61,Sonny Styles,LB,,91.78,,90.56,94.31
+2026,2f7252ee-50c9-4af2-a536-a980d8ca7d07,Spencer Fano,OT,,89.95,,85.2,90.93
+2026,64dfc640-1044-48ad-b53e-cef2915fe267,T.J. Parker,EDGE,,76.01,,74.42,77.98
+2026,173931b5-1b63-406e-835e-64678c05d0ca,TJ Hall,CB,,58.52,,62.33,64.66
+2026,42e24757-1666-4f20-879a-f7ed49042799,Tacario Davis,CB,,77.55,,66.75,72.74
+2026,ff307c4a-241b-4b10-8294-7ea1dd71306d,Tanner Koziol,TE,,71.61,,68.14,69.03
+2026,de64af03-4f0f-4925-a4db-5d86d2e21a28,Taurean York,LB,,63.37,,71.03,68.83
+2026,15214fbf-ddf6-42e5-b0b7-fb950cab71f8,Taylen Green,QB,,96.95,,68.22,76.62
+2026,9cf09775-ad40-4f2f-a390-a575704dace1,Ted Hurst,WR,,85.62,,69.81,75.83
+2026,1d8ca5ad-5aab-4a2a-8a0e-d6b540c8ba59,Thaddeus Dixon,CB,,72.32,,64.73,69.94
+2026,29897180-2604-4047-bb06-e2f52b710cb2,Tim Keenan III,DT,,57.01,,60.2,59.78
+2026,1476f138-9247-423f-990c-d64a908f1004,Tommy Doman Jr.,P,,,,,
+2026,0ec6f842-c6b3-4a98-8f39-9f537fc1bcea,Toriano Pride Jr.,CB,,74.55,,61.73,66.24
+2026,ecba10ae-c983-4cae-ae9f-464f5f5633e9,Travis Burke,OT,,81.39,,66.14,70.12
+2026,c253c497-b69d-4021-a2f3-9392164d375f,Trey Moore,EDGE,,75.76,,72.43,69.34
+2026,390cbeed-d4ee-4394-9340-ab97500f92b3,Trey Smack,K,,,,,
+2026,d658cad0-3370-446e-9c8e-75547605326a,Trey Zuhn III,C,,73.91,,65.35,68.48
+2026,ff310b82-42cf-464e-89d3-b30e82af9949,Treydan Stukes,SAF,,78.53,,73.73,76.85
+2026,39d883e1-1a7b-4467-9be3-0f88b7f4071a,Ty Simpson,QB,,72.03,,68.98,74.78
+2026,93b3f8cf-03d8-4d0e-9b11-787aa7f3a79e,Tyler Onyedim,DT,,74.97,,63.7,65.92
+2026,0d7d48c7-73ec-4ce8-8dca-66a926502525,Tyreak Sapp,EDGE,,69.53,,65.66,67.42
+2026,02b00360-add6-4a43-8553-32675eeb299d,Tyren Montgomery,WR,,,,,
+2026,3556a153-61c0-4cd2-a567-e4e3e1732941,VJ Payne,SAF,,79.86,,60.83,69.88
+2026,86c549f9-3a21-417b-96da-568315160cc1,Vincent Anthony Jr.,EDGE,,65.35,,64.64,64.33
+2026,b96ac3e7-bdc7-4bc0-8fad-70248ffbc534,Vinny Anthony II,WR,,62.69,,53,54.99
+2026,0a16f464-8f09-40c8-9120-dde49ccbdf81,Wade Woodaz,LB,,69.87,,72.37,70.48
+2026,fd286b48-f1f0-4edf-9bc1-4d53595f1ffc,Wesley Bissainthe,LB,,69.26,,66.09,67.54
+2026,63943402-2f33-4807-b10a-dc60813f970d,Wesley Williams,EDGE,,65.94,,72.23,62.6
+2026,9132a58c-9501-4b2c-b87d-81af4ba5a412,Will Kacmarek,TE,,73.91,,62.58,67.85
+2026,f1b41f0a-c2e0-4803-80cc-7c995e14c735,Will Lee III,CB,,69.62,,67.11,70.8
+2026,429d7af4-863c-4f1f-b86f-f863bbf44535,Xavian Sorey Jr.,LB,,73.92,,55.14,65.83
+2026,038fd382-45d3-43bb-ac07-76ac5dd0f018,Xavier Nwankpa,SAF,,78.35,,62.3,67.9
+2026,15811a18-5f45-4b0b-a26d-f5d96a25b14e,Zachariah Branch,WR,,85,,71.83,79.46
+2026,592f9e84-e82c-4cd8-9102-989496931ee2,Zakee Wheatley,SAF,,69.9,,64.82,70.18
+2026,3d24b1c9-97a2-4567-bc3f-7493fdd88c35,Zane Durant,DT,,88.66,,58.72,69.51
+2026,ea2d7ddb-67e8-42c8-b9c1-955312c1f3c0,Zavion Thomas,WR,,82.64,,52.79,69.47
+2026,c7e9a15a-b966-4509-a0c1-7279b83411b1,Zion Young,EDGE,,68.12,,79.57,74.08
+2026,e0ab36c7-e5c6-4934-98e4-18fef79c0774,Zxavian Harris,DT,,64.54,,59.94,65.15

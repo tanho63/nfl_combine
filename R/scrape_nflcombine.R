@@ -41,7 +41,7 @@ scrape_combine <- function(season){
 }
 
 x <- tibble::tibble(
-  season = 2008:2025 |> as.character()
+  season = 2008:2026 |> as.character()
 ) |>
   dplyr::mutate(
     data = purrr::map(season,scrape_combine)
@@ -80,5 +80,9 @@ scout_grades <- x |>
 
 data.table::fwrite(ngs_scores,"data/ngs_scores.csv")
 data.table::fwrite(scout_grades,"data/scout_grades.csv")
-
 saveRDS(x,"data/raw_combine_data.rds")
+combine_results <- x |>
+  tidyr::unnest_wider(dplyr::where(is.list), names_sep = "_") |>
+  janitor::clean_names() |>
+  dplyr::mutate(person_college_names = purrr::map_chr(person_college_names, toString))
+data.table::fwrite(combine_results, "data/combine_results.csv")
